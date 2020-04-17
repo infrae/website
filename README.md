@@ -1,0 +1,2 @@
+# website
+Infrae static site
