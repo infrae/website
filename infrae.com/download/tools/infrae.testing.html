@@ -1,0 +1,682 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Download: infrae.testing</title>
+<base href="" />
+<meta charset="UTF-8" />
+<meta name="generator" content="Silva" />
+<meta name="keywords" content="download, open source, software, products, infrae" />
+<meta name="description" content="Download areas for all of Infrae's open source products." />
+<link rel="schema.dcterms" href="http://purl.org/dc/terms/" />
+<meta name="dcterms.subject" content="Downloads of Infrae Products." />
+<meta name="dcterms.abstract" content="Download areas for all of Infrae's open source products." />
+<meta name="dcterms.rightsHolder" content="Infrae">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+<meta property="twitter:card" content="summary" />
+<meta property="twitter:domain" content="infrae.com" />
+<meta property="twitter:site" content="@infrae" />
+<meta property="twitter:url" content="http://infrae.com/download/tools/infrae.testing" />
+<meta property="twitter:title" content="infrae.testing" />
+<meta property="twitter:description" content="Downloads of Infrae Products." />
+<meta property="twitter:image:src" content="http://infrae.com/images/infrae_logo120w.png" />
+<meta property="og:url" content="http://infrae.com/download/tools/infrae.testing" />
+<meta property="og:site_name" content="infrae.com" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="infrae.testing" />
+<meta property="og:description" content="Download areas for all of Infrae's open source products." />
+<meta property="og:image" content="http://infrae.com/images/infrae_logo120w.png" />
+<meta name="geo.region" content="NL-ZH" />
+<meta name="geo.placename" content="Rotterdam" />
+<meta name="geo.position" content="51.927423;4.466578" />
+<meta name="ICBM" content="51.927423, 4.466578" />
+<meta name="robots" content="index, follow" />
+<meta name="revisit-after" content="10 days" />
+<link rel="canonical" href="infrae.testing.html" />
+<link rel="apple-touch-icon" href="../../++static++/silvatheme.renaissance/:version:1.0/img/mobicon.png" />
+<link rel="copyright" title="Copyright" href="../../copyright.html" />
+<link rel="alternate" type="application/x-wiki" href="http://infrae.com/download/tools/edit" title="Edit this page (login required)" />
+
+
+<link rel="shortcut icon" href="../../++static++/silvatheme.renaissance/:version:1.0/img/favicon.ico" />
+<!-- Injector for on-the-fly inclusion -->
+
+
+<link rel="stylesheet" type="text/css" href="../../++static++/silvatheme.infraecommon/:version:2013-12-19T15:20:10/:bundle:html5reset.css%3Btypography.css" />
+<link rel="stylesheet" type="text/css" href="../../++static++/silvatheme.renaissance/:version:1.0/:bundle:renaissance.css%3Bcontent.css" />
+<script type="text/javascript" src="../../++static++/jquery/:version:1.8.2/jquery.min.js"></script>
+<script type="text/javascript" src="../../++static++/silvatheme.infraecommon/:version:2013-12-19T15:20:10/modernizr-1.7.min.js"></script>
+</head>
+<body class="infrae-testing">
+<header>
+  <nav class="container">
+    <ol>
+      <li>
+        <a href="../../index.html"
+           title="Infrae Homepage" class="icon icon-home">Home</a>
+      </li>
+      <li>
+        <a title="View this page on the mobile site" class="icon icon-mobile" href="http://m.infrae.com/download/tools/infrae.testing">
+          to mobile page
+        </a>
+      </li>
+      <li>
+        <a href="../../news.html" class="" title="Infrae News">News</a>
+      </li>
+      <li>
+        <a href="../../about.html" class="" title="About">About</a>
+      </li>
+      <li>
+        <a href="../../products.html" class="" title="Products">Products</a>
+      </li>
+      <li>
+        <a href="../../download.html" class="active" title="Download area">Download</a>
+      </li>
+      <li>
+        <a href="../../service.html" class="" title="Services">Services</a>
+      </li>
+      <li>
+        <a href="../../contact.html" class="" title="Contact">Contact</a>
+      </li>
+      <li>
+        <a href="../../presentations.html" class="" title="Presentations">Presentations</a>
+      </li>
+      <li>
+        <a href="../../search.html" title="Search the site"
+           class="icon icon-search" id="searchtrigger">Search</a>
+      </li>
+    </ol>
+  </nav>
+  <form action="../../search.html">
+    <section style="display: none" id="search" class="container">
+      
+      Search the site:
+      <input type="text" name="fulltext" />
+      <button type="submit" name="search_submit" value="Submit">Go</button>
+    </section>
+  </form>
+  <script type="text/javascript">
+    $(document).ready(function(){
+       $("section#search").hide();
+       $("a#searchtrigger").toggle(function(event){
+       event.preventDefault();
+       $(this).addClass('active');
+       $("section#search").slideDown(200);
+       $("section#search input").focus();
+    }, function(event) {
+       event.preventDefault();
+       $(this).removeClass('active');
+       $("section#search").slideUp(200);
+    });
+    });
+  </script>
+</header>
+
+
+
+<div id="main" class="silva-software-package">
+  <div class="container">
+    <article class="col66 first">
+
+  <a href="infrae.testing.html#skip-to-releases" class="skip-link"
+     style="float: right">
+    Jump to releases
+  </a>
+
+  
+
+  
+  
+  <h2>infrae.testing</h2>
+<p> infrae.testing defines sanes tests layers for testing in Zope 2, to
+use in conjunction with <a class="link" title="" target="" href="http://pypi.python.org/pypi/zope.testing">zope.testing</a>.</p>
+<p> Contents</p>
+<ul class="disc"><li><p><a class="link" title="" target="" href="infrae.testing.html#api">API</a></p></li><li><p><a class="link" title="" target="" href="infrae.testing.html#examples">Examples</a></p><ul class="disc"><li><a class="link" title="" target="" href="infrae.testing.html#zcmllayer">ZCMLLayer</a></li><li><a class="link" title="" target="" href="infrae.testing.html#zope2layer">Zope2Layer</a></li></ul></li><li><p><a class="link" title="" target="" href="infrae.testing.html#code">Code</a></p></li></ul><h2><a class="link" title="" target="" href="infrae.testing.html#id1">API</a></h2>
+<p> It defines:</p>
+<ul class="disc"><li><p>A ZMLLayer which load a ZCML file before your test, and clean
+up after,</p></li><li><p>A Zope2Layer which setup a Zope 2 test instance in a layer.</p><p> You can customize the layer setup to add your tested application
+(like to create a Portal instance).</p><p> If you define the shell environment variable SETUP_CACHE while
+running the tests, this last setup step will be cached in a
+FileSystem Storage. This makes it reusable between different testing
+sessions, and let you save a considerable amount of time while
+running your tests. Of course don't use the cache if you changed how
+you installed your application.</p><p> By default it provides a environment which is exactly equivalent to
+the one provided by a real running Zope 2 instance (with all VHM,
+session support, temp_folder ...).</p><p> If you compare it to the code of the Testing module in Zope 2,
+it does the same thing, but it is simpler (and so readable), provides
+an environment which match more a running one and is faster (as you can
+cache the setup operation).</p><p> Every test is run in a separate DemoStorage (installed on top of the
+storage providing the installed application).</p></li><li><p>A TestCase base class that provides a bit more of assert methods:</p><dl class="dl"><dt>assertTriggersEvents(*events)</dt><dd>Context manager that will assert that the events with the given
+names have been triggered. </dd><dt>assertNotTriggersEvents(*events)</dt><dd>Context manager that will assert that the events with the given
+names have not been triggered. </dd><dt>assertEventsAre(events, interface=None)</dt><dd>Will assert that the event tiggered up until now are the one
+with the names in the given list. You can if you want restrict
+those events to the one implementing the given interface. </dd><dt>assertContentEqual(c1, c2)</dt><dd>Will assert that both Zope object are the same. </dd><dt>assertContentItemsEqual(l1, l2)</dt><dd>Will assert that both list contains the same Zope objects. The
+order is not important. </dd><dt>assertHashEqual(s1, s2)</dt><dd>Will assert that both md5 hash of the given string are
+equal. This is useful when comparing two large string, and that
+you wish to have readable output error message. </dd><dt>assertStringEqual(s1, s2)</dt><dd>Will assert that stripped version of both given strings are the same. </dd><dt>assertEventsAre(events, interface=None)</dt><dd>Will assert that the triggered events are the ones whose names
+are specified in the given list argument. You can restrict events
+to match to those who implements at least the given interface. </dd><dt>assertXMLEqual(xml1, xml2)</dt><dd>Will assert that both given XML strings have the same structure
+and data. The XML strings will be indented and after compared
+between them. In case of differences, the error will only report
+a diff between the indented XML strings.
+Of course don't use this method if you wish to compare two XML
+strings where spaces matters. An xmlindent script can be installed out of this package
+that indent the XML code exactly like the assertXMLEqual
+method does. </dd></dl></li><li><p>A TestMethods class that will provide you access to the assert
+methods without the need of a test case. This gives you access to
+all the default assert methods of the unittest.TestCase and the
+ones documented above.</p></li><li><p>The suite_from_package function will construct a
+unittest.TestSuite out of files found in a package. A *.txt
+file will create DocFileSuite, and a *.py will create a
+DocTestSuite. Other type of test files can be plugged in.</p></li></ul><p> If you use the ZCMLLayer or Zope2Layer, you have two different
+callbacks registry you can use:</p>
+<ul class="disc"><li>testCleanUp that is called after each test,</li><li>layerCleanUp that is called after each layer.</li></ul><p> Those callbacks registry have an add method that can be used in
+order to register a new cleanup function:</p>
+<pre>
+from infrae.testing import testCleanUp
+
+testCleanUp.add(my_cleanup_function)
+</pre>
+<h2><a class="link" title="" target="" href="infrae.testing.html#id2">Examples</a></h2>
+<h2><a class="link" title="" target="" href="infrae.testing.html#id3">ZCMLLayer</a></h2>
+<p> A example to test a package called corp.testpackage. The package
+as a ftesting.zcml file which should mainly load its own
+configure.zcml:</p>
+<pre>
+import unittest
+
+from infrae.testing import ZCMLLayer
+import corp.testpackage
+
+layer = ZCMLLayer(corp.testpackage)
+
+
+class MyTestCase(unittest.TestCase):
+
+    layer = layer
+</pre>
+<p> The layer provides you a grok() method that can be used to grok a
+module in your test later on.</p>
+<h2><a class="link" title="" target="" href="infrae.testing.html#id4">Zope2Layer</a></h2>
+<p> Now our corp.testpackage is a Zope 2 extension providing some
+content. We want to test it installed:</p>
+<pre>
+import unittest
+
+from infrae.testing import ZCMLLayer
+import corp.testpackage
+
+
+class CorpLayer(Zope2Layer):
+    """Add some installation tasks to the Zope2Layer.
+    """
+   default_products = Zope2Layer.default_products + ['CMFCore']
+   default_packages = Zope2Layer.default_packages + ['corp.testpackage']
+   default_users = Zope2Layer.default_users + {'corp_user': 'CorpRole'}
+
+   def _install_application(self, app):
+      factory = app.manage_addProduct['corp.testpackage']
+      factory.manage_addCorpPortal('portal')
+
+layer = CorpLayer(corp.testpackage)
+
+
+class MyTestCase(unittest.TestCase):
+
+    layer = layer
+
+    def setUp(self):
+        self.root = self.layer.get_application()
+        self.layer.login('corp_user')
+</pre>
+<p> Of course your ZCML <em>must</em> include the ZCML of your package
+dependencies. As well we don't recommend to add Five in the layer
+as a default_products, it goes crazy (but include it in your ZCML
+!).</p>
+<p> The layer provides you the following useful methods:</p>
+<dl class="dl"><dt>login(username)</dt><dd>Log as a the given username.</dd><dt>logout()</dt><dd>Logout.</dd><dt>get_root_folder()</dt><dd>Return the root of the database, <em>not</em> wrapped in a request.</dd><dt>get_application()</dt><dd>Return the root of the database, wrapped in a request.</dd></dl><h2><a class="link" title="" target="" href="infrae.testing.html#id5">Code</a></h2>
+<p> The code is available through a Mercurial repository at:
+<a class="link" title="" target="" href="https://hg.infrae.com/infrae.testing">https://hg.infrae.com/infrae.testing</a></p>
+
+
+
+  <table class="silvatable list">
+    <h2><a name="skip-to-releases">Available releases</a></h2>
+    <thead>
+      <tr>
+        <th class="align-left">Release version</th>
+        <th class="align-left">Release date</th>
+        <th class="align-left">Release files</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <a href="infrae.testing/1.3.html">infrae.testing 1.3</a>
+        </td>
+        <td>2012 9 3  16:34:46 </td>
+        <td>
+          
+            <a href="infrae.testing/1.3/infrae.testing-1.3.tar.gz">infrae.testing-1.3.tar.gz</a><br />
+          
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="infrae.testing/1.2.html">infrae.testing 1.2</a>
+        </td>
+        <td>2011 11 7  13:55:19 </td>
+        <td>
+          
+            <a href="infrae.testing/1.2/infrae.testing-1.2.tar.gz">infrae.testing-1.2.tar.gz</a><br />
+          
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="infrae.testing/1.1.html">infrae.testing 1.1</a>
+        </td>
+        <td>2010 10 7  11:09:00 </td>
+        <td>
+          
+            <a href="infrae.testing/1.1/infrae.testing-1.1.tar.gz">infrae.testing-1.1.tar.gz</a><br />
+          
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="infrae.testing/1.0.html">infrae.testing 1.0</a>
+        </td>
+        <td>2010 7 15  17:41:25 </td>
+        <td>
+          
+            <a href="infrae.testing/1.0/infrae.testing-1.0.tar.gz">infrae.testing-1.0.tar.gz</a><br />
+          
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p class="software-license">
+    <strong>License:</strong>
+    <a href="infrae.testing/LICENSE.txt.html">
+      New BSD
+    </a>
+  </p>
+
+  
+
+
+</article>
+    <aside>
+  <nav>
+    <ol>
+      <li>
+        <a class="active" href="../../index.html">
+          <img class="logo" width="100" height="50" alt="Infrae logo: link to home"
+            src="../../++static++/silvatheme.renaissance/:version:1.0/img/logo_bw.png"
+          />
+        </a>
+        <ol>
+          
+            <li>
+              <a href="../../news.html" class="">News</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../../about.html" class="">About</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../../products.html" class="">Products</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../../download.html" class="active">Download</a>
+              
+                
+                  <ol>
+          
+            <li>
+              <a href="../tools.html" class="active">Tools</a>
+              
+                
+                  <ol>
+          
+            <li>
+              <a href="infrae.wsgi.html" class="">infrae.wsgi</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="infrae.testbrowser.html" class="">infrae.testbrowser</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="infrae.fileupload.html" class="">infrae.fileupload</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="infrae.layout.html" class="">infrae.layout</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="infrae.rest.html" class="">infrae.rest</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="infrae.testing.html" class="active">infrae.testing</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="infrae.i18nextract.html" class="">infrae.i18nextract</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="infrae.maildrophost.html" class="">infrae.maildrophost</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="infrae.uwsgi.html" class="">infrae.uwsgi</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="infrae.copyright.html" class="">infrae.copyright</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="infrae.cache.html" class="">infrae.cache</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="infrae.comethods.html" class="">infrae.comethods</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="z3locales.html" class="">z3locales</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="sparrow.html" class="">Sparrow</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../Sprout.html" class="">Sprout</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../../infrae.com/infrae.com/download/ptprofiler.html" class="">PTProfiler</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../zsparklines.html" class="">ZSparklines</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="i18nextract-sa.html" class="">i18nextract stand-alone</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../pydavclient.html" class="">PyDAV Client</a>
+              
+            </li>
+          
+        </ol>
+                
+              
+            </li>
+          
+          
+            <li>
+              <a href="../mobi.html" class="">Mobi</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../OAI.html" class="">OAI Components</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../DocumentLibrary.html" class="">OAI Document Library</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../silva_all.html" class="">Silva CMS Packages</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../silva_all_archive.html" class="">Silva CMS Archive</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../silva_components.html" class="">Silva Components</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../silva_extensions.html" class="">Silva Extensions</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../silva_extensions_archive.html" class="">Silva Extensions Archive</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../fedoracommons.html" class="">Fedora Commons Repository</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../railroad.html" class="">Railroad Repository</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../tramline.html" class="">Tramline</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../Formulator.html" class="">Formulator</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../LICENSE.txt.html" class="">License</a>
+              
+            </li>
+          
+        </ol>
+                
+              
+            </li>
+          
+          
+            <li>
+              <a href="../../service.html" class="">Services</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../../contact.html" class="">Contact</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../../presentations.html" class="">Presentations</a>
+              
+            </li>
+          
+        </ol>
+      </li>
+    </ol>
+  </nav>
+  
+    <section id="follow" class="plot">
+      <h3>Follow us</h3>
+      <ol>
+        <li><a href="http://twitter.com/infrae/" id="twitter">Twitter</a></li>
+        <li><a href="http://www.linkedin.com/company/infrae" id="linkedin">LinkedIn</a></li>
+        <li><a href="../../news/rss.xml" id="rss">RSS feed</a></li>
+      </ol>
+      
+    </section>
+  
+  
+</aside>
+
+  </div>
+</div>
+
+
+
+<footer>
+  <section id="doormat">
+    <div class="container">
+      <ol class="col33 first">
+        <li><h6>Channels</h6></li>
+        <li><a href="tel:+31102437051">Telephone: +31 10 243 7051 (Fax: 7052)</a></li>
+        <li><a href="../../contact.html">Email: info@infrae.com</a></li>
+        <li><a href="http://twitter.com/home?status=%40infrae%20">Twitter: @infrae</a></li>
+      </ol>
+      <ol class="col33 inbetween">
+        <li><h6>Product jump links</h6></li>
+        <li><a href="https://bugs.launchpad.net/silva">Silva bugs on Launchpad</a></li>
+        <li><a href="../../products/silva/docs.html">Silva latest documentation</a></li>
+        <li><a href="../../products/documentlibrary.html"><abbr title="Open Archive Initiative">OAI</abbr> Document Library application</a></li>
+      </ol>
+      <ol class="col33 last">
+        <li><h6>Site facilities</h6></li>
+        <li><a href="../../search.html">Advanced search</a></li>
+        <li><a href="../../indexer.html">Site Index</a></li>
+        <li><a href="../../sitemap.html">Site Map</a></li>
+      </ol>
+      <ol class="col33 first bottom">
+        <li><h6>Company info</h6></li>
+        <li><a href="../../about/network.html">Network</a></li>
+        <li><a href="../../about/references.html">References</a></li>
+        <li><a href="../../contact/info.html">Corporate info</a></li>
+        <li><a href="../../contact/geolocation.html">Geolocation office</a></li>
+      </ol>
+      <ol class="col33 inbetween bottom">
+        <li><h6>Tech jump links</h6></li>
+        <li><a href="https://dev.infrae.com/browser">Infrae Trac Development Tracker</a></li>
+        <li><a href="http://docs.infrae.com/">Infrae Documentation Center</a></li>
+        <li><a href="http://moai.infrae.com/">MOAI technical website</a></li>
+        <li><a href="http://mobi.infrae.com/">Mobi technical website</a></li>
+      </ol>
+      <ol class="col33 last bottom">
+        <li><h6>Atom/<abbr title="Rich Site Summary">RSS</abbr> resources</h6></li>
+        <li><a href="../../news/rss.xml">Infrae News feed</a></li>
+        <li><a href="../rss.xml">Download area feed</a></li>
+        <li><a href="../silva_all/rss.xml">Silva <abbr title="Content Management System">CMS</abbr> packages feed</a></li>
+        <li><a href="../mobi/rss.xml">Mobi Device Middleware packages feed</a></li>
+      </ol>
+    </div>
+  </section>
+
+  <section id="bottomline">
+    <div class="container">
+      <ol>
+        <li><a href="../../index.html" title="Infrae Homepage">Home</a></li>
+        <li>
+          <a href="../../news.html" class="" title="Infrae News">News</a>
+        </li>
+        <li>
+          <a href="../../about.html" class="" title="About">About</a>
+        </li>
+        <li>
+          <a href="../../products.html" class="" title="Products">Products</a>
+        </li>
+        <li>
+          <a href="../../download.html" class="active" title="Download area">Download</a>
+        </li>
+        <li>
+          <a href="../../service.html" class="" title="Services">Services</a>
+        </li>
+        <li>
+          <a href="../../contact.html" class="" title="Contact">Contact</a>
+        </li>
+        <li>
+          <a href="../../presentations.html" class="" title="Presentations">Presentations</a>
+        </li>
+      </ol>
+      <span>Powered by:</span>
+      <ul>
+        <li><a class="icon icon-silva" href="../../products/silva.html">Silva</a></li>
+        <li><a class="icon icon-zope" href="http://zope.org/">Zope</a></li>
+        <li><a class="icon icon-apache" href="http://apache.org/">Apache</a></li>
+        <li><a class="icon icon-python" href="http://python.org/">Python</a></li>
+      </ul>
+    </div>
+  </section>
+</footer>
+
+<!--[if lt IE 7 ]>
+<script src="js/dd_belatedpng.js"></script>
+<script>DD_belatedPNG.fix('img, .png_bg');</script>
+<![endif]-->
+
+
+</body>
+</html>

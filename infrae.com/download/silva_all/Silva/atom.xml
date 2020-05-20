@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://infrae.com/download/silva_all/Silva</id>
+  <title type="text">Silva</title>
+  <subtitle>Download area for Silva, the open source content management system.</subtitle>
+  <link rel="self"
+        href="http://infrae.com/download/silva_all/Silva/atom.xml"/>
+  <author>
+    <name>sylvain</name>
+  </author>
+  
+    <updated>2010-12-21T10:25:42Z</updated>
+  
+  <entry>
+    <title>Dependencies and Extensions for 2.1+</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_all/Silva/silva_buildout_2.1"/>
+    <id>http://infrae.com/download/silva_all/Silva/silva_buildout_2.1</id>
+    
+      <published>2010-12-21T10:25:42Z</published>
+    
+    
+      <updated>2012-09-04T14:34:57Z</updated>
+    
+    <author>
+      <name>sylvain</name>
+    </author>
+    <category term="Silva, open source, content management, Zope, download"/>
+    <summary type="xhtml">
+      <div><p> Silva now uses <a class="link" title="" target="_self" href="http://pypi.python.org/pypi/zc.buildout">buildout</a> for maintaining versions of dependencies and extensions.<br></p>
+</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Zope and Python versions for the 2.x series</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_all/Silva/zope_python_versions"/>
+    <id>http://infrae.com/download/silva_all/Silva/zope_python_versions</id>
+    
+      <published>2010-05-19T07:36:26Z</published>
+    
+    
+      <updated>2012-09-04T14:34:55Z</updated>
+    
+    <author>
+      <name>sylvain</name>
+    </author>
+    <category term="Silva, open source, content management, Zope, download"/>
+    <summary type="xhtml">
+      <div><p>The recommended installation method for the Silva 2.x series is <a class="link" title="" target="_self" href="http://docs.infrae.com/silva/buildout.html">buildout</a>. The following listing is provided for reference. <br></p>
+</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Products Map for 1.4</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_all/Silva/products_map_1.4"/>
+    <id>http://infrae.com/download/silva_all/Silva/products_map_1.4</id>
+    
+      <published>2010-01-18T13:59:00Z</published>
+    
+    
+      <updated>2012-09-04T14:35:01Z</updated>
+    
+    <author>
+      <name>sylvain</name>
+    </author>
+    <category term="Silva, open source, content management, Zope, download"/>
+    <summary type="xhtml">
+      <div><p>This is a list of Silva related Zope Products, both those distributed
+with Silva itself as well as extensions.</p>
+</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Products Map for 1.5</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_all/Silva/products_map_1.5"/>
+    <id>http://infrae.com/download/silva_all/Silva/products_map_1.5</id>
+    
+      <published>2010-01-18T13:58:59Z</published>
+    
+    
+      <updated>2012-09-04T14:35:00Z</updated>
+    
+    <author>
+      <name>sylvain</name>
+    </author>
+    <category term="Silva, open source, content management, Zope, download"/>
+    <summary type="xhtml">
+      <div><p>This is a list of Silva related Zope Products, both those distributed
+with Silva itself as well as extensions.</p>
+</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Products Map for 1.6</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_all/Silva/products_map_1.6"/>
+    <id>http://infrae.com/download/silva_all/Silva/products_map_1.6</id>
+    
+      <published>2010-01-18T13:58:58Z</published>
+    
+    
+      <updated>2012-09-04T14:34:59Z</updated>
+    
+    <author>
+      <name>sylvain</name>
+    </author>
+    <category term="Silva, open source, content management, Zope, download"/>
+    <summary type="xhtml">
+      <div><p>This is a list of Silva related Zope Products, both those distributed
+with Silva itself as well as extensions.</p>
+</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Products Map for 2.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_all/Silva/products_map"/>
+    <id>http://infrae.com/download/silva_all/Silva/products_map</id>
+    
+      <published>2010-01-18T13:58:57Z</published>
+    
+    
+      <updated>2012-09-04T14:34:59Z</updated>
+    
+    <author>
+      <name>sylvain</name>
+    </author>
+    <category term="Silva, open source, content management, Zope, download"/>
+    <summary type="xhtml">
+      <div><p>This is a list of Silva related Zope Products, both those distributed
+with Silva itself as well as extensions.</p>
+</div>
+    </summary>
+  </entry>
+</feed>

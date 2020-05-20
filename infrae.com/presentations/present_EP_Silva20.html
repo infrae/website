@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+  <head>
+    <title>Silva 2.0 at EuroPython 2007, Vilnius</title>
+    <base href="">
+    <meta name="subject" content="Infrae Presentations" />
+    <meta name="keywords" content="Infrae, presentations, products" />
+    <meta name="description" content="Presentations about Infrae products and use cases." />
+    <meta name="generator" content="Silva" />
+    
+    <link rel="shortcut icon" href="../++static++/silva.core.layout.porto/:version:3.0.2/favicon.ico" />
+
+    <!-- Injector for on-the-fly inclusion -->
+    
+  <link rel="stylesheet" type="text/css" href="../++static++/silvatheme.infraepresent1stgen/:version:1.0/infraepresent1stgen.css" />
+<script type="text/javascript" src="../++static++/silvatheme.infraepresent1stgen/:version:1.0/prev_next_buttons.js"></script>
+</head>
+
+  <body id="present_EP_Silva20">
+    
+<div id="infraepresent1stgen-main">
+    <table>
+        <tr>
+            <td colspan="2">
+                <div class="header">
+                    <a class="icon" title="Up to index" href="present_EP_Silva20.html">
+                        <img src="../++static++/silvatheme.infraepresent1stgen/:version:1.0/infrae_logo_100x50.png" width="100" height="50" border="0" alt="Index" />
+                    </a>
+                    <br />
+                </div>
+            </td>
+        </tr>    
+        <tr>
+            <td id="main" colspan="2" style="height: 100%; vertical-align: top;">                    
+                <div class="titlepoints">
+  
+  <h5>EuroPython 2007</h5>
+<h2>Silva 2.0: Progressive enhancement</h2>
+<h3>9 July 2007, Vilnius, Lithuania</h3>
+<h4> Kit Blake</h4>
+<h2>History</h2>
+<p> Work on Silva began in late 2001</p>
+<p> Announced at EuroPython 2002 (version 0.7)</p>
+<p> ZODB based, used DTML, no version control!</p>
+<p> The basics, such as versioning and access, were in place</p>
+<p> Followed by many 0.9.x enhancements and releases</p>
+<h2>Silva 1.0</h2>
+<p>  Released in July 2004</p>
+<p> Defining architectural feature was the Kupu editor (thanks to <a class="link" title="" target="_self" href="http://www.ethz.ch/">ETH Z&#252;rich</a>)</p>
+<p> Included advanced, user configurable metadata system</p>
+<p> All text &#8211; and metadata &#8211; was stored as unicode</p>
+<p> Image manipulation: scaling, cropping, file system storage</p>
+<p> XML import/export, Zip file asset import</p>
+<h2>Silva 2.0</h2>
+<p>  Released on 23 May 2007</p>
+<p> No new features</p>
+<p> Fundamental architectural changes triggered by Zope 2.10</p>
+<p> Extensions / content types are Five-based</p>
+<p> Much easier for extension developers</p>
+<p> Use all the Z3 techniques, override views, etc.</p>
+<h2>Enhanced Version Management</h2>
+<p> History of all old versions stored</p>
+<p> Side by side comparision of versions</p>
+<p> Rollback (actually roll forward)</p>
+<p> Silva export with or without old versions</p>
+<p> Periodic batch deletion by a Manager</p>
+<h2>Custom content elements</h2>
+<p> External Source elements can be inserted in documents</p>
+<p> All textual content types can insert source elements</p>
+<p> Code Source: can be anything possible in Zope</p>
+<p> Manager/Author friendly: developer does the code / Author sees only a form for filling in parameters</p>
+<p> Easy to create and customizable, many available</p>
+<h2>Code Source examples</h2>
+<ul class="disc"><li>YouTube Video...</li><li> Encaptionated Image...</li><li>Mathematical Formulas...</li><li>Silva Pagelet</li><li>Multi-TOC (for faceted navigation)</li><li>Multimedia: Flash, Quicktime, Java Applet, Java Plugin, MSMovie, etc.</li></ul><h2>Sophisticated Access Control</h2>
+<p>  Access is determined in a TTW interface</p>
+<p> Chief Editors have complete control </p>
+<p> Users/groups defined in Zope, LDAP, PAS, etc. are given Silva roles (Reader, Author, Editor, Chief Editor)</p>
+<p> Silva has Virtual Groups, and supports role requests for collaboration sites</p>
+<p> Define public access restrictions for an intranet section</p>
+<h2>Multi-site Management</h2>
+<p>  Silva is virtual host aware, supports &#8216;deep virtual hosting&#8217;</p>
+<p> Nested subsites can be accessed via main site content hierarchy or a subsite url (e.g. institute.example.com)</p>
+<p> References are automatically adjusted, for both public pages and management screens</p>
+<p> Can be configured so Authors see only their domain, or the entire site hierarchy for linking</p>
+<p> Scales well: largest installation has 350 sites</p>
+<h2>Skins and Templating</h2>
+<p>  Silva 1.0 had a ZODB-based layout system</p>
+<p> Flexible and customizable per site/section/page/element</p>
+<p> Silva 2.0 has a Silva Layout extension for skins</p>
+<p> Uses Five/Zope3 technology, code on the file system</p>
+<p> Permits skin switching TTW via Silva UI</p>
+<p> Extensions can override specific parts of a skin/navigation</p>
+<h2>Import / Export</h2>
+<p> All actions via the Silva UI, no file system access needed</p>
+<p> Handles all items, including Zope level objects</p>
+<p> Import across sites, even with different metadata configurations</p>
+<p> Import / Export works between different Silva versions (with some caveats)</p>
+<p> Uses XML format, easy to bridge to other systems</p>
+<h2>Silva Extensions</h2>
+<p> Both content types and tools, from the community</p>
+<p> High quality code, maintained by developers and Infrae support</p>
+<p> Latest extensions are Five-based, with vastly reduced boilerplate</p>
+<p> Come to the Grok.Silva sprint after EuroPython</p>
+<h2>Extension Examples</h2>
+<ul class="disc"><li> S5 Slides...</li><li>Silva Find...</li><li>Silva Static</li><li>Silva Glossary</li><li>Silva Reference Checker</li><li>dynamic Learning Content Management System</li></ul><h2>Near Future</h2>
+<p> Ajax in the interface will accelerate production </p>
+<p> Direct export to OpenOffice (silva2odt) to be released shortly, import is possible</p>
+<p> Hook up document conversion from Document Library product</p>
+<p> RSS/Atom feed Forum/Blog improvements</p>
+<p> More fine-grained caching architecture</p>
+<h2>Long Term Future</h2>
+<p> What do you need?</p>
+<h2>Questions?</h2>
+<h2>Thank you</h2>
+<p>  And thanks to all the Silva contributors / investors</p>
+
+</div>
+            </td>
+        </tr>  
+    </table>
+</div>
+
+
+
+  </body>
+</html>

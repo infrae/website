@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+  <head>
+    <title>Zope Scalability at ‘Gebruikersdag’ in Amsterdam</title>
+    <base href="">
+    <meta name="subject" content="Infrae Presentations" />
+    <meta name="keywords" content="Infrae, presentations, products" />
+    <meta name="description" content="Presentations about Infrae products and use cases." />
+    <meta name="generator" content="Silva" />
+    
+    <link rel="shortcut icon" href="../++static++/silva.core.layout.porto/:version:3.0.2/favicon.ico" />
+
+    <!-- Injector for on-the-fly inclusion -->
+    
+  <link rel="stylesheet" type="text/css" href="../++static++/silvatheme.infraepresent1stgen/:version:1.0/infraepresent1stgen.css" />
+<script type="text/javascript" src="../++static++/silvatheme.infraepresent1stgen/:version:1.0/prev_next_buttons.js"></script>
+</head>
+
+  <body id="present_Gebruikersdag_Adam">
+    
+<div id="infraepresent1stgen-main">
+    <table>
+        <tr>
+            <td colspan="2">
+                <div class="header">
+                    <a class="icon" title="Up to index" href="present_Gebruikersdag_Adam.html">
+                        <img src="../++static++/silvatheme.infraepresent1stgen/:version:1.0/infrae_logo_100x50.png" width="100" height="50" border="0" alt="Index" />
+                    </a>
+                    <br />
+                </div>
+            </td>
+        </tr>    
+        <tr>
+            <td id="main" colspan="2" style="height: 100%; vertical-align: top;">                    
+                <div class="titlepoints">
+  
+  <h5>Gebruikersdag in Amsterdam    </h5>
+<h2>Zope Schaalbaarheid</h2>
+<p> &#65279;</p>
+<h4>19 september 2007, Amsterdam</h4>
+<h3> Kit Blake</h3>
+<h2>Agenda</h2>
+<p> Basic principles of (Zope) hosting and clusters</p>
+<p> University of Bedfordshire example</p>
+<p> Case: Zope/Plone at the Ministry of Flanders in Brussels</p>
+<p> MMIS Plone infrastructure </p>
+<p> Packaging</p>
+<p> ETH Z&#252;rich example</p>
+<h2>Introduction</h2>
+<p> Zope is one of the most scalable web application servers on the market</p>
+<p> Augmented Zope-based systems can do thousands of requests per second</p>
+<p> Scalability: first step is <strong><em>caching</em></strong> of data</p>
+<p> Zope should be concentrating on logic, not pumping data</p>
+<p> Let other applications do the work</p>
+<h2>Product Names (open source)</h2>
+<ul class="disc"><li>Zope: application server software</li><li>Plone: a Zope-based application (many others)</li><li>Apache: web server software </li><li>Squid: caching server software (or Varnish, or Apache module, or black box)</li><li>Pound: load balancer software (or PLB, or Apache Backhand module, or black box)</li></ul><h2>Zope alone</h2>
+<p> This laptop is running Zope</p>
+<p> Most development is done &#8216;locally&#8217;, as in localhost</p>
+<p> Zope alone is perfectly fine for small sites</p>
+<p> Peak access times determine when to scale up</p>
+<h2>Zope and Apache</h2>
+<p> In most setups Apache is used for the webserver</p>
+<p> Apache is robust and proven software</p>
+<p> Apache serves more than half of the world&#8217;s websites</p>
+<p> &#8216;Name-based virtual hosting&#8217; allows Apache to serve many sites</p>
+<p> Apache enables secure setups using encryption (using SSL, Secure Sockets Layer)</p>
+<h2>The Zope Application Server</h2>
+<div class="image default"><img alt="Zope Architecture" height="318" width="499" src="present_Gebruikersdag_Adam/Zope_Architecture.png"></div>
+<p> Credit: <a class="link" title="" href="http://zope.com/">Zope Corporation</a></p>
+<h2>Zope, Apache, and Squid</h2>
+<div class="image default"><img alt="Zope Apache" height="252" width="449" src="present_Gebruikersdag_Adam/zope-frontend-apache-squid.png"></div>
+<p> Credit: <a class="link" title="" href="http://fnord.no/">The Fnord Portal</a></p>
+<h2>ZEO (Zope Enterprise Objects)</h2>
+<div class="image default"><img alt="ZEO" height="247" width="455" src="present_Gebruikersdag_Adam/zope-zeo.png"></div>
+<p> Credit: <a class="link" title="" href="http://fnord.no/">The Fnord Portal</a></p>
+<h2>ZEO cluster with Load Balancer</h2>
+<div class="image default"><img alt="Load Balancer" height="247" width="455" src="present_Gebruikersdag_Adam/zope-overview.png"></div>
+<p> Credit: <a class="link" title="" href="http://fnord.no/">The Fnord Portal</a></p>
+<h2>Plone Infrastructure for Mass Hosting</h2>
+<p> The Ministry of Flanders &#8211; Department of Environment, Nature, and Energy (LNE)</p>
+<p> Legacy at MMIS (Milieu Management Informatiesysteem): an old CMS that doesn&#8217;t scale</p>
+<p> Plone matched the requirements almost completely</p>
+<p> Plone has local and international support and a vibrant community</p>
+<p> 50+ websites using various technologies</p>
+<h2>Plone setup</h2>
+<p> One Plone root contains all sites and central resources</p>
+<p> Sites container: a container for all the sites</p>
+<p> Site folder: the root of the site, with configuration</p>
+<p> Virtual hosts are mapped in Apache rewrite rules</p>
+<h2>Central resources</h2>
+<p> LDAP for authentication</p>
+<p> Skins/stylesheets</p>
+<p> Functional products (e.g. PloneformGen, etc).</p>
+<p> Some sites are multilingual, using the LinguaPlone product</p>
+<h2>Infrastructure</h2>
+<p> Plone runs in a ZEO cluster with 4 nodes </p>
+<p> Apache as webserver</p>
+<p> Squid for caching</p>
+<p> Pound for load balancing</p>
+<h2>Infrastructure diagram</h2>
+<div class="image default"><img alt="MMIS infra" height="446" width="690" src="present_Gebruikersdag_Adam/mvgnetwerk_75.gif"></div>
+<h2>Site customization</h2>
+<p> Some sites have custom skins, using a base skin product</p>
+<p> Sites can have a colors css in Zope, editable by a manager</p>
+<p> Certain sites have an integration with an Informix database</p>
+<p> Search is configurable for only local or local/global search</p>
+<p> The migration brings various small web applications into Plone</p>
+<h2>Content type handling</h2>
+<p> Using default content types as much as possible</p>
+<p> Sites can have restricted content types via a CT folder</p>
+<p> Only specific content types are available</p>
+<p> Setup by the administrator in portal tools</p>
+<h2>Products in use</h2>
+<p> PloneFormGen</p>
+<p> PloneForArtistsCalendar</p>
+<p> A few modules contain custom Products</p>
+<p> Later the generic custom products will be released as open source</p>
+<h2>Packaging</h2>
+<p> All code is stored in a source code repository (svn: Subversion)</p>
+<p> ZEO nodes are installed using a &#8216;buildout&#8217; script</p>
+<p> Installs (almost) everything: Zope, Plone, products, etc.</p>
+<p> Some dependencies must be setup manually: LDAP, db adapter, etc.</p>
+<p> Developers use the same buildout to install on a local machine</p>
+<h2>Large cluster</h2>
+<p> At ETH Z&#252;rich (Swiss Federal Institute of Technology)</p>
+<h2>Questions?</h2>
+<h2>Thank you</h2>
+<p> And thanks to the Zope/Plone communities</p>
+
+</div>
+            </td>
+        </tr>  
+    </table>
+</div>
+
+
+
+  </body>
+</html>

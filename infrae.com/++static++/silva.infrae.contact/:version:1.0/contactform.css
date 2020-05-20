@@ -1,0 +1,103 @@
+#contactusform {
+  color: #fff;
+  background: #222;
+  font-size: 1.2em;
+}
+
+#contactusform .field {
+  width: 99%;
+  margin: 0.33em 0;
+}
+
+#contactusform input.field {
+  padding: 3px 2px;
+  border: 1px solid #888;
+}
+
+#contactusform textarea {
+  padding: 3px 2px;
+  border: 1px solid #888;
+  resize: vertical;
+}
+
+#contactusform h3 {
+  margin: 0.2em 0 0.5em;
+  color: #fff;
+  font-size: 1.2em;
+  line-height: inherit;
+}
+
+#contactusform div.actions {
+  margin: 0.66em 0;
+}
+
+input#contactform-action-contact {
+  width: 40%;
+}
+
+#contactusform p.form-status,
+  #contactusform p.field-error,
+#contactusform p.form-error {
+  margin-bottom: 0;
+  line-height: inherit;
+}
+
+#contactusform p.form-status {
+  color: #ff6;
+}
+
+#contactusform p:last-child {
+  margin-bottom: 0.6em;
+  color:#adff2f;
+}
+
+input[type=text]:focus,input[type=email]:focus,input[type=password]:focus,textarea:focus{
+	background-color:#ffffe0;
+}
+
+div.form-error,
+div.field-error,
+  p.field-error,
+span.field-error {
+  color: #fc0;
+  font-weight: bold;
+}
+
+#contactusform br + input.field {
+  border: 1px solid #f00;
+}
+
+  #contactusform span + input.field {
+    border: 1px solid #f00;
+  }
+
+  #contactusform p + input.field {
+    border: 1px solid #f00;
+  }
+
+#contactusform br + input.field {
+  border: 1px solid #f00;
+}
+
+  #contactusform span + input.field {
+    border: 1px solid #f00;
+  }
+
+.form-status a:link {
+  color: #c2ffff;
+}
+.form-status a:visited {
+  color: #c2ffff;
+}
+.form-status a:hover {
+  color: #fff;
+}
+.form-status a.active {
+  color: #fff;
+  font-weight: bold;
+}
+
+/* remove if redundancy gets fixed */
+div.form-error {
+  display:none;
+}

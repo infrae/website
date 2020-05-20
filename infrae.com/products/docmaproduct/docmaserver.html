@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Infrae: DocmaServer</title>
+<base href="" />
+<meta charset="UTF-8" />
+<meta name="generator" content="Silva" />
+<meta name="keywords" content="Products, content management, CMS, content management system, DM, document management, document management system, DAM, digital asset management, Silva, Silva CMS, Kupu, Kupu editor, Railroad, Railroad Repository, Tramline, Python, Zope, open source, open source software, FLOSS" />
+<meta name="description" content="All of Infrae's open source products." />
+<link rel="schema.dcterms" href="http://purl.org/dc/terms/" />
+<meta name="dcterms.subject" content="Products" />
+<meta name="dcterms.abstract" content="All of Infrae's open source products." />
+<meta name="dcterms.rightsHolder" content="Infrae">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+<meta property="twitter:card" content="summary" />
+<meta property="twitter:domain" content="infrae.com" />
+<meta property="twitter:site" content="@infrae" />
+<meta property="twitter:url" content="http://infrae.com/products/docmaproduct/docmaserver" />
+<meta property="twitter:title" content="DocmaServer" />
+<meta property="twitter:description" content="Products" />
+<meta property="twitter:image:src" content="http://infrae.com/images/infrae_logo120w.png" />
+<meta property="og:url" content="http://infrae.com/products/docmaproduct/docmaserver" />
+<meta property="og:site_name" content="infrae.com" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="DocmaServer" />
+<meta property="og:description" content="All of Infrae's open source products." />
+<meta property="og:image" content="http://infrae.com/images/infrae_logo120w.png" />
+<meta name="geo.region" content="NL-ZH" />
+<meta name="geo.placename" content="Rotterdam" />
+<meta name="geo.position" content="51.927423;4.466578" />
+<meta name="ICBM" content="51.927423, 4.466578" />
+<meta name="robots" content="index, follow" />
+<meta name="revisit-after" content="10 days" />
+<link rel="canonical" href="docmaserver.html" />
+<link rel="apple-touch-icon" href="../../++static++/silvatheme.renaissance/:version:1.0/img/mobicon.png" />
+<link rel="copyright" title="Copyright" href="../../copyright.html" />
+<link rel="alternate" type="application/x-wiki" href="http://infrae.com/products/docmaproduct/edit" title="Edit this page (login required)" />
+
+
+<link rel="shortcut icon" href="../../++static++/silvatheme.renaissance/:version:1.0/img/favicon.ico" />
+<!-- Injector for on-the-fly inclusion -->
+
+
+<link rel="stylesheet" type="text/css" href="../../++static++/silvatheme.infraecommon/:version:2013-12-19T15:20:10/:bundle:html5reset.css%3Btypography.css" />
+<link rel="stylesheet" type="text/css" href="../../++static++/silvatheme.renaissance/:version:1.0/:bundle:renaissance.css%3Bcontent.css" />
+<script type="text/javascript" src="../../++static++/jquery/:version:1.8.2/jquery.min.js"></script>
+<script type="text/javascript" src="../../++static++/silvatheme.infraecommon/:version:2013-12-19T15:20:10/modernizr-1.7.min.js"></script>
+</head>
+<body class="docmaserver">
+<header>
+  <nav class="container">
+    <ol>
+      <li>
+        <a href="../../index.html"
+           title="Infrae Homepage" class="icon icon-home">Home</a>
+      </li>
+      <li>
+        <a title="View this page on the mobile site" class="icon icon-mobile" href="http://m.infrae.com/products/docmaproduct/docmaserver">
+          to mobile page
+        </a>
+      </li>
+      <li>
+        <a href="../../news.html" class="" title="Infrae News">News</a>
+      </li>
+      <li>
+        <a href="../../about.html" class="" title="About">About</a>
+      </li>
+      <li>
+        <a href="../../products.html" class="active" title="Products">Products</a>
+      </li>
+      <li>
+        <a href="../../download.html" class="" title="Download area">Download</a>
+      </li>
+      <li>
+        <a href="../../service.html" class="" title="Services">Services</a>
+      </li>
+      <li>
+        <a href="../../contact.html" class="" title="Contact">Contact</a>
+      </li>
+      <li>
+        <a href="../../presentations.html" class="" title="Presentations">Presentations</a>
+      </li>
+      <li>
+        <a href="../../search.html" title="Search the site"
+           class="icon icon-search" id="searchtrigger">Search</a>
+      </li>
+    </ol>
+  </nav>
+  <form action="../../search.html">
+    <section style="display: none" id="search" class="container">
+      
+      Search the site:
+      <input type="text" name="fulltext" />
+      <button type="submit" name="search_submit" value="Submit">Go</button>
+    </section>
+  </form>
+  <script type="text/javascript">
+    $(document).ready(function(){
+       $("section#search").hide();
+       $("a#searchtrigger").toggle(function(event){
+       event.preventDefault();
+       $(this).addClass('active');
+       $("section#search").slideDown(200);
+       $("section#search input").focus();
+    }, function(event) {
+       event.preventDefault();
+       $(this).removeClass('active');
+       $("section#search").slideUp(200);
+    });
+    });
+  </script>
+</header>
+
+
+
+<div id="main" class="silva-document">
+  <div class="container">
+    <article class="col66 first">
+  <h1>DocmaServer</h1>
+  <h3>  What is it</h3>
+<p>       Docma is a Python application developed by Infrae for the
+      processing and generation of Silva XML. Note that Docma is not a
+      Zope product; it is an independent application that can be accessed
+      remotely by Silva using XML-RPC.  </p>
+<p>       Docma is able to convert Silva XML documents to Word documents and
+      vice versa.</p>
+<h3>  Target platform</h3>
+<p>       The target conversion application is Word 2000. Other versions may
+      have different output or may not work at all.  </p>
+<h3>  Silva Integration</h3>
+<p>     If Docma is running and Silva is configured properly you have
+    additional options on both export and import. You'll find more
+    information in the <a class="link" title="">Silva
+    Documentation</a>.</p>
+<h3>  Silva markup and Word styles</h3>
+<p>     The best way to get started is to export a fairly complex publication
+    out of Silva to see how everything works. The resulting Word document
+    has a detailed structure of styles. These styles map to Silva
+    elements. Some paragraphs have a comment attached, holding additional
+    information for Docma, such as document ids. Additionally you will
+    find information about the exported document in the File/Properties
+    menu. These are the three instruments for preparing a Word document
+    for converting to Silva with all the markup: Silva Word styles,
+    comments and the information in the File/Properties dialog.</p>
+<p>     To get an existing Word document converted into Silva XML it is
+    necessary to use Silva Word styles. For all Silva Word styles see
+    the  all styles
+    document in the package.
+    There is also a Word 
+    template
+    (.dot) available containing all styles.</p>
+<p>     Without using any Silva Word styles you can expect the following
+    results from a conversion:</p>
+<ul class="disc"><li><p>Bulleted lists become a &#8220;disc bullet&#8221; list in Silva.</p></li><li><p>Lists of any numbering become a &#8220;1, 2, 3...&#8221; list in
+      Silva.</p></li><li><p>Other text becomes a Silva paragraph.</p></li><li><p>All tables will get the &#8220;grid&#8221; style.</p></li><li><p>One folder containing one, potentially large, document will be
+      created.</p></li></ul><h4>    Style Names</h4>
+<p>       Docma uses some styles that are built into Word. Thus their names
+      are language dependent. For instance the English style names
+      &#8220;Heading 1 to &#8220;Heading 9' are called &#8220;Kop
+      1&#8221; to &#8220;Kop 9&#8221; in Dutch or &#8220;&#220;berschrift
+      1&#8221; to &#8220;&#220;berschrift 9&#8221; in German.</p>
+<h4>    Folders and Documents</h4>
+<p>       The overall publication structure is created by heading styles,
+      namely &#8220;Heading 1&#8221; to &#8220;Heading 9&#8221;.</p>
+<p>       Basically everytime text with a heading style is encountered a
+      new folder is created. But if this would lead to a folder
+      containing only one document a Silva document is created instead.</p>
+<h4>    Paragraphs</h4>
+<p>       Paragraphs are created out of any Word paragraph of style <em>Body
+      Text</em>.</p>
+<h4>    Preformatted</h4>
+<p>       Preformatted paragraphs are created out of any Word paragraph of
+      style <em>Plain Text</em>.  Adjacent paragraphs are joined to one
+      preformatted element.</p>
+<h4>    Lists    </h4>
+<p>       Docma uses different styles for every list type or level. This
+      means two bulleted list items on different levels (a nested list)
+      result in two different styles being used.</p>
+<p>       To add an additional paragraph to the same list item the paragraph
+      has to be indented the same amount as the list item.</p>
+<p>       To be more exact, Docma needs lists to match the following rules:</p>
+<ul class="disc"><li><p>Every list entry has to start with a paragraph with a list style
+        of any kind or level. </p></li><li><p>If the paragraph contains text, a paragraph will be created by
+        Docma. If the paragraph does not contain text, no paragraph will be
+        created.</p></li><li><p>All elements belonging to a particular list entry in a list of
+        level n must be left aligned between the left alignment of the
+        <em>List</em> style of level n and <em>List</em> style of level n+1.</p></li></ul><h4>    Definition Lists  </h4>
+<p>       An entry in a definition list always consists of a definition term,
+      indicated by <em>Definition Term</em> style and a definition description,
+      indicated by the <em>Definition Description</em> style.  If no
+      corresponding Term or Description is found the element will be
+      empty.  There is currently no way of creating a &#8216;compact&#8217; 
+      definition list.</p>
+<h4>    Tables</h4>
+<p>       Silva tables must contain the same amount of cells in every row. 
+      Row headings become a single cell with style <em>Row Heading</em> if
+      converting Silva to Word.</p>
+<p>       If converting Word to Silva the following rules apply per table:</p>
+<ul class="disc"><li><p>&#8216;max_cells&#8217; is the maximum amount of cells per row.</p></li><li><p>If the current row consists of only one cell and max_cells is
+        greater than one, the cell is considered a row heading.</p></li><li><p>If the current cell's first paragraph has the style <em>Row Heading</em>
+        and max_cells is one, the cell is considered a row heading.</p></li><li><p>If a cell is considered a row heading, only the first paragraph
+        is conveted, other paragraphs are dropped.</p></li><li><p>If a cell is not considered a row heading, all paragraphs are
+        converted.</p></li><li><p>If there are less than max_cells in a row emtpy cells will be
+        created at the end until there are exactly max_cells in the row.</p></li></ul><h3>  Stand alone Silva2Word</h3>
+<p>     From Docma 0.2.1 on it is possible to have Silva2Word running stand
+    alone. To set this up you associate .slv files (Silva XML exports)
+    with C:\Python22\Python.exe c:\the_path_to_docma\silva2word.py.
+    You then can double click on .slv files to get them converted. Word
+    just stays open while you select the next file.</p>
+<p>   Meta:
+</p>
+<pre>    Valid for:  Docma CVS 
+    Author:     Christian Zagrodnick 
+    Email:      cz@gocept.com 
+    CVS:        $Id: README.txt,v 1.13 2003/03/27 09:56:13 zagy Exp $
+</pre>
+<p> <br>
+Copyright &#169; 2002, 2003 Infrae. All rights reserved.<br>
+See also <a class="link" title="" target="_self" href="http://www.infrae.com/products/docma/docma_server/license.txt">LICENSE.txt</a></p>
+
+</article>
+    <aside>
+  <nav>
+    <ol>
+      <li>
+        <a class="active" href="../../index.html">
+          <img class="logo" width="100" height="50" alt="Infrae logo: link to home"
+            src="../../++static++/silvatheme.renaissance/:version:1.0/img/logo_bw.png"
+          />
+        </a>
+        <ol>
+          
+            <li>
+              <a href="../../news.html" class="">News</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../../about.html" class="">About</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../../products.html" class="active">Products</a>
+              
+                
+                  <ol>
+          
+            <li>
+              <a href="../silva.html" class="">Silva</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../mobi.html" class="">Mobi</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../moai.html" class="">MOAI Server</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../documentlibrary.html" class="">OAI Document Library</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../oaipack.html" class="">OAI Pack</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="http://infrae.com/products/silvanewsnetwork" class="">Silva News Network</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../lxml.html" class="">lxml Library</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../formulator.html" class="">Formulator</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../tramline.html" class="">Tramline</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../kupu_editor.html" class="">Kupu</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../railroad.html" class="">Railroad Repository</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../glade.html" class="">Dendra Image Archive</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../docmaproduct.html" class="active">Docma Converter</a>
+              
+                
+                  <ol>
+          
+            <li>
+              <a href="docmaserver.html" class="active">DocmaServer</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="requirements.html" class="">Install and Reqs</a>
+              
+            </li>
+          
+        </ol>
+                
+              
+            </li>
+          
+          
+            <li>
+              <a href="../zsparklines.html" class="">ZSparklines</a>
+              
+            </li>
+          
+        </ol>
+                
+              
+            </li>
+          
+          
+            <li>
+              <a href="../../download.html" class="">Download</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../../service.html" class="">Services</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../../contact.html" class="">Contact</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../../presentations.html" class="">Presentations</a>
+              
+            </li>
+          
+        </ol>
+      </li>
+    </ol>
+  </nav>
+  
+    <section id="follow" class="plot">
+      <h3>Follow us</h3>
+      <ol>
+        <li><a href="http://twitter.com/infrae/" id="twitter">Twitter</a></li>
+        <li><a href="http://www.linkedin.com/company/infrae" id="linkedin">LinkedIn</a></li>
+        <li><a href="../../news/rss.xml" id="rss">RSS feed</a></li>
+      </ol>
+      
+        
+          <!-- Twitter Timeline code source (cs_twittertimeline) -->
+
+  <h3>Latest tweet</h3>
+  <div style="height: auto; overflow: hidden;">
+    <a data-link-color="#0084b4" data-border-color="#777777" data-tweet-limit="1" data-widget-id="345115773511016448" data-chrome="noheader transparent noscrollbar" href="https://twitter.com/Infrae" data-theme="light" class="twitter-timeline">Tweets by Infrae</a>
+  </div>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+  </script><!-- /End Twitter Timeline --><p>
+	&#160;</p>
+
+        
+      
+    </section>
+  
+  
+</aside>
+
+  </div>
+</div>
+
+
+
+<footer>
+  <section id="doormat">
+    <div class="container">
+      <ol class="col33 first">
+        <li><h6>Channels</h6></li>
+        <li><a href="tel:+31102437051">Telephone: +31 10 243 7051 (Fax: 7052)</a></li>
+        <li><a href="../../contact.html">Email: info@infrae.com</a></li>
+        <li><a href="http://twitter.com/home?status=%40infrae%20">Twitter: @infrae</a></li>
+      </ol>
+      <ol class="col33 inbetween">
+        <li><h6>Product jump links</h6></li>
+        <li><a href="https://bugs.launchpad.net/silva">Silva bugs on Launchpad</a></li>
+        <li><a href="../silva/docs.html">Silva latest documentation</a></li>
+        <li><a href="../documentlibrary.html"><abbr title="Open Archive Initiative">OAI</abbr> Document Library application</a></li>
+      </ol>
+      <ol class="col33 last">
+        <li><h6>Site facilities</h6></li>
+        <li><a href="../../search.html">Advanced search</a></li>
+        <li><a href="../../indexer.html">Site Index</a></li>
+        <li><a href="../../sitemap.html">Site Map</a></li>
+      </ol>
+      <ol class="col33 first bottom">
+        <li><h6>Company info</h6></li>
+        <li><a href="../../about/network.html">Network</a></li>
+        <li><a href="../../about/references.html">References</a></li>
+        <li><a href="../../contact/info.html">Corporate info</a></li>
+        <li><a href="../../contact/geolocation.html">Geolocation office</a></li>
+      </ol>
+      <ol class="col33 inbetween bottom">
+        <li><h6>Tech jump links</h6></li>
+        <li><a href="https://dev.infrae.com/browser">Infrae Trac Development Tracker</a></li>
+        <li><a href="http://docs.infrae.com/">Infrae Documentation Center</a></li>
+        <li><a href="http://moai.infrae.com/">MOAI technical website</a></li>
+        <li><a href="http://mobi.infrae.com/">Mobi technical website</a></li>
+      </ol>
+      <ol class="col33 last bottom">
+        <li><h6>Atom/<abbr title="Rich Site Summary">RSS</abbr> resources</h6></li>
+        <li><a href="../../news/rss.xml">Infrae News feed</a></li>
+        <li><a href="../../download/rss.xml">Download area feed</a></li>
+        <li><a href="../../download/silva_all/rss.xml">Silva <abbr title="Content Management System">CMS</abbr> packages feed</a></li>
+        <li><a href="../../download/mobi/rss.xml">Mobi Device Middleware packages feed</a></li>
+      </ol>
+    </div>
+  </section>
+
+  <section id="bottomline">
+    <div class="container">
+      <ol>
+        <li><a href="../../index.html" title="Infrae Homepage">Home</a></li>
+        <li>
+          <a href="../../news.html" class="" title="Infrae News">News</a>
+        </li>
+        <li>
+          <a href="../../about.html" class="" title="About">About</a>
+        </li>
+        <li>
+          <a href="../../products.html" class="active" title="Products">Products</a>
+        </li>
+        <li>
+          <a href="../../download.html" class="" title="Download area">Download</a>
+        </li>
+        <li>
+          <a href="../../service.html" class="" title="Services">Services</a>
+        </li>
+        <li>
+          <a href="../../contact.html" class="" title="Contact">Contact</a>
+        </li>
+        <li>
+          <a href="../../presentations.html" class="" title="Presentations">Presentations</a>
+        </li>
+      </ol>
+      <span>Powered by:</span>
+      <ul>
+        <li><a class="icon icon-silva" href="../silva.html">Silva</a></li>
+        <li><a class="icon icon-zope" href="http://zope.org/">Zope</a></li>
+        <li><a class="icon icon-apache" href="http://apache.org/">Apache</a></li>
+        <li><a class="icon icon-python" href="http://python.org/">Python</a></li>
+      </ul>
+    </div>
+  </section>
+</footer>
+
+<!--[if lt IE 7 ]>
+<script src="js/dd_belatedpng.js"></script>
+<script>DD_belatedPNG.fix('img, .png_bg');</script>
+<![endif]-->
+
+
+</body>
+</html>

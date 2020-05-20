@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://infrae.com/download/OAI/MOAI</id>
+  <title type="text">MOAI Server</title>
+  <subtitle>Download areas for all of Infrae's open source products.</subtitle>
+  <link rel="self"
+        href="http://infrae.com/download/OAI/MOAI/atom.xml"/>
+  <author>
+    <name>sylvain</name>
+  </author>
+  
+    <updated>2009-05-03T05:40:47Z</updated>
+  
+</feed>

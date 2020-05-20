@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Infrae News: Silva 2.3 beta1 Released</title>
+<base href="" />
+<meta charset="UTF-8" />
+<meta name="generator" content="Silva" />
+<meta name="keywords" content="Silva, SNN, Silva News Network, news network, news, content management, CMS, content management system" />
+<meta name="description" content="After a sneak preview at Europython, Infrae is pleased to announce the beta1 release of Silva 2.3. This release adds a slew of new features for users, developers, and system administrators. The most important point is that it uses Python 2.6 and Zope 2.12 (it won’t work with Python 2.4 or any previous version of Zope)." />
+<link rel="schema.dcterms" href="http://purl.org/dc/terms/" />
+<meta name="dcterms.subject" content="Silva 2.3 beta1 released" />
+<meta name="dcterms.abstract" content="After a sneak preview at Europython, Infrae is pleased to announce the beta1 release of Silva 2.3. This release adds a slew of new features for users, developers, and system administrators. The most important point is that it uses Python 2.6 and Zope 2.12 (it won’t work with Python 2.4 or any previous version of Zope)." />
+<meta name="dcterms.rightsHolder" content="Infrae">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+<meta property="twitter:card" content="summary" />
+<meta property="twitter:domain" content="infrae.com" />
+<meta property="twitter:site" content="@infrae" />
+<meta property="twitter:url" content="http://infrae.com/news/silva_2_3b_released" />
+<meta property="twitter:title" content="Silva 2.3 beta1 Released" />
+<meta property="twitter:description" content="Silva 2.3 beta1 released" />
+<meta property="twitter:image:src" content="http://infrae.com/images/infrae_logo120w.png" />
+<meta property="og:url" content="http://infrae.com/news/silva_2_3b_released" />
+<meta property="og:site_name" content="infrae.com" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Silva 2.3 beta1 Released" />
+<meta property="og:description" content="After a sneak preview at Europython, Infrae is pleased to announce the beta1 release of Silva 2.3. This release adds a slew of new features for users, developers, and system administrators. The most important point is that it uses Python 2.6 and Zope 2.12 (it won’t work with Python 2.4 or any previous version of Zope)." />
+<meta property="og:image" content="http://infrae.com/images/infrae_logo120w.png" />
+<meta name="geo.region" content="NL-ZH" />
+<meta name="geo.placename" content="Rotterdam" />
+<meta name="geo.position" content="51.927423;4.466578" />
+<meta name="ICBM" content="51.927423, 4.466578" />
+<meta name="robots" content="index, follow" />
+<meta name="revisit-after" content="10 days" />
+<link rel="canonical" href="silva_2_3b_released.html" />
+<link rel="apple-touch-icon" href="../++static++/silvatheme.renaissance/:version:1.0/img/mobicon.png" />
+<link rel="copyright" title="Copyright" href="../copyright.html" />
+<link rel="alternate" type="application/x-wiki" href="http://infrae.com/news/edit" title="Edit this page (login required)" />
+<!-- Feeds are active -->
+<link rel="alternate" type="application/atom+xml" href="atom.xml" title="Infrae: Silva 2.3 beta1 Released Atom feed" />
+<link rel="alternate" type="application/rss+xml" href="rss.xml" title="Infrae: Silva 2.3 beta1 Released RSS feed" />
+
+
+<link rel="shortcut icon" href="../++static++/silvatheme.renaissance/:version:1.0/img/favicon.ico" />
+<!-- Injector for on-the-fly inclusion -->
+
+
+<link rel="stylesheet" type="text/css" href="../++static++/silvatheme.infraecommon/:version:2013-12-19T15:20:10/:bundle:html5reset.css%3Btypography.css" />
+<link rel="stylesheet" type="text/css" href="../++static++/silvatheme.renaissance/:version:1.0/:bundle:renaissance.css%3Bcontent.css" />
+<script type="text/javascript" src="../++static++/jquery/:version:1.8.2/jquery.min.js"></script>
+<script type="text/javascript" src="../++static++/silvatheme.infraecommon/:version:2013-12-19T15:20:10/modernizr-1.7.min.js"></script>
+</head>
+<body class="silva_2_3b_released">
+<header>
+  <nav class="container">
+    <ol>
+      <li>
+        <a href="../index.html"
+           title="Infrae Homepage" class="icon icon-home">Home</a>
+      </li>
+      <li>
+        <a title="View this page on the mobile site" class="icon icon-mobile" href="http://m.infrae.com/news/silva_2_3b_released">
+          to mobile page
+        </a>
+      </li>
+      <li>
+        <a href="../news.html" class="active" title="Infrae News">News</a>
+      </li>
+      <li>
+        <a href="../about.html" class="" title="About">About</a>
+      </li>
+      <li>
+        <a href="../products.html" class="" title="Products">Products</a>
+      </li>
+      <li>
+        <a href="../download.html" class="" title="Download area">Download</a>
+      </li>
+      <li>
+        <a href="../service.html" class="" title="Services">Services</a>
+      </li>
+      <li>
+        <a href="../contact.html" class="" title="Contact">Contact</a>
+      </li>
+      <li>
+        <a href="../presentations.html" class="" title="Presentations">Presentations</a>
+      </li>
+      <li>
+        <a href="../search.html" title="Search the site"
+           class="icon icon-search" id="searchtrigger">Search</a>
+      </li>
+    </ol>
+  </nav>
+  <form action="../search.html">
+    <section style="display: none" id="search" class="container">
+      
+      Search the site:
+      <input type="text" name="fulltext" />
+      <button type="submit" name="search_submit" value="Submit">Go</button>
+    </section>
+  </form>
+  <script type="text/javascript">
+    $(document).ready(function(){
+       $("section#search").hide();
+       $("a#searchtrigger").toggle(function(event){
+       event.preventDefault();
+       $(this).addClass('active');
+       $("section#search").slideDown(200);
+       $("section#search input").focus();
+    }, function(event) {
+       event.preventDefault();
+       $(this).removeClass('active');
+       $("section#search").slideUp(200);
+    });
+    });
+  </script>
+</header>
+
+
+
+<div id="main"
+     class="$metatype">
+  <div class="container">
+    <article class="col66 first">
+      <share>
+        <a id="tweeter" href="http://twitter.com/home?status=Silva 2.3 beta1 Released:%20http://infrae.com/news/silva_2_3b_released%20">
+          Tweet this
+        </a>
+      </share>
+      <div class="newsitem">
+  <h1 class="heading newsitemheading">Silva 2.3 beta1 Released</h1>
+  <div class="newsiteminfo">
+    <p class="publicationdate">
+      <span class="label">Publication date:</span>
+      <span class="value">5.August.2010, 18:48</span>
+    </p>
+  </div>
+  <div class="newsitemcontent"><p>After a sneak preview at Europython, Infrae is pleased to announce the beta1 release of Silva 2.3. This release adds a slew of new features for users, developers, and system administrators. The most important point is that it uses <strong>Python 2.6</strong> and Zope 2.12 (it <strong>won&#8217;t</strong> work with Python 2.4 or any previous version of Zope).</p>
+<h2> User features</h2>
+<ul class="disc"><li>In Kupu images and linked objects use references so the content objects can be moved across the site without breaking links.</li><li>The forms editor is gone, Documents (and News items in Silva News) are now rendered by default with XSLT.</li><li>Silva Links, Silva Ghost Folders, Silva Ghosts, Silva Indexers and Silva Find also use the same reference mechanism.</li><li>A content object cannot be deleted if it is the target of a reference. This prevents having broken links.</li><li>The XML import/export has been improved to preserve proper references on import independent of the export location. You cannot export content objects that have a reference target outside of the export tree.</li><li>A javascript pop up has been added to select references. The pop up uses a REST API to query the site. </li><li>Silva supports WSGI servers. It is now the recommended way to run Silva. You can use Paste or Apache&#8217;s mod_wsgi.</li></ul><h2>Developer features</h2>
+<ul class="disc"><li>z3c form has been replaced in favor of zeam.form.</li><li>The SMI partially uses silva.core.layout.</li><li>Management of HTTP response headers has been improved.</li><li>Various code optimizations have been performed.</li><li>Many tests have been added, cleaned, refactored,&#160; and improved.</li><li>A new test setup system makes testing easier.</li></ul><h2>Removed products</h2>
+<ul class="disc"><li>The Old SilvaLayout products is no longer distributed by default.</li><li>XMLWidgets are gone.</li></ul><h2>Silva for mobile devices</h2>
+<p>Silva integrates with Mobi, a middleware suite for detecting mobile devices. Silva provides a layout system that is able to choose the best presentation for a mobile device or computer.<br></p>
+<p>For more technical information on Mobi have a look at the product page: <a class="link" title="Mobi" target="_self" href="../download/mobi.html">http://infrae.com/download/mobi</a>.<br></p>
+<h2>Silva News Network</h2>
+<ul class="disc"><li>Silva News Network 2.9 has been refactored with improved calendaring functionality. </li></ul><h3>Check out docs.infrae.com</h3>
+<p>&#160;See <a class="link" title="" target="_self" href="http://docs.infrae.com/">http://docs.infrae.com/</a> for extensive installation documentation. </p>
+<h2>What is Silva?</h2>
+<p> Silva is a powerful <acronym title="Content Management System">CMS</acronym> for organizations that manage multiple or complex websites. Content is stored in clean and futureproof <acronym title="Extensible Markup Language">XML</acronym>, independent of layout and presentation. Features include versioning, workflow system, integral visual editor (<a class="link" title="Kupu" target="_self" href="../products/kupu_editor.html">Kupu</a>), content reuse, sophisticated access control, multi&#8211;site management, extensive import/export facilities, fine&#8211;grained templating, and hi&#8211;res image storage and manipulation.</p>
+<p> For more complete information, see the Silva Product Pages at <a class="link" title="The Silva Content Management System" target="_self" href="../products/silva.html">http://infrae.com/products/silva</a>.</p>
+<h3>Install</h3>
+<p> Silva 2.3 should be installed using buildout:</p>
+<p><a class="link" title="" target="_self" href="https://svn.infrae.com/buildout/silva/tag/Silva-2.3b1/">https://svn.infrae.com/buildout/silva/tag/Silva-2.3b1/</a><br></p>
+<p>or using Paster by selecting the development distribution. For more information on the Silva installation procedure see: <a class="link" title="" target="_blank" href="http://docs.infrae.com/silva/buildout.html">http://docs.infrae.com/silva/buildout.html<br></a></p>
+<h2>Contact</h2>
+<p> <acronym title="For More Information">FMI</acronym> contact Kit Blake, kitblake at infrae com, +31 10 243 7051.</p></div>
+</div>
+
+    </article>
+    <aside>
+  <nav>
+    <ol>
+      <li>
+        <a class="active" href="../index.html">
+          <img class="logo" width="100" height="50" alt="Infrae logo: link to home"
+            src="../++static++/silvatheme.renaissance/:version:1.0/img/logo_bw.png"
+          />
+        </a>
+        <ol>
+          
+            <li>
+              <a href="../news.html" class="active">News</a>
+              
+                
+                  <ol>
+          
+            <li>
+              <a href="filesystemsite_update_released.html" class="">FileSystemSite Update Released</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="moving_to_GitHub.html" class="">Code Moving to GitHub</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="cmis_components_released.html" class="">CMIS Components for Plone Released</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="moai_server_2_0_released.html" class="">MOAI 2.0 Released</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="silva_3_0_released.html" class="">Silva 3.0 Released</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="silva_2_3b_released.html" class="active">Silva 2.3 beta1 Released</a>
+              
+            </li>
+          
+        </ol>
+                
+              
+            </li>
+          
+          
+            <li>
+              <a href="../about.html" class="">About</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../products.html" class="">Products</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../download.html" class="">Download</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../service.html" class="">Services</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../contact.html" class="">Contact</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../presentations.html" class="">Presentations</a>
+              
+            </li>
+          
+        </ol>
+      </li>
+    </ol>
+  </nav>
+  
+    <section id="follow" class="plot">
+      <h3>Follow us</h3>
+      <ol>
+        <li><a href="http://twitter.com/infrae/" id="twitter">Twitter</a></li>
+        <li><a href="http://www.linkedin.com/company/infrae" id="linkedin">LinkedIn</a></li>
+        <li><a href="rss.xml" id="rss">RSS feed</a></li>
+      </ol>
+      
+        
+          <!-- Twitter Timeline code source (cs_twittertimeline) -->
+
+  <h3>Latest tweet</h3>
+  <div style="height: auto; overflow: hidden;">
+    <a data-link-color="#0084b4" data-border-color="#777777" data-tweet-limit="1" data-widget-id="345115773511016448" data-chrome="noheader transparent noscrollbar" href="https://twitter.com/Infrae" data-theme="light" class="twitter-timeline">Tweets by Infrae</a>
+  </div>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+  </script><!-- /End Twitter Timeline --><p>
+	&#160;</p>
+
+        
+      
+    </section>
+  
+  
+</aside>
+
+  </div>
+</div>
+
+
+
+<footer>
+  <section id="doormat">
+    <div class="container">
+      <ol class="col33 first">
+        <li><h6>Channels</h6></li>
+        <li><a href="tel:+31102437051">Telephone: +31 10 243 7051 (Fax: 7052)</a></li>
+        <li><a href="../contact.html">Email: info@infrae.com</a></li>
+        <li><a href="http://twitter.com/home?status=%40infrae%20">Twitter: @infrae</a></li>
+      </ol>
+      <ol class="col33 inbetween">
+        <li><h6>Product jump links</h6></li>
+        <li><a href="https://bugs.launchpad.net/silva">Silva bugs on Launchpad</a></li>
+        <li><a href="../products/silva/docs.html">Silva latest documentation</a></li>
+        <li><a href="../products/documentlibrary.html"><abbr title="Open Archive Initiative">OAI</abbr> Document Library application</a></li>
+      </ol>
+      <ol class="col33 last">
+        <li><h6>Site facilities</h6></li>
+        <li><a href="../search.html">Advanced search</a></li>
+        <li><a href="../indexer.html">Site Index</a></li>
+        <li><a href="../sitemap.html">Site Map</a></li>
+      </ol>
+      <ol class="col33 first bottom">
+        <li><h6>Company info</h6></li>
+        <li><a href="../about/network.html">Network</a></li>
+        <li><a href="../about/references.html">References</a></li>
+        <li><a href="../contact/info.html">Corporate info</a></li>
+        <li><a href="../contact/geolocation.html">Geolocation office</a></li>
+      </ol>
+      <ol class="col33 inbetween bottom">
+        <li><h6>Tech jump links</h6></li>
+        <li><a href="https://dev.infrae.com/browser">Infrae Trac Development Tracker</a></li>
+        <li><a href="http://docs.infrae.com/">Infrae Documentation Center</a></li>
+        <li><a href="http://moai.infrae.com/">MOAI technical website</a></li>
+        <li><a href="http://mobi.infrae.com/">Mobi technical website</a></li>
+      </ol>
+      <ol class="col33 last bottom">
+        <li><h6>Atom/<abbr title="Rich Site Summary">RSS</abbr> resources</h6></li>
+        <li><a href="rss.xml">Infrae News feed</a></li>
+        <li><a href="../download/rss.xml">Download area feed</a></li>
+        <li><a href="../download/silva_all/rss.xml">Silva <abbr title="Content Management System">CMS</abbr> packages feed</a></li>
+        <li><a href="../download/mobi/rss.xml">Mobi Device Middleware packages feed</a></li>
+      </ol>
+    </div>
+  </section>
+
+  <section id="bottomline">
+    <div class="container">
+      <ol>
+        <li><a href="../index.html" title="Infrae Homepage">Home</a></li>
+        <li>
+          <a href="../news.html" class="active" title="Infrae News">News</a>
+        </li>
+        <li>
+          <a href="../about.html" class="" title="About">About</a>
+        </li>
+        <li>
+          <a href="../products.html" class="" title="Products">Products</a>
+        </li>
+        <li>
+          <a href="../download.html" class="" title="Download area">Download</a>
+        </li>
+        <li>
+          <a href="../service.html" class="" title="Services">Services</a>
+        </li>
+        <li>
+          <a href="../contact.html" class="" title="Contact">Contact</a>
+        </li>
+        <li>
+          <a href="../presentations.html" class="" title="Presentations">Presentations</a>
+        </li>
+      </ol>
+      <span>Powered by:</span>
+      <ul>
+        <li><a class="icon icon-silva" href="../products/silva.html">Silva</a></li>
+        <li><a class="icon icon-zope" href="http://zope.org/">Zope</a></li>
+        <li><a class="icon icon-apache" href="http://apache.org/">Apache</a></li>
+        <li><a class="icon icon-python" href="http://python.org/">Python</a></li>
+      </ul>
+    </div>
+  </section>
+</footer>
+
+<!--[if lt IE 7 ]>
+<script src="js/dd_belatedpng.js"></script>
+<script>DD_belatedPNG.fix('img, .png_bg');</script>
+<![endif]-->
+
+
+</body>
+</html>

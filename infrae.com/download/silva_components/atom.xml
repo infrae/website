@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://infrae.com/download/silva_components</id>
+  <title type="text">Silva Components</title>
+  <subtitle>Download areas for all of Infrae's open source products.</subtitle>
+  <link rel="self"
+        href="http://infrae.com/download/silva_components/atom.xml"/>
+  <author>
+    <name>sylvain</name>
+  </author>
+  
+    <updated>2013-05-24T09:48:53Z</updated>
+  
+  <entry>
+    <title>silva.captcha 1.3.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_components/silva.captcha/1.3.1"/>
+    <id>http://infrae.com/download/silva_components/silva.captcha/1.3.1</id>
+    
+      <published>2013-05-24T09:48:53Z</published>
+    
+    
+      <updated>2013-05-24T09:49:58Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="captcha"/>
+    <category term="silva"/>
+    <summary type="xhtml">
+      <div>Captcha support for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.pageactions.printfriendly 1.0.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_components/silva.pageactions.printfriendly/1.0.2"/>
+    <id>http://infrae.com/download/silva_components/silva.pageactions.printfriendly/1.0.2</id>
+    
+      <published>2012-10-17T10:10:44Z</published>
+    
+    
+      <updated>2012-10-17T10:10:52Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="pageactions"/>
+    <category term="print"/>
+    <summary type="xhtml">
+      <div>Display a simple printable version of the content in Silva.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.captcha 1.3</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_components/silva.captcha/1.3"/>
+    <id>http://infrae.com/download/silva_components/silva.captcha/1.3</id>
+    
+      <published>2010-10-18T10:38:41Z</published>
+    
+    
+      <updated>2012-09-04T14:33:57Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="captcha"/>
+    <category term="silva"/>
+    <summary type="xhtml">
+      <div>Captcha support for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.captcha 1.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_components/silva.captcha/1.2"/>
+    <id>http://infrae.com/download/silva_components/silva.captcha/1.2</id>
+    
+      <published>2010-07-16T15:36:39Z</published>
+    
+    
+      <updated>2012-09-04T14:33:57Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="captcha"/>
+    <category term="silva"/>
+    <summary type="xhtml">
+      <div>Captcha support for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.captcha 1.0.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_components/silva.captcha/1.0.1"/>
+    <id>http://infrae.com/download/silva_components/silva.captcha/1.0.1</id>
+    
+      <published>2010-07-16T15:36:33Z</published>
+    
+    
+      <updated>2012-09-04T14:33:57Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="captcha"/>
+    <category term="silva"/>
+    <summary type="xhtml">
+      <div>Captcha support for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.captcha 1.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_components/silva.captcha/1.0"/>
+    <id>http://infrae.com/download/silva_components/silva.captcha/1.0</id>
+    
+      <published>2010-07-16T15:36:30Z</published>
+    
+    
+      <updated>2012-09-04T14:33:57Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="captcha"/>
+    <category term="silva"/>
+    <summary type="xhtml">
+      <div>Captcha support for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.batch 1.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_components/silva.batch/1.1"/>
+    <id>http://infrae.com/download/silva_components/silva.batch/1.1</id>
+    
+      <published>2010-07-15T14:28:55Z</published>
+    
+    
+      <updated>2012-09-04T14:33:57Z</updated>
+    
+    <author>
+      <name>Antonin Amand</name>
+    </author>
+    <category term="batch"/>
+    <category term="silva"/>
+    <category term="pagination"/>
+    <summary type="xhtml">
+      <div>Batch template for silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.pageactions.mailpdf 1.0.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_components/silva.pageactions.mailpdf/1.0.2"/>
+    <id>http://infrae.com/download/silva_components/silva.pageactions.mailpdf/1.0.2</id>
+    
+      <published>2009-11-24T14:45:27Z</published>
+    
+    
+      <updated>2012-09-04T14:33:56Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="pageactions"/>
+    <category term="mail"/>
+    <category term="pdf"/>
+    <summary type="xhtml">
+      <div>Send the current by mail as a PDF.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.pageactions.printfriendly 1.0.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_components/silva.pageactions.printfriendly/1.0.1"/>
+    <id>http://infrae.com/download/silva_components/silva.pageactions.printfriendly/1.0.1</id>
+    
+      <published>2009-11-20T11:17:25Z</published>
+    
+    
+      <updated>2012-09-04T14:33:56Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="pageactions"/>
+    <category term="print"/>
+    <summary type="xhtml">
+      <div>Display a simple printable version of the content in Silva.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.pageactions.pdf 1.0.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_components/silva.pageactions.pdf/1.0.1"/>
+    <id>http://infrae.com/download/silva_components/silva.pageactions.pdf/1.0.1</id>
+    
+      <published>2009-11-20T11:15:33Z</published>
+    
+    
+      <updated>2012-09-04T14:33:56Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="page"/>
+    <category term="actions"/>
+    <category term="pdf"/>
+    <summary type="xhtml">
+      <div>Create a PDF out of the current page in Silva.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.pageactions.mailpdf 1.0.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_components/silva.pageactions.mailpdf/1.0.1"/>
+    <id>http://infrae.com/download/silva_components/silva.pageactions.mailpdf/1.0.1</id>
+    
+      <published>2009-11-20T11:13:11Z</published>
+    
+    
+      <updated>2012-09-04T14:33:56Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="pageactions"/>
+    <category term="mail"/>
+    <category term="pdf"/>
+    <summary type="xhtml">
+      <div>Send the current by mail as a PDF.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.pageactions.printfriendly 1.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_components/silva.pageactions.printfriendly/1.0"/>
+    <id>http://infrae.com/download/silva_components/silva.pageactions.printfriendly/1.0</id>
+    
+      <published>2009-11-18T16:14:30Z</published>
+    
+    
+      <updated>2012-09-04T14:33:56Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="pageactions"/>
+    <category term="print"/>
+    <summary type="xhtml">
+      <div>Display a simple printable version of the content in Silva.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.pageactions.pdf 1.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_components/silva.pageactions.pdf/1.0"/>
+    <id>http://infrae.com/download/silva_components/silva.pageactions.pdf/1.0</id>
+    
+      <published>2009-11-18T16:07:58Z</published>
+    
+    
+      <updated>2012-09-04T14:33:56Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="page"/>
+    <category term="actions"/>
+    <category term="pdf"/>
+    <summary type="xhtml">
+      <div>Create a PDF out of the current page in Silva.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.pageactions.mailpdf 1.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_components/silva.pageactions.mailpdf/1.0"/>
+    <id>http://infrae.com/download/silva_components/silva.pageactions.mailpdf/1.0</id>
+    
+      <published>2009-11-18T15:59:11Z</published>
+    
+    
+      <updated>2012-09-04T14:33:56Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="pageactions"/>
+    <category term="mail"/>
+    <category term="pdf"/>
+    <summary type="xhtml">
+      <div>Send the current by mail as a PDF.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.pageactions.base 1.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_components/silva.pageactions.base/1.0"/>
+    <id>http://infrae.com/download/silva_components/silva.pageactions.base/1.0</id>
+    
+      <published>2009-11-18T15:37:33Z</published>
+    
+    
+      <updated>2012-09-04T14:33:57Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="actions"/>
+    <category term="pages"/>
+    <summary type="xhtml">
+      <div>Action on public pages in Silva.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.captcha 1.2.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_components/silva.captcha/1.2.1"/>
+    <id>http://infrae.com/download/silva_components/silva.captcha/1.2.1</id>
+    
+      <published>2009-11-18T15:22:48Z</published>
+    
+    
+      <updated>2012-09-04T14:33:57Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="captcha"/>
+    <category term="silva"/>
+    <summary type="xhtml">
+      <div>Captcha support for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.batch 1.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_components/silva.batch/1.0"/>
+    <id>http://infrae.com/download/silva_components/silva.batch/1.0</id>
+    
+      <published>2009-11-18T15:15:34Z</published>
+    
+    
+      <updated>2012-09-04T14:33:57Z</updated>
+    
+    <author>
+      <name>Antonin Amand</name>
+    </author>
+    <category term="batch"/>
+    <category term="silva"/>
+    <category term="pagination"/>
+    <summary type="xhtml">
+      <div>Batch template for silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.captcha 1.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_components/silva.captcha/1.1"/>
+    <id>http://infrae.com/download/silva_components/silva.captcha/1.1</id>
+    
+      <published>2008-11-17T15:59:22Z</published>
+    
+    
+      <updated>2012-09-04T14:33:57Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="captcha"/>
+    <category term="silva"/>
+    <summary type="xhtml">
+      <div>Captcha support for Silva</div>
+    </summary>
+  </entry>
+</feed>

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://infrae.com/download/DocumentLibrary</id>
+  <title type="text">OAI Document Library</title>
+  <subtitle>Download areas for all of Infrae's open source products.</subtitle>
+  <link rel="self"
+        href="http://infrae.com/download/DocumentLibrary/atom.xml"/>
+  <author>
+    <name>sylvain</name>
+  </author>
+  
+    <updated>2010-11-04T15:30:15Z</updated>
+  
+  <entry>
+    <title>documentlibrary ldapauth 1.6</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/DocumentLibrary/documentlibrary.ldapauth/1.6"/>
+    <id>http://infrae.com/download/DocumentLibrary/documentlibrary.ldapauth/1.6</id>
+    
+      <published>2010-11-04T15:30:15Z</published>
+    
+    
+      <updated>2012-09-04T14:35:42Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="dms"/>
+    <category term="cms"/>
+    <category term="OAI-PMH"/>
+    <category term="xml"/>
+    <category term="archive"/>
+    <summary type="xhtml">
+      <div>A ldap-based authentication and user management system for the DL.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>OAI Document Library 1.6</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/DocumentLibrary/DocumentLibrary/1.6"/>
+    <id>http://infrae.com/download/DocumentLibrary/DocumentLibrary/1.6</id>
+    
+      <published>2010-11-04T15:19:35Z</published>
+    
+    
+      <updated>2012-09-04T14:35:42Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="dms"/>
+    <category term="cms"/>
+    <category term="OAI-PMH"/>
+    <category term="xml"/>
+    <category term="archive"/>
+    <summary type="xhtml">
+      <div>Document Library is a document management application intended for the
+management and tracking of large amounts of documents in an
+organization. The Document Library helps authors maintain their
+documents, automatically handling versioning, workflow, and expiration
+notification. It provides reviewers (librarians) with updates, fast
+approval, and overviews of all activity. Document Library is built with
+the Zope 3 web application framework.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>SilvaDocumentLibrary 1.6</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/DocumentLibrary/SilvaDocumentLibrary/1.6"/>
+    <id>http://infrae.com/download/DocumentLibrary/SilvaDocumentLibrary/1.6</id>
+    
+      <published>2010-11-04T14:56:10Z</published>
+    
+    
+      <updated>2012-09-04T14:35:42Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="zope2"/>
+    <category term="silva"/>
+    <category term="documentlibrary"/>
+    <category term="harvesting"/>
+    <category term="oai"/>
+    <category term="oaipmh"/>
+    <summary type="xhtml">
+      <div>DocumentLibrary integration for Silva.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>DL Cherry Picker 0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/DocumentLibrary/DLCherryCS/0"/>
+    <id>http://infrae.com/download/DocumentLibrary/DLCherryCS/0</id>
+    
+      <published>2010-01-30T11:51:03Z</published>
+    
+    
+      <updated>2012-09-04T14:35:42Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="download,"/>
+    <category term="open"/>
+    <category term="source,"/>
+    <category term="software,"/>
+    <category term="products,"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Downloads of Infrae Products.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>OAI Document Library 1.5.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/DocumentLibrary/DocumentLibrary/1.5.2"/>
+    <id>http://infrae.com/download/DocumentLibrary/DocumentLibrary/1.5.2</id>
+    
+      <published>2009-09-22T08:37:41Z</published>
+    
+    
+      <updated>2012-09-04T14:35:42Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="download,"/>
+    <category term="open"/>
+    <category term="source,"/>
+    <category term="software,"/>
+    <category term="products,"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Downloads of Infrae Products.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>SilvaDocumentLibrary 1.5</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/DocumentLibrary/SilvaDocumentLibrary/1.5"/>
+    <id>http://infrae.com/download/DocumentLibrary/SilvaDocumentLibrary/1.5</id>
+    
+      <published>2009-07-29T17:45:56Z</published>
+    
+    
+      <updated>2012-09-04T14:35:42Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="download,"/>
+    <category term="open"/>
+    <category term="source,"/>
+    <category term="software,"/>
+    <category term="products,"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Downloads of Infrae Products.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>OAI Document Library 1.5</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/DocumentLibrary/DocumentLibrary/1.5"/>
+    <id>http://infrae.com/download/DocumentLibrary/DocumentLibrary/1.5</id>
+    
+      <published>2009-07-29T17:21:36Z</published>
+    
+    
+      <updated>2012-09-04T14:35:42Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="download,"/>
+    <category term="open"/>
+    <category term="source,"/>
+    <category term="software,"/>
+    <category term="products,"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Downloads of Infrae Products.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>documentlibrary ldapauth 1.5</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/DocumentLibrary/documentlibrary.ldapauth/1.5"/>
+    <id>http://infrae.com/download/DocumentLibrary/documentlibrary.ldapauth/1.5</id>
+    
+      <published>2009-07-29T17:09:31Z</published>
+    
+    
+      <updated>2012-09-04T14:35:42Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="download,"/>
+    <category term="open"/>
+    <category term="source,"/>
+    <category term="software,"/>
+    <category term="products,"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Downloads of Infrae Products.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>OAI Document Library 1.3</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/DocumentLibrary/DocumentLibrary/1.3"/>
+    <id>http://infrae.com/download/DocumentLibrary/DocumentLibrary/1.3</id>
+    
+      <published>2007-11-08T15:58:56Z</published>
+    
+    
+      <updated>2012-09-04T14:35:43Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="download,"/>
+    <category term="open"/>
+    <category term="source,"/>
+    <category term="software,"/>
+    <category term="products,"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Downloads of Infrae Products.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>OAI Document Library 1.2b2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/DocumentLibrary/DocumentLibrary/1.2b2"/>
+    <id>http://infrae.com/download/DocumentLibrary/DocumentLibrary/1.2b2</id>
+    
+      <published>2006-11-23T16:19:56Z</published>
+    
+    
+      <updated>2012-09-04T14:35:43Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="download,"/>
+    <category term="open"/>
+    <category term="source,"/>
+    <category term="software,"/>
+    <category term="products,"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Downloads of Infrae Products.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>OAI Document Library 1.2b1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/DocumentLibrary/DocumentLibrary/1.2b1"/>
+    <id>http://infrae.com/download/DocumentLibrary/DocumentLibrary/1.2b1</id>
+    
+      <published>2006-11-20T17:05:39Z</published>
+    
+    
+      <updated>2012-09-04T14:35:43Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="download,"/>
+    <category term="open"/>
+    <category term="source,"/>
+    <category term="software,"/>
+    <category term="products,"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Downloads of Infrae Products.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>OAI Document Library 1.1b</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/DocumentLibrary/DocumentLibrary/1.1b"/>
+    <id>http://infrae.com/download/DocumentLibrary/DocumentLibrary/1.1b</id>
+    
+      <published>2006-05-03T09:54:19Z</published>
+    
+    
+      <updated>2012-09-04T14:35:43Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="download,"/>
+    <category term="open"/>
+    <category term="source,"/>
+    <category term="software,"/>
+    <category term="products,"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Downloads of Infrae Products.</div>
+    </summary>
+  </entry>
+</feed>

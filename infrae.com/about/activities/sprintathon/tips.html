@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Infrae: Tips for organizing a sprint</title>
+<base href="" />
+<meta charset="UTF-8" />
+<meta name="generator" content="Silva" />
+<meta name="keywords" content="sprint, sprintathon, zope3, Rotterdam, Infrae" />
+<meta name="description" content="Reports about the Zope3 content manamgement Sprint held from 2-6 december 2002 in Rotterdam." />
+<link rel="schema.dcterms" href="http://purl.org/dc/terms/" />
+<meta name="dcterms.subject" content="The Zope3 Rotterdam Sprint." />
+<meta name="dcterms.abstract" content="Reports about the Zope3 content manamgement Sprint held from 2-6 december 2002 in Rotterdam." />
+<meta name="dcterms.rightsHolder" content="Infrae">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+<meta property="twitter:card" content="summary" />
+<meta property="twitter:domain" content="infrae.com" />
+<meta property="twitter:site" content="@infrae" />
+<meta property="twitter:url" content="http://infrae.com/about/activities/sprintathon/tips" />
+<meta property="twitter:title" content="Tips for organizing a sprint" />
+<meta property="twitter:description" content="The Zope3 Rotterdam Sprint." />
+<meta property="twitter:image:src" content="http://infrae.com/images/infrae_logo120w.png" />
+<meta property="og:url" content="http://infrae.com/about/activities/sprintathon/tips" />
+<meta property="og:site_name" content="infrae.com" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Tips for organizing a sprint" />
+<meta property="og:description" content="Reports about the Zope3 content manamgement Sprint held from 2-6 december 2002 in Rotterdam." />
+<meta property="og:image" content="http://infrae.com/images/infrae_logo120w.png" />
+<meta name="geo.region" content="NL-ZH" />
+<meta name="geo.placename" content="Rotterdam" />
+<meta name="geo.position" content="51.927423;4.466578" />
+<meta name="ICBM" content="51.927423, 4.466578" />
+<meta name="robots" content="index, follow" />
+<meta name="revisit-after" content="10 days" />
+<link rel="canonical" href="tips.html" />
+<link rel="apple-touch-icon" href="../../../++static++/silvatheme.renaissance/:version:1.0/img/mobicon.png" />
+<link rel="copyright" title="Copyright" href="../../../copyright.html" />
+<link rel="alternate" type="application/x-wiki" href="http://infrae.com/about/activities/sprintathon/edit" title="Edit this page (login required)" />
+
+
+<link rel="shortcut icon" href="../../../++static++/silvatheme.renaissance/:version:1.0/img/favicon.ico" />
+<!-- Injector for on-the-fly inclusion -->
+
+
+<link rel="stylesheet" type="text/css" href="../../../++static++/silvatheme.infraecommon/:version:2013-12-19T15:20:10/:bundle:html5reset.css%3Btypography.css" />
+<link rel="stylesheet" type="text/css" href="../../../++static++/silva.infrae.contact/:version:1.0/contactform.css" />
+<link rel="stylesheet" type="text/css" href="../../../++static++/silvatheme.renaissance/:version:1.0/:bundle:renaissance.css%3Bcontent.css" />
+<script type="text/javascript" src="../../../++static++/jquery/:version:1.8.2/jquery.min.js"></script>
+<script type="text/javascript" src="../../../++static++/silvatheme.infraecommon/:version:2013-12-19T15:20:10/modernizr-1.7.min.js"></script>
+<script type="text/javascript" src="../../../++static++/silva.infrae.contact/:version:1.0/contactform.js"></script>
+</head>
+<body class="tips">
+<header>
+  <nav class="container">
+    <ol>
+      <li>
+        <a href="../../../index.html"
+           title="Infrae Homepage" class="icon icon-home">Home</a>
+      </li>
+      <li>
+        <a title="View this page on the mobile site" class="icon icon-mobile" href="http://m.infrae.com/about/activities/sprintathon/tips">
+          to mobile page
+        </a>
+      </li>
+      <li>
+        <a href="../../../news.html" class="" title="Infrae News">News</a>
+      </li>
+      <li>
+        <a href="../../../about.html" class="active" title="About">About</a>
+      </li>
+      <li>
+        <a href="../../../products.html" class="" title="Products">Products</a>
+      </li>
+      <li>
+        <a href="../../../download.html" class="" title="Download area">Download</a>
+      </li>
+      <li>
+        <a href="../../../service.html" class="" title="Services">Services</a>
+      </li>
+      <li>
+        <a href="../../../contact.html" class="" title="Contact">Contact</a>
+      </li>
+      <li>
+        <a href="../../../presentations.html" class="" title="Presentations">Presentations</a>
+      </li>
+      <li>
+        <a href="../../../search.html" title="Search the site"
+           class="icon icon-search" id="searchtrigger">Search</a>
+      </li>
+    </ol>
+  </nav>
+  <form action="../../../search.html">
+    <section style="display: none" id="search" class="container">
+      
+      Search the site:
+      <input type="text" name="fulltext" />
+      <button type="submit" name="search_submit" value="Submit">Go</button>
+    </section>
+  </form>
+  <script type="text/javascript">
+    $(document).ready(function(){
+       $("section#search").hide();
+       $("a#searchtrigger").toggle(function(event){
+       event.preventDefault();
+       $(this).addClass('active');
+       $("section#search").slideDown(200);
+       $("section#search input").focus();
+    }, function(event) {
+       event.preventDefault();
+       $(this).removeClass('active');
+       $("section#search").slideUp(200);
+    });
+    });
+  </script>
+</header>
+
+
+
+<div id="main" class="silva-document">
+  <div class="container">
+    <article class="col66 first">
+  <h1>Tips for organizing a sprint</h1>
+  <h3>  Preparation</h3>
+<p>      Keep a spreadsheet of all participants. It should have columns for all key information, such as:</p>
+<ul class="disc"><li><p>name, email, etc</p></li><li><p>bringing a laptop?</p></li><li><p>sprint arrival time
+</p><ul class="square"><li>flight arrival time / flight number</li></ul></li><li><p>sprint departure time (this is essential later)
+</p><ul class="square"><li>flight departure time / flight number</li></ul></li><li><p>hotel / accommodation with telephone</p></li><li><p>mobile phone number</p></li><li><p>vegetarian? &#8730;</p></li></ul><p>   For timing, plan that the people coming from far away arrive the
+night before (insist on this), and leave only in the evening of the
+last day (or the next day). This prevents chaos and disruption at the
+beginning and end. </p>
+<p>   Write directions from the airport, train station, by car, and so
+forth. The directions should be to the hotel / accommodation. Send an
+email with this info, and include links to a mapping site (copy the
+query from the browser if you can). If the sprint is far from the
+hotel, include a link to its location as well. If the hotel has a
+website, include its URL.</p>
+<p>      Locate &#8211; in advance &#8211; a hardware store or electronics store that carries electrical adapters for foreign countries.</p>
+<p>      If you're doing the organizing, think of yourself as the producer, and don't expect to get much sprinting done.</p>
+<h3>  Reception</h3>
+<p>   Remember that people who've travelled into town will need dinner
+and want to gather together on the pre-sprint night. Organize a dinner
+at a restaurant. Choose one that can deal with people trickling in. </p>
+<p>   Make a &#8216;welcome package&#8217; and leave it at the hotel for each
+participant (remember that you only know when they are supposed to
+arrive, the actuality will be different, read: later). The package
+should include a map of the city (see if you can get free ones at the
+tourist office). On the map or a printout mark the location of the
+hotel, the restaurant for the first night, and the sprint location.
+Include a note that people are gathering at the &#8220;first night
+restaurant&#8221;, the dinner time, and your mobile phone number (don't
+assume that people already have it because you mailed it to them).</p>
+<h3>  The Sprint</h3>
+<p>   To make the sprint successful, the participants should only think
+about the software. All other issues (the basics of life) should be
+taken care of by the organizers. </p>
+<p>      The sprint space should be flexible, allowing people to move around and form groups in an ad hoc manner.</p>
+<p>   There will be an introduction or tutorial, and perhaps
+presentations in the course of the sprint. Create a presentation area,
+with beamer, projection screen, and a podium or place for a laptop. If
+space allows, make the presentation area central and permanent. In
+Rotterdam we had the luxury of four beamers, and we kept them beaming
+as people worked, creating an electric atmosphere.</p>
+<p>   If you can get one, have a long monitor cable for the beamer. This
+allows sprinters to stay in their seat and present, avoiding shuffling
+of people and equipment.</p>
+<p>   If the space needs it, provide a microphone / PA system (this also
+helps to keep the focus on the speaker, drowning out inevitable
+mutterings). The clip-on type of microphone is preferable to one you
+have to hold. Radio mikes are the best. Jim Fulton says he doesn't need
+a mike (tell him it makes him even more photogenic).</p>
+<p>      Make sure there are good chairs. If you're renting them, spend the extra money on quality seating.</p>
+<p>   Whiteboards are real assets to the process. Get as many as you can,
+and enough markers. A flip chart is a good second (have extra pads).
+Have some paper around too.</p>
+<p>   Try and avoid bright fluorescent lighting. Use as much daylight as
+possible, but filter it if it's too much. Low light levels work better
+for monitors and create a quiet and relaxed atmosphere.</p>
+<p>   People will need to have checkin rights in the ZC CVS. This is
+actually Zope Corporation's problem, and should be taken care of before
+people arrive. Not everybody will have it done. Help to smooth the
+process by having paper printouts of the contract on hand and fax
+access.</p>
+<p>   Don't underestimate the amount of Internet / ethernet connections.
+People will move around, and shouldn't have to spend time running
+cables, which invariably end up crossing traffic paths. Wireless is of
+course wonderful. If DHCP is not an option, have several lists of IP
+numbers and gateway / DNS settings printed out. </p>
+<p>      Try and have extra hardware and supplies (laptop power converters, push pins, tape, post-it notes).</p>
+<p>   The sprint participants will be &#8216;on a roll&#8217;, and many will want to
+work in the evening too. Sometimes evening sessions are organized,
+where people present / review the work of the day. If the sprint
+location can't stay open in the evening, try and figure something else
+out (a room in a restaurant, a quiet area in a hotel). If there's no
+other option people will work in the hotel lobby.</p>
+<p>   People should be responsible for their own equipment. Leaving
+things overnight at the sprint location is &#8220;at your own risk&#8221;. </p>
+<h4>    Eating</h4>
+<p>   In the morning there should be coffee, tea, and juice (presumably
+people have had breakfast at the hotel, and if they are staying at
+other accommodations, make sure it's taken care of). </p>
+<p>        Have lots of cola and mineral water on hand, all day.</p>
+<p>   For lunch it's best to do it in the sprint location. Going out
+takes too much time and splits up the group. For the Rotterdam sprint
+we bought sandwich makings and spread them out buffet style every day.
+Nobody complained, and at the end I collected a couple euros per day to
+cover the costs (using the spreadsheet to track who ate when). Check
+with vegetarians about what they eat for lunch. Always have some fruit
+around.</p>
+<p>   For dinner there are two ways to go. Organize a big dinner at a
+restaurant or let people split up into groups. It depends on the size
+of the group, but organizing a dinner at a restaurant becomes
+problematic (different tastes, costs, some people want to eat
+separately anyway). </p>
+<p>   If you organize a big dinner, price will be an issue. A lot of
+people are on low budgets. Make a reservation &#8211; and a deal &#8211; in advance
+at the restaurant. If people order normally (from the menu) it'll take
+all night. Work out a limited menu that the kitchen can serve quickly,
+for a low price. Include vegetarian dishes. Chinese restaurants work
+the best due to their platter in the middle style. Watch out for the
+cost of alcoholic drinks (that's where restaurants earn their profit)
+since some people drink much more than others.</p>
+<p>        At the restaurant, keep an eye on where people are putting their expensive laptops.  </p>
+<p>   Compile a list of local restaurants with short descriptions,
+location (map) and price. Post this at the sprint location, allowing
+people to decide when and where they want to go. Locate a couple
+take-out restaurants too. Some people will want to work through dinner.
+Also find a late night option, for those who skip dinner and get hungry
+later. Most restaurants will let you borrow a menu.</p>
+<p>        Social types will want to go out later (bad idea, tell them everything is closed ;-) so have a couple locations in mind.</p>
+<h3>  Takedown</h3>
+<p>   On the last day the team will inevitably run out of time. Try and
+keep people focused until the end. It's easy to overestimate the amount
+of time needed for the takedown. If everybody helps, 15 minutes is
+enough.</p>
+<p>   People will check out of their hotel on the morning of the last
+day, and many will bring their luggage with them to the sprint. Have a
+secure and out of the way place ready. If the hotel is close by, ask
+people to leave their luggage there.</p>
+<p>      Some people who have the time will want to see attractions, or do a little shopping for kids or friends.</p>
+
+</article>
+    <aside>
+  <nav>
+    <ol>
+      <li>
+        <a class="active" href="../../../index.html">
+          <img class="logo" width="100" height="50" alt="Infrae logo: link to home"
+            src="../../../++static++/silvatheme.renaissance/:version:1.0/img/logo_bw.png"
+          />
+        </a>
+        <ol>
+          
+            <li>
+              <a href="../../../news.html" class="">News</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../../../about.html" class="active">About</a>
+              
+                
+                  <ol>
+          
+            <li>
+              <a href="../../network.html" class="">Network</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../../references.html" class="">References</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../../info.html" class="">Corporate Info</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../../technologies.html" class="">Technologies</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../../activities.html" class="active">Activities</a>
+              
+                
+                  <ol>
+          
+            <li>
+              <a href="../europython2004.html" class="">EuroPython 2004</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../reports.html" class="">Reports</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../sprintathon.html" class="active">Rotterdam Sprint</a>
+              
+            </li>
+          
+        </ol>
+                
+              
+            </li>
+          
+        </ol>
+                
+              
+            </li>
+          
+          
+            <li>
+              <a href="../../../products.html" class="">Products</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../../../download.html" class="">Download</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../../../service.html" class="">Services</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../../../contact.html" class="">Contact</a>
+              
+            </li>
+          
+          
+            <li>
+              <a href="../../../presentations.html" class="">Presentations</a>
+              
+            </li>
+          
+        </ol>
+      </li>
+    </ol>
+  </nav>
+  
+  
+    <section id="contactus">
+      <div id="contactusform">
+<form action="http://infrae.com/about/activities/sprintathon/tips/@@index.html#contactusform"
+      method="post"
+      enctype="multipart/form-data" name="contactform" id="contactform">
+
+  <h3>Contact us</h3>
+
+  
+
+
+
+
+
+  
+
+  <div class="fields">
+    <div class="field">
+      
+      
+      
+      <input id="contactform-field-sid" name="contactform.field.sid" class="field field-required" type="hidden" value="10897345-f8c6-4b5a-9c02-8a9b3dcb2d78" />
+
+      
+    </div>
+    <div class="field">
+      
+      
+      
+      <input type="text" value="" id="contactform-field-ne" name="contactform.field.ne" class="field field-textline field-required" required="required" placeholder="Your full name*" size="40" />
+
+      
+    </div>
+    <div class="field">
+      
+      
+      
+      <input type="text" value="" id="contactform-field-cy" name="contactform.field.cy" class="field field-textline" placeholder="Your company name" size="40" />
+
+      
+    </div>
+    <div class="field">
+      
+      
+      
+      <input type="email" value="" id="contactform-field-el" class="field field-email field-required" name="contactform.field.el" required="required" placeholder="Your email address*" size="40" />
+
+
+      
+    </div>
+    <div class="field">
+      
+      
+      
+      <input type="text" value="" id="contactform-field-pe" name="contactform.field.pe" class="field field-textline" placeholder="Your phone number" size="40" />
+
+      
+    </div>
+    <div class="field">
+      
+      
+      
+      <select id="contactform-field-st" name="contactform.field.st" class="field field-choice">
+  <option value="support">Professional Support</option>
+  <option value="training">Technical Training</option>
+  <option value="question">Ask us a question</option>
+  <option value="feedback">Give us your feedback</option>
+</select>
+
+      
+    </div>
+    <div class="field">
+      
+      
+      
+      <textarea id="contactform-field-me" name="contactform.field.me" class="field field-text field-required" rows="5" placeholder="Your message to us*" cols="80" required="required"></textarea>
+
+      
+    </div>
+  </div>
+
+  <div class="actions">
+    <div class="action">
+      <input type="submit" id="contactform-action-contact" name="contactform.action.contact" value="Send" class="action" accesskey="c" />
+
+    </div>
+  </div>
+
+</form>
+</div>
+
+    </section>
+    <section id="facet" class="plot">
+      <h2>
+	Call Infrae HQ</h2>
+
+<div class="image default">
+	<a class="image-link" target="_self" href="tel:+31102437051"><img alt="Infrae telephone QR code" height="87" width="87" src="../../../contact/infrae_qr_tel.png"></a></div>
+
+<p>
+	Scanning reduces typing and typos.</p>
+
+    </section>
+  
+</aside>
+
+  </div>
+</div>
+
+
+
+<footer>
+  <section id="doormat">
+    <div class="container">
+      <ol class="col33 first">
+        <li><h6>Channels</h6></li>
+        <li><a href="tel:+31102437051">Telephone: +31 10 243 7051 (Fax: 7052)</a></li>
+        <li><a href="../../../contact.html">Email: info@infrae.com</a></li>
+        <li><a href="http://twitter.com/home?status=%40infrae%20">Twitter: @infrae</a></li>
+      </ol>
+      <ol class="col33 inbetween">
+        <li><h6>Product jump links</h6></li>
+        <li><a href="https://bugs.launchpad.net/silva">Silva bugs on Launchpad</a></li>
+        <li><a href="../../../products/silva/docs.html">Silva latest documentation</a></li>
+        <li><a href="../../../products/documentlibrary.html"><abbr title="Open Archive Initiative">OAI</abbr> Document Library application</a></li>
+      </ol>
+      <ol class="col33 last">
+        <li><h6>Site facilities</h6></li>
+        <li><a href="../../../search.html">Advanced search</a></li>
+        <li><a href="../../../indexer.html">Site Index</a></li>
+        <li><a href="../../../sitemap.html">Site Map</a></li>
+      </ol>
+      <ol class="col33 first bottom">
+        <li><h6>Company info</h6></li>
+        <li><a href="../../network.html">Network</a></li>
+        <li><a href="../../references.html">References</a></li>
+        <li><a href="../../../contact/info.html">Corporate info</a></li>
+        <li><a href="../../../contact/geolocation.html">Geolocation office</a></li>
+      </ol>
+      <ol class="col33 inbetween bottom">
+        <li><h6>Tech jump links</h6></li>
+        <li><a href="https://dev.infrae.com/browser">Infrae Trac Development Tracker</a></li>
+        <li><a href="http://docs.infrae.com/">Infrae Documentation Center</a></li>
+        <li><a href="http://moai.infrae.com/">MOAI technical website</a></li>
+        <li><a href="http://mobi.infrae.com/">Mobi technical website</a></li>
+      </ol>
+      <ol class="col33 last bottom">
+        <li><h6>Atom/<abbr title="Rich Site Summary">RSS</abbr> resources</h6></li>
+        <li><a href="../../../news/rss.xml">Infrae News feed</a></li>
+        <li><a href="../../../download/rss.xml">Download area feed</a></li>
+        <li><a href="../../../download/silva_all/rss.xml">Silva <abbr title="Content Management System">CMS</abbr> packages feed</a></li>
+        <li><a href="../../../download/mobi/rss.xml">Mobi Device Middleware packages feed</a></li>
+      </ol>
+    </div>
+  </section>
+
+  <section id="bottomline">
+    <div class="container">
+      <ol>
+        <li><a href="../../../index.html" title="Infrae Homepage">Home</a></li>
+        <li>
+          <a href="../../../news.html" class="" title="Infrae News">News</a>
+        </li>
+        <li>
+          <a href="../../../about.html" class="active" title="About">About</a>
+        </li>
+        <li>
+          <a href="../../../products.html" class="" title="Products">Products</a>
+        </li>
+        <li>
+          <a href="../../../download.html" class="" title="Download area">Download</a>
+        </li>
+        <li>
+          <a href="../../../service.html" class="" title="Services">Services</a>
+        </li>
+        <li>
+          <a href="../../../contact.html" class="" title="Contact">Contact</a>
+        </li>
+        <li>
+          <a href="../../../presentations.html" class="" title="Presentations">Presentations</a>
+        </li>
+      </ol>
+      <span>Powered by:</span>
+      <ul>
+        <li><a class="icon icon-silva" href="../../../products/silva.html">Silva</a></li>
+        <li><a class="icon icon-zope" href="http://zope.org/">Zope</a></li>
+        <li><a class="icon icon-apache" href="http://apache.org/">Apache</a></li>
+        <li><a class="icon icon-python" href="http://python.org/">Python</a></li>
+      </ul>
+    </div>
+  </section>
+</footer>
+
+<!--[if lt IE 7 ]>
+<script src="js/dd_belatedpng.js"></script>
+<script>DD_belatedPNG.fix('img, .png_bg');</script>
+<![endif]-->
+
+
+</body>
+</html>

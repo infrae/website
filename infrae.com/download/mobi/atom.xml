@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://infrae.com/download/mobi</id>
+  <title type="text">Mobi</title>
+  <subtitle>Download areas for all of Infrae's open source products.</subtitle>
+  <link rel="self"
+        href="http://infrae.com/download/mobi/atom.xml"/>
+  <author>
+    <name>sylvain</name>
+  </author>
+  
+    <updated>2011-04-14T12:24:31Z</updated>
+  
+  <entry>
+    <title>mobi.devices 1.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/mobi/mobi.devices/1.2"/>
+    <id>http://infrae.com/download/mobi/mobi.devices/1.2</id>
+    
+      <published>2011-04-14T12:24:31Z</published>
+    
+    
+      <updated>2012-09-04T14:33:54Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="download,"/>
+    <category term="open"/>
+    <category term="source,"/>
+    <category term="software,"/>
+    <category term="products,"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Downloads of Infrae Products.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.mobi 1.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/mobi/silva.mobi/1.0"/>
+    <id>http://infrae.com/download/mobi/silva.mobi/1.0</id>
+    
+      <published>2010-12-20T16:01:01Z</published>
+    
+    
+      <updated>2012-09-04T14:33:53Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="mobile"/>
+    <summary type="xhtml">
+      <div>Mobile layout support for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>mobi.devices 1.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/mobi/mobi.devices/1.1"/>
+    <id>http://infrae.com/download/mobi/mobi.devices/1.1</id>
+    
+      <published>2010-12-20T16:00:36Z</published>
+    
+    
+      <updated>2012-09-04T14:33:54Z</updated>
+    
+    <author>
+      <name>Antonin Amand at Infrae</name>
+    </author>
+    <category term="download,"/>
+    <category term="open"/>
+    <category term="source,"/>
+    <category term="software,"/>
+    <category term="products,"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Mobile Device detection library and wsgi middlewares</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>mobi.devices 1.0.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/mobi/mobi.devices/1.0.1"/>
+    <id>http://infrae.com/download/mobi/mobi.devices/1.0.1</id>
+    
+      <published>2010-09-13T17:14:40Z</published>
+    
+    
+      <updated>2012-09-04T14:33:54Z</updated>
+    
+    <author>
+      <name>Antonin Amand at Infrae</name>
+    </author>
+    <category term="download,"/>
+    <category term="open"/>
+    <category term="source,"/>
+    <category term="software,"/>
+    <category term="products,"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Mobile Device detection library and wsgi middlewares</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>mobi.rendering 1.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/mobi/mobi.rendering/1.0"/>
+    <id>http://infrae.com/download/mobi/mobi.rendering/1.0</id>
+    
+      <published>2010-09-13T14:41:47Z</published>
+    
+    
+      <updated>2012-09-04T14:33:53Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="download,"/>
+    <category term="open"/>
+    <category term="source,"/>
+    <category term="software,"/>
+    <category term="products,"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Mobile rendering library</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>mobi.caching 1.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/mobi/mobi.caching/1.0"/>
+    <id>http://infrae.com/download/mobi/mobi.caching/1.0</id>
+    
+      <published>2010-09-13T14:41:40Z</published>
+    
+    
+      <updated>2012-09-04T14:33:53Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="download,"/>
+    <category term="open"/>
+    <category term="source,"/>
+    <category term="software,"/>
+    <category term="products,"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Cache utils</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>mobi.interfaces 1.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/mobi/mobi.interfaces/1.0"/>
+    <id>http://infrae.com/download/mobi/mobi.interfaces/1.0</id>
+    
+      <published>2010-09-13T14:41:30Z</published>
+    
+    
+      <updated>2012-09-04T14:33:54Z</updated>
+    
+    <author>
+      <name>Antonin Amand at Infrae</name>
+    </author>
+    <category term="download,"/>
+    <category term="open"/>
+    <category term="source,"/>
+    <category term="software,"/>
+    <category term="products,"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Mobile libs interfaces package</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>mobi.devices 1.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/mobi/mobi.devices/1.0"/>
+    <id>http://infrae.com/download/mobi/mobi.devices/1.0</id>
+    
+      <published>2010-09-13T14:40:18Z</published>
+    
+    
+      <updated>2012-09-04T14:33:54Z</updated>
+    
+    <author>
+      <name>Antonin Amand at Infrae</name>
+    </author>
+    <category term="download,"/>
+    <category term="open"/>
+    <category term="source,"/>
+    <category term="software,"/>
+    <category term="products,"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Mobile Device detection library and wsgi middlewares</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.mobi 1.0b1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/mobi/silva.mobi/1.0b1"/>
+    <id>http://infrae.com/download/mobi/silva.mobi/1.0b1</id>
+    
+      <published>2010-07-16T15:34:45Z</published>
+    
+    
+      <updated>2012-09-04T14:33:53Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="mobile"/>
+    <summary type="xhtml">
+      <div>Mobile layout support for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>mobi.caching 1.0b1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/mobi/mobi.caching/1.0b1"/>
+    <id>http://infrae.com/download/mobi/mobi.caching/1.0b1</id>
+    
+      <published>2010-07-15T14:01:57Z</published>
+    
+    
+      <updated>2012-09-04T14:33:54Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="download,"/>
+    <category term="open"/>
+    <category term="source,"/>
+    <category term="software,"/>
+    <category term="products,"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Cache utils</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>mobi.devices 1.0b1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/mobi/mobi.devices/1.0b1"/>
+    <id>http://infrae.com/download/mobi/mobi.devices/1.0b1</id>
+    
+      <published>2010-07-15T14:01:23Z</published>
+    
+    
+      <updated>2012-09-04T14:33:54Z</updated>
+    
+    <author>
+      <name>Antonin Amand</name>
+    </author>
+    <category term="download,"/>
+    <category term="open"/>
+    <category term="source,"/>
+    <category term="software,"/>
+    <category term="products,"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Mobile Device detection</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>mobi.interfaces 1.0b1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/mobi/mobi.interfaces/1.0b1"/>
+    <id>http://infrae.com/download/mobi/mobi.interfaces/1.0b1</id>
+    
+      <published>2010-07-15T14:01:02Z</published>
+    
+    
+      <updated>2012-09-04T14:33:55Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="download,"/>
+    <category term="open"/>
+    <category term="source,"/>
+    <category term="software,"/>
+    <category term="products,"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Mobile libs interfaces package</div>
+    </summary>
+  </entry>
+</feed>

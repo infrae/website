@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="http://infrae.com/download/OAI/MOAI">
+    <title>MOAI Server</title>
+    <link>http://infrae.com/download/OAI/MOAI/rss.xml</link>
+    <description>Download areas for all of Infrae's open source products.</description>
+    <dc:creator>sylvain</dc:creator>
+    
+      <dc:date>2009-05-03T05:40:47Z</dc:date>
+    
+    <items>
+      <rdf:Seq>
+      </rdf:Seq>
+    </items>
+  </channel>
+</rdf:RDF>

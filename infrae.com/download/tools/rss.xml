@@ -1,0 +1,1248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="http://infrae.com/download/tools">
+    <title>Tools</title>
+    <link>http://infrae.com/download/tools/rss.xml</link>
+    <description>Download areas for all of Infrae's open source products.</description>
+    <dc:creator>sylvain</dc:creator>
+    
+      <dc:date>2013-10-09T10:46:53Z</dc:date>
+    
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.fileupload/1.0.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.fileupload/1.0"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.wsgi/2.2.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.maildrophost/2.2"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.maildrophost/2.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.uwsgi/1.0"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.i18nextract/1.3.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.testbrowser/2.0.2"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/Sprout/1.1.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/z3locales/0.4.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.rest/1.3"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.wsgi/2.2"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/Sprout/1.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.wsgi/2.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.testbrowser/2.0.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.copyright/1.0a1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.wsgi/2.0.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.testbrowser/2.0"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.wsgi/2.0"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.rest/1.2"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.testing/1.3"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/Sprout/1.0.5"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/z3locales/0.4"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.maildrophost/2.0"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.i18nextract/1.3"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.comethods/1.0"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.testbrowser/2.0b1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.testing/1.2"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.rest/1.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/Sprout/1.0.4"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.wsgi/1.3"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.i18nextract/1.2.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.testbrowser/1.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.wsgi/1.2"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/pydavclient/0.2"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.rest/1.0.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.testbrowser/1.0"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.wsgi/1.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.testing/1.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.cache/1.0.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.cache/1.0"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/z3locales/0.3"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.i18nextract/1.2"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.layout/1.0"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.rest/1.0"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.wsgi/1.0"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.testing/1.0"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/Sprout/1.0.3"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.i18nextract/1.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/infrae.i18nextract/1.0"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/sparrow/1.0b4"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/sparrow/1.0b3"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/sparrow/1.0b2"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/sparrow/1.0b1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/PTProfiler/1.4"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/PTProfiler/1.3"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/z3locales/0.2"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/Sprout/1.0"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/PTProfiler/1.2"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/Sprout/0.8"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/PTProfiler/1.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/zsparklines/0.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/PTProfiler/1.0"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/PTProfiler/1.0b"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/SilvaWindowsInstaller/1.5.3"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/SilvaWindowsInstaller/1.4.2"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/Sprout/0.7"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/z3locales/0.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/Sprout/0.6.2"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/SilvaWindowsInstaller/1.2.2rc1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/SilvaWindowsInstaller/1.1.5rc1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/i18nextract-sa/0.9.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/i18nextract-sa/0.9"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/Sprout/0.6.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/pydavclient/0.1.2"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/Sprout/0.6"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/Sprout/0.5.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/SilvaWindowsInstaller/1.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/SilvaWindowsInstaller/1.0.2"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/pydavclient/0.1.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/pydavclient/0.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/tools/Sprout/0.5"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.fileupload/1.0.1">
+      <title>infrae.fileupload 1.0.1</title>
+      <link>http://infrae.com/download/tools/infrae.fileupload/1.0.1</link>
+      <description>WSGI middleware to manage upload of files</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2013-10-09T10:46:53Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.fileupload/1.0">
+      <title>infrae.fileupload 1.0</title>
+      <link>http://infrae.com/download/tools/infrae.fileupload/1.0</link>
+      <description>WSGI middleware to manage upload of files</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2013-10-08T13:44:43Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.wsgi/2.2.1">
+      <title>infrae.wsgi 2.2.1</title>
+      <link>http://infrae.com/download/tools/infrae.wsgi/2.2.1</link>
+      <description>WSGI support for Zope 2</description>
+      
+      
+        <dc:creator>Sylvain Viollon</dc:creator>
+      
+      
+        <dc:date>2013-10-08T13:20:23Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.maildrophost/2.2">
+      <title>infrae.maildrophost 2.2</title>
+      <link>http://infrae.com/download/tools/infrae.maildrophost/2.2</link>
+      <description>Recipe to install and setup maildrophost server</description>
+      
+      
+        <dc:creator>Sylvain Viollon</dc:creator>
+      
+      
+        <dc:date>2013-10-07T11:52:11Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.maildrophost/2.1">
+      <title>infrae.maildrophost 2.1</title>
+      <link>http://infrae.com/download/tools/infrae.maildrophost/2.1</link>
+      <description>Recipe to install and setup maildrophost server</description>
+      
+      
+        <dc:creator>Sylvain Viollon</dc:creator>
+      
+      
+        <dc:date>2013-08-19T10:45:36Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.uwsgi/1.0">
+      <title>infrae.uwsgi 1.0</title>
+      <link>http://infrae.com/download/tools/infrae.uwsgi/1.0</link>
+      <description>Buildout recipe downloading, compiling and configuring uWSGI.</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2013-08-19T10:09:57Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.i18nextract/1.3.1">
+      <title>infrae.i18nextract 1.3.1</title>
+      <link>http://infrae.com/download/tools/infrae.i18nextract/1.3.1</link>
+      <description>Buildout recipe to extract i18n files in Silva</description>
+      
+      
+        <dc:creator>Sylvain Viollon</dc:creator>
+      
+      
+        <dc:date>2013-05-23T11:36:40Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.testbrowser/2.0.2">
+      <title>infrae.testbrowser 2.0.2</title>
+      <link>http://infrae.com/download/tools/infrae.testbrowser/2.0.2</link>
+      <description>Sane functionnal test browser for WSGI applications</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2013-05-23T09:52:54Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/Sprout/1.1.1">
+      <title>Sprout 1.1.1</title>
+      <link>http://infrae.com/download/tools/Sprout/1.1.1</link>
+      <description>Common Python library which contains reusable components, developed at Infrae.</description>
+      
+      
+        <dc:creator>Martijn Faassen</dc:creator>
+      
+      
+        <dc:date>2013-05-23T09:38:59Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/z3locales/0.4.1">
+      <title>z3locales 0.4.1</title>
+      <link>http://infrae.com/download/tools/z3locales/0.4.1</link>
+      <description>Display localized dates in Zope 2 using Zope 3 components.</description>
+      
+      
+        <dc:creator>Guido Wesdorp</dc:creator>
+      
+      
+        <dc:date>2013-05-23T09:22:14Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.rest/1.3">
+      <title>infrae.rest 1.3</title>
+      <link>http://infrae.com/download/tools/infrae.rest/1.3</link>
+      <description>Define a REST API to access and manage Zope 2 content</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2013-05-23T09:15:21Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.wsgi/2.2">
+      <title>infrae.wsgi 2.2</title>
+      <link>http://infrae.com/download/tools/infrae.wsgi/2.2</link>
+      <description>WSGI support for Zope 2</description>
+      
+      
+        <dc:creator>Sylvain Viollon</dc:creator>
+      
+      
+        <dc:date>2013-05-22T12:37:47Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/Sprout/1.1">
+      <title>Sprout 1.1</title>
+      <link>http://infrae.com/download/tools/Sprout/1.1</link>
+      <description>Common Python library which contains reusable components, developed at Infrae.</description>
+      
+      
+        <dc:creator>Martijn Faassen</dc:creator>
+      
+      
+        <dc:date>2013-03-05T16:47:22Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.wsgi/2.1">
+      <title>infrae.wsgi 2.1</title>
+      <link>http://infrae.com/download/tools/infrae.wsgi/2.1</link>
+      <description>WSGI support for Zope 2</description>
+      
+      
+        <dc:creator>Sylvain Viollon</dc:creator>
+      
+      
+        <dc:date>2012-12-10T16:00:30Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.testbrowser/2.0.1">
+      <title>infrae.testbrowser 2.0.1</title>
+      <link>http://infrae.com/download/tools/infrae.testbrowser/2.0.1</link>
+      <description>Sane functionnal test browser for WSGI applications</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2012-12-10T15:49:20Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.copyright/1.0a1">
+      <title>infrae.copyright 1.0a1</title>
+      <link>http://infrae.com/download/tools/infrae.copyright/1.0a1</link>
+      <description>Buildout recipe to update copyright information in code</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2012-09-25T14:39:33Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.wsgi/2.0.1">
+      <title>infrae.wsgi 2.0.1</title>
+      <link>http://infrae.com/download/tools/infrae.wsgi/2.0.1</link>
+      <description>WSGI support for Zope 2</description>
+      
+      
+        <dc:creator>Sylvain Viollon</dc:creator>
+      
+      
+        <dc:date>2012-09-24T10:08:32Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.testbrowser/2.0">
+      <title>infrae.testbrowser 2.0</title>
+      <link>http://infrae.com/download/tools/infrae.testbrowser/2.0</link>
+      <description>Sane functionnal test browser for WSGI applications</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2012-09-24T09:02:07Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.wsgi/2.0">
+      <title>infrae.wsgi 2.0</title>
+      <link>http://infrae.com/download/tools/infrae.wsgi/2.0</link>
+      <description>WSGI support for Zope 2</description>
+      
+      
+        <dc:creator>Sylvain Viollon</dc:creator>
+      
+      
+        <dc:date>2012-09-04T09:42:46Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.rest/1.2">
+      <title>infrae.rest 1.2</title>
+      <link>http://infrae.com/download/tools/infrae.rest/1.2</link>
+      <description>Define a REST API to access and manage Zope 2 content</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2012-09-04T09:08:03Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.testing/1.3">
+      <title>infrae.testing 1.3</title>
+      <link>http://infrae.com/download/tools/infrae.testing/1.3</link>
+      <description>Define some sane tests layers in Zope 2</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2012-09-03T14:34:46Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/Sprout/1.0.5">
+      <title>Sprout 1.0.5</title>
+      <link>http://infrae.com/download/tools/Sprout/1.0.5</link>
+      <description>Common Python library which contains reusable components, developed at Infrae.</description>
+      
+      
+        <dc:creator>Martijn Faassen</dc:creator>
+      
+      
+        <dc:date>2012-09-03T14:10:57Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/z3locales/0.4">
+      <title>z3locales 0.4</title>
+      <link>http://infrae.com/download/tools/z3locales/0.4</link>
+      <description>Display localized dates in Zope 2 using Zope 3 components.</description>
+      
+      
+        <dc:creator>Guido Wesdorp</dc:creator>
+      
+      
+        <dc:date>2012-09-03T13:52:50Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.maildrophost/2.0">
+      <title>infrae.maildrophost 2.0</title>
+      <link>http://infrae.com/download/tools/infrae.maildrophost/2.0</link>
+      <description>Recipe to install and setup maildrophost server</description>
+      
+      
+        <dc:creator>Sylvain Viollon</dc:creator>
+      
+      
+        <dc:date>2012-08-23T12:21:05Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.i18nextract/1.3">
+      <title>infrae.i18nextract 1.3</title>
+      <link>http://infrae.com/download/tools/infrae.i18nextract/1.3</link>
+      <description>Buildout recipe to extract i18n files in Silva</description>
+      
+      
+        <dc:creator>Sylvain Viollon</dc:creator>
+      
+      
+        <dc:date>2012-08-17T12:52:24Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.comethods/1.0">
+      <title>infrae.comethods 1.0</title>
+      <link>http://infrae.com/download/tools/infrae.comethods/1.0</link>
+      <description>Sugar around Python generators and context managers</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2011-11-07T16:09:38Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.testbrowser/2.0b1">
+      <title>infrae.testbrowser 2.0b1</title>
+      <link>http://infrae.com/download/tools/infrae.testbrowser/2.0b1</link>
+      <description>Sane functionnal test browser for WSGI applications</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2011-11-07T15:46:04Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.testing/1.2">
+      <title>infrae.testing 1.2</title>
+      <link>http://infrae.com/download/tools/infrae.testing/1.2</link>
+      <description>Define some sane tests layers in Zope 2</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2011-11-07T12:55:19Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.rest/1.1">
+      <title>infrae.rest 1.1</title>
+      <link>http://infrae.com/download/tools/infrae.rest/1.1</link>
+      <description>Define a REST API to access and manage Silva content</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2011-11-07T12:35:42Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/Sprout/1.0.4">
+      <title>Sprout 1.0.4</title>
+      <link>http://infrae.com/download/tools/Sprout/1.0.4</link>
+      <description>Common Python library which contains reusable components, developed at Infrae.</description>
+      
+      
+        <dc:creator>Martijn Faassen</dc:creator>
+      
+      
+        <dc:date>2011-11-07T11:13:57Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.wsgi/1.3">
+      <title>infrae.wsgi 1.3</title>
+      <link>http://infrae.com/download/tools/infrae.wsgi/1.3</link>
+      <description>WSGI support for Zope 2</description>
+      
+      
+        <dc:creator>Sylvain Viollon</dc:creator>
+      
+      
+        <dc:date>2011-07-27T07:54:12Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.i18nextract/1.2.1">
+      <title>infrae.i18nextract 1.2.1</title>
+      <link>http://infrae.com/download/tools/infrae.i18nextract/1.2.1</link>
+      <description>Buildout recipe to extract i18n files in Silva</description>
+      
+      
+        <dc:creator>Sylvain Viollon</dc:creator>
+      
+      
+        <dc:date>2011-02-07T12:17:45Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.testbrowser/1.1">
+      <title>infrae.testbrowser 1.1</title>
+      <link>http://infrae.com/download/tools/infrae.testbrowser/1.1</link>
+      <description>Sane functionnal test browser for WSGI applications</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2011-02-07T10:58:27Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.wsgi/1.2">
+      <title>infrae.wsgi 1.2</title>
+      <link>http://infrae.com/download/tools/infrae.wsgi/1.2</link>
+      <description>WSGI support for Zope 2</description>
+      
+      
+        <dc:creator>Sylvain Viollon</dc:creator>
+      
+      
+        <dc:date>2011-02-02T14:35:38Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/pydavclient/0.2">
+      <title>PyDAV Client 0.2</title>
+      <link>http://infrae.com/download/tools/pydavclient/0.2</link>
+      <description>WebDAV client classes using libxml2.</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2010-11-22T13:10:14Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.rest/1.0.1">
+      <title>infrae.rest 1.0.1</title>
+      <link>http://infrae.com/download/tools/infrae.rest/1.0.1</link>
+      <description>Define a REST API to access and manage Silva content</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2010-10-07T13:22:16Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.testbrowser/1.0">
+      <title>infrae.testbrowser 1.0</title>
+      <link>http://infrae.com/download/tools/infrae.testbrowser/1.0</link>
+      <description>Sane functionnal test browser for WSGI applications</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2010-10-07T11:39:30Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.wsgi/1.1">
+      <title>infrae.wsgi 1.1</title>
+      <link>http://infrae.com/download/tools/infrae.wsgi/1.1</link>
+      <description>WSGI support for Zope 2</description>
+      
+      
+        <dc:creator>Sylvain Viollon</dc:creator>
+      
+      
+        <dc:date>2010-10-07T09:40:54Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.testing/1.1">
+      <title>infrae.testing 1.1</title>
+      <link>http://infrae.com/download/tools/infrae.testing/1.1</link>
+      <description>Define some sane tests layers</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2010-10-07T09:09:00Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.cache/1.0.1">
+      <title>infrae.cache 1.0.1</title>
+      <link>http://infrae.com/download/tools/infrae.cache/1.0.1</link>
+      <description>Infrae cache utilities</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2010-10-06T13:34:23Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.cache/1.0">
+      <title>infrae.cache 1.0</title>
+      <link>http://infrae.com/download/tools/infrae.cache/1.0</link>
+      <description>Infrae cache utilities</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2010-10-06T10:40:19Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/z3locales/0.3">
+      <title>z3locales 0.3</title>
+      <link>http://infrae.com/download/tools/z3locales/0.3</link>
+      <description>Display localized dates in Zope 2 using Zope 3 components.</description>
+      
+      
+        <dc:creator>Guido Wesdorp</dc:creator>
+      
+      
+        <dc:date>2010-10-06T10:13:44Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.i18nextract/1.2">
+      <title>infrae.i18nextract 1.2</title>
+      <link>http://infrae.com/download/tools/infrae.i18nextract/1.2</link>
+      <description>Buildout recipe to extract i18n files in Silva</description>
+      
+      
+        <dc:creator>Sylvain Viollon</dc:creator>
+      
+      
+        <dc:date>2010-10-06T09:36:44Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.layout/1.0">
+      <title>infrae.layout 1.0</title>
+      <link>http://infrae.com/download/tools/infrae.layout/1.0</link>
+      <description>Layout system for Zope 2</description>
+      
+      
+        <dc:creator>Sylvain Viollon</dc:creator>
+      
+      
+        <dc:date>2010-07-16T08:14:15Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.rest/1.0">
+      <title>infrae.rest 1.0</title>
+      <link>http://infrae.com/download/tools/infrae.rest/1.0</link>
+      <description>Define a REST API to access and manage Silva content</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2010-07-15T16:30:10Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.wsgi/1.0">
+      <title>infrae.wsgi 1.0</title>
+      <link>http://infrae.com/download/tools/infrae.wsgi/1.0</link>
+      <description>WSGI support for Zope 2</description>
+      
+      
+        <dc:creator>Sylvain Viollon</dc:creator>
+      
+      
+        <dc:date>2010-07-15T16:13:16Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.testing/1.0">
+      <title>infrae.testing 1.0</title>
+      <link>http://infrae.com/download/tools/infrae.testing/1.0</link>
+      <description>Define some sane tests layers</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2010-07-15T15:41:25Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/Sprout/1.0.3">
+      <title>Sprout 1.0.3</title>
+      <link>http://infrae.com/download/tools/Sprout/1.0.3</link>
+      <description>Common Python library which contains reusable components, developed at Infrae.</description>
+      
+      
+        <dc:creator>Martijn Faassen</dc:creator>
+      
+      
+        <dc:date>2010-07-15T14:19:02Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.i18nextract/1.1">
+      <title>infrae.i18nextract 1.1</title>
+      <link>http://infrae.com/download/tools/infrae.i18nextract/1.1</link>
+      <description>Buildout recipe to extract i18n files in Silva</description>
+      
+      
+        <dc:creator>Sylvain Viollon</dc:creator>
+      
+      
+        <dc:date>2010-04-26T12:37:21Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/infrae.i18nextract/1.0">
+      <title>infrae.i18nextract 1.0</title>
+      <link>http://infrae.com/download/tools/infrae.i18nextract/1.0</link>
+      <description>Buildout recipe to extract i18n files in Silva</description>
+      
+      
+        <dc:creator>Sylvain Viollon</dc:creator>
+      
+      
+        <dc:date>2010-04-02T13:04:16Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/sparrow/1.0b4">
+      <title>Sparrow 1.0b4</title>
+      <link>http://infrae.com/download/tools/sparrow/1.0b4</link>
+      <description>Downloads of Infrae Products.</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2009-07-20T13:55:51Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/sparrow/1.0b3">
+      <title>Sparrow 1.0b3</title>
+      <link>http://infrae.com/download/tools/sparrow/1.0b3</link>
+      <description>Downloads of Infrae Products.</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2009-07-20T13:47:20Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/sparrow/1.0b2">
+      <title>Sparrow 1.0b2</title>
+      <link>http://infrae.com/download/tools/sparrow/1.0b2</link>
+      <description>Downloads of Infrae Products.</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2009-07-14T16:31:21Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/sparrow/1.0b1">
+      <title>Sparrow 1.0b1</title>
+      <link>http://infrae.com/download/tools/sparrow/1.0b1</link>
+      <description>Downloads of Infrae Products.</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2009-07-13T14:26:13Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/PTProfiler/1.4">
+      <title>PTProfiler 1.4</title>
+      <link>http://infrae.com/download/tools/PTProfiler/1.4</link>
+      <description>Downloads of Infrae Products.</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2009-05-29T11:02:30Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/PTProfiler/1.3">
+      <title>PTProfiler 1.3</title>
+      <link>http://infrae.com/download/tools/PTProfiler/1.3</link>
+      <description>Downloads of Infrae Products.</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2008-11-19T15:52:02Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/z3locales/0.2">
+      <title>z3locales 0.2</title>
+      <link>http://infrae.com/download/tools/z3locales/0.2</link>
+      <description>Downloads of Infrae Products.</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2008-11-17T16:01:20Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/Sprout/1.0">
+      <title>Sprout 1.0</title>
+      <link>http://infrae.com/download/tools/Sprout/1.0</link>
+      <description>Sprout Download</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2008-11-17T15:58:18Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/PTProfiler/1.2">
+      <title>PTProfiler 1.2</title>
+      <link>http://infrae.com/download/tools/PTProfiler/1.2</link>
+      <description>Downloads of Infrae Products.</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2007-03-28T15:50:11Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/Sprout/0.8">
+      <title>Sprout 0.8</title>
+      <link>http://infrae.com/download/tools/Sprout/0.8</link>
+      <description>Sprout Download</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2007-03-27T15:48:09Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/PTProfiler/1.1">
+      <title>PTProfiler 1.1</title>
+      <link>http://infrae.com/download/tools/PTProfiler/1.1</link>
+      <description>Downloads of Infrae Products.</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2007-03-09T11:57:22Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/zsparklines/0.1">
+      <title>ZSparklines 0.1</title>
+      <link>http://infrae.com/download/tools/zsparklines/0.1</link>
+      <description>Downloads of Infrae Products.</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2006-10-31T17:18:31Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/PTProfiler/1.0">
+      <title>PTProfiler 1.0</title>
+      <link>http://infrae.com/download/tools/PTProfiler/1.0</link>
+      <description>Downloads of Infrae Products.</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2006-09-11T08:50:28Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/PTProfiler/1.0b">
+      <title>PTProfiler 1.0b</title>
+      <link>http://infrae.com/download/tools/PTProfiler/1.0b</link>
+      <description>Downloads of Infrae Products.</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2006-09-11T08:48:50Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/SilvaWindowsInstaller/1.5.3">
+      <title>Silva Windows Installer 1.5.3</title>
+      <link>http://infrae.com/download/tools/SilvaWindowsInstaller/1.5.3</link>
+      <description>Silva Windows Installer Download</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2006-04-18T15:03:54Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/SilvaWindowsInstaller/1.4.2">
+      <title>Silva Windows Installer 1.4.2</title>
+      <link>http://infrae.com/download/tools/SilvaWindowsInstaller/1.4.2</link>
+      <description>Silva Windows Installer Download</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2006-04-18T14:55:34Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/Sprout/0.7">
+      <title>Sprout 0.7</title>
+      <link>http://infrae.com/download/tools/Sprout/0.7</link>
+      <description>Sprout Download</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2006-03-31T15:17:26Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/z3locales/0.1">
+      <title>z3locales 0.1</title>
+      <link>http://infrae.com/download/tools/z3locales/0.1</link>
+      <description>Downloads of Infrae Products.</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2005-11-09T17:19:35Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/Sprout/0.6.2">
+      <title>Sprout 0.6.2</title>
+      <link>http://infrae.com/download/tools/Sprout/0.6.2</link>
+      <description>Sprout Download</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2005-05-25T19:07:46Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/SilvaWindowsInstaller/1.2.2rc1">
+      <title>Silva Windows Installer 1.2.2rc1</title>
+      <link>http://infrae.com/download/tools/SilvaWindowsInstaller/1.2.2rc1</link>
+      <description>Silva Windows Installer Download</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2005-04-29T13:04:40Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/SilvaWindowsInstaller/1.1.5rc1">
+      <title>Silva Windows Installer 1.1.5rc1</title>
+      <link>http://infrae.com/download/tools/SilvaWindowsInstaller/1.1.5rc1</link>
+      <description>Silva Windows Installer Download</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2005-04-29T13:00:35Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/i18nextract-sa/0.9.1">
+      <title>i18nextract stand-alone 0.9.1</title>
+      <link>http://infrae.com/download/tools/i18nextract-sa/0.9.1</link>
+      <description>Downloads of Infrae Products.</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2005-04-19T12:23:05Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/i18nextract-sa/0.9">
+      <title>i18nextract stand-alone 0.9</title>
+      <link>http://infrae.com/download/tools/i18nextract-sa/0.9</link>
+      <description>Downloads of Infrae Products.</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2005-03-08T15:34:22Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/Sprout/0.6.1">
+      <title>Sprout 0.6.1</title>
+      <link>http://infrae.com/download/tools/Sprout/0.6.1</link>
+      <description>Sprout Download</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2005-02-21T16:54:38Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/pydavclient/0.1.2">
+      <title>PyDAV Client 0.1.2</title>
+      <link>http://infrae.com/download/tools/pydavclient/0.1.2</link>
+      <description>PyDAV Client download.</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2005-02-04T14:12:43Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/Sprout/0.6">
+      <title>Sprout 0.6</title>
+      <link>http://infrae.com/download/tools/Sprout/0.6</link>
+      <description>Sprout Download</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2005-01-21T14:54:37Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/Sprout/0.5.1">
+      <title>Sprout 0.5.1</title>
+      <link>http://infrae.com/download/tools/Sprout/0.5.1</link>
+      <description>Sprout Download</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2004-12-21T18:45:51Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/SilvaWindowsInstaller/1.1">
+      <title>Silva Windows Installer 1.1</title>
+      <link>http://infrae.com/download/tools/SilvaWindowsInstaller/1.1</link>
+      <description>Silva Windows Installer Download</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2004-10-01T17:39:24Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/SilvaWindowsInstaller/1.0.2">
+      <title>Silva Windows Installer 1.0.2</title>
+      <link>http://infrae.com/download/tools/SilvaWindowsInstaller/1.0.2</link>
+      <description>Silva Windows Installer Download</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2004-09-27T14:24:54Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/pydavclient/0.1.1">
+      <title>PyDAV Client 0.1.1</title>
+      <link>http://infrae.com/download/tools/pydavclient/0.1.1</link>
+      <description>PyDAV Client download.</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2004-09-16T14:25:00Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/pydavclient/0.1">
+      <title>PyDAV Client 0.1</title>
+      <link>http://infrae.com/download/tools/pydavclient/0.1</link>
+      <description>PyDAV Client download.</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2004-09-14T07:49:58Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/tools/Sprout/0.5">
+      <title>Sprout 0.5</title>
+      <link>http://infrae.com/download/tools/Sprout/0.5</link>
+      <description>Sprout Download</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2004-09-01T14:43:21Z</dc:date>
+      
+    </item>
+  
+</rdf:RDF>

@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="http://infrae.com/download/silva_codesources">
+    <title>Silva Code Sources</title>
+    <link>http://infrae.com/download/silva_codesources/rss.xml</link>
+    <description>This feed contains descriptions and download links for Code Sources for the Silva content management system. Users of Silva 2.1 and later have a Code Source Service that contains the same sources.</description>
+    <dc:creator>sylvain</dc:creator>
+    
+      <dc:date>2013-10-29T11:50:39Z</dc:date>
+    
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/cs_twitter_timeline/1.0"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/rss_atom_feeder_cs/0.2"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/rss_atom_feeder_cs/0.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/silva_portlet_cs/0.5"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/quicktime_cs/0.4"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/search_field_cs/0.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/google_maps_cs/0.2"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/multi_toc_cs/0.5"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/google_maps_cs/0.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/google_calendar_cs/0.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/youtube_cs/0.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/msvideo_cs/0.3"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/quicktime_cs/0.3"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/javaplugin_cs/0.3"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/javaapplet_cs/0.3"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/flash_cs/0.3"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/networkimage_cs/0.3"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/multi_toc_cs/0.4"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/flashsource_cs/0.3"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/flashsource_cs/0.2"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/multi_toc_cs/0.3"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/multi_toc_cs/0.2"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/multi_toc_cs/0.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/related_info_cs/0.2"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/related_info_cs/0.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/msvideo_cs/0.2"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/msvideo_cs/0.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/flash_cs/0.2"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/javaplugin_cs/0.2"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/javaapplet_cs/0.2"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/quicktime_cs/0.2"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/flash_cs/0.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/javaplugin_cs/0.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/javaapplet_cs/0.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/quicktime_cs/0.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/flashsource_cs/0.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/encaptionate_cs/0.2"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/encaptionate_cs/0.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/networkimage_cs/0.2"/>
+        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/networkimage_cs/0.1"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/cs_twitter_timeline/1.0">
+      <title>Twitter Timeline 1.0</title>
+      <link>http://infrae.com/download/silva_codesources/cs_twitter_timeline/1.0</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2013-10-29T11:50:39Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/rss_atom_feeder_cs/0.2">
+      <title>RSS/Atom Feeder CS 0.2</title>
+      <link>http://infrae.com/download/silva_codesources/rss_atom_feeder_cs/0.2</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2010-02-04T07:21:36Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/rss_atom_feeder_cs/0.1">
+      <title>RSS/Atom Feeder CS 0.1</title>
+      <link>http://infrae.com/download/silva_codesources/rss_atom_feeder_cs/0.1</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2010-01-31T12:31:20Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/silva_portlet_cs/0.5">
+      <title>Silva Portlet CS 0.5</title>
+      <link>http://infrae.com/download/silva_codesources/silva_portlet_cs/0.5</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Marc Petitmermet</dc:creator>
+      
+      
+        <dc:date>2008-08-22T12:11:03Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/quicktime_cs/0.4">
+      <title>Quicktime CS 0.4</title>
+      <link>http://infrae.com/download/silva_codesources/quicktime_cs/0.4</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Samuel Schluep</dc:creator>
+      
+      
+        <dc:date>2008-08-14T13:10:27Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/search_field_cs/0.1">
+      <title>Search Field CS 0.1</title>
+      <link>http://infrae.com/download/silva_codesources/search_field_cs/0.1</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2008-07-01T14:49:26Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/google_maps_cs/0.2">
+      <title>Google Maps CS 0.2</title>
+      <link>http://infrae.com/download/silva_codesources/google_maps_cs/0.2</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2008-06-27T15:11:34Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/multi_toc_cs/0.5">
+      <title>MultiTOC CS 0.5</title>
+      <link>http://infrae.com/download/silva_codesources/multi_toc_cs/0.5</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2008-04-19T08:19:06Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/google_maps_cs/0.1">
+      <title>Google Maps CS 0.1</title>
+      <link>http://infrae.com/download/silva_codesources/google_maps_cs/0.1</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2008-04-18T13:02:26Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/google_calendar_cs/0.1">
+      <title>Google Calendar CS 0.1</title>
+      <link>http://infrae.com/download/silva_codesources/google_calendar_cs/0.1</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2008-04-18T13:01:42Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/youtube_cs/0.1">
+      <title>YouTube CS 0.1</title>
+      <link>http://infrae.com/download/silva_codesources/youtube_cs/0.1</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2008-04-18T13:00:57Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/msvideo_cs/0.3">
+      <title>MS Video CS 0.3</title>
+      <link>http://infrae.com/download/silva_codesources/msvideo_cs/0.3</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2007-04-14T05:26:22Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/quicktime_cs/0.3">
+      <title>Quicktime CS 0.3</title>
+      <link>http://infrae.com/download/silva_codesources/quicktime_cs/0.3</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Samuel Schluep</dc:creator>
+      
+      
+        <dc:date>2007-04-14T05:25:32Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/javaplugin_cs/0.3">
+      <title>Java Plugin CS 0.3</title>
+      <link>http://infrae.com/download/silva_codesources/javaplugin_cs/0.3</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Samuel Schluep</dc:creator>
+      
+      
+        <dc:date>2007-04-14T05:24:06Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/javaapplet_cs/0.3">
+      <title>Java Applet CS 0.3</title>
+      <link>http://infrae.com/download/silva_codesources/javaapplet_cs/0.3</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Samuel Schluep</dc:creator>
+      
+      
+        <dc:date>2007-04-14T05:23:15Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/flash_cs/0.3">
+      <title>Flash CS 0.3</title>
+      <link>http://infrae.com/download/silva_codesources/flash_cs/0.3</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Samuel Schluep</dc:creator>
+      
+      
+        <dc:date>2007-04-14T05:17:45Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/networkimage_cs/0.3">
+      <title>Network Image CS 0.3</title>
+      <link>http://infrae.com/download/silva_codesources/networkimage_cs/0.3</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Kit BLAKE</dc:creator>
+      
+      
+        <dc:date>2007-04-07T18:16:20Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/multi_toc_cs/0.4">
+      <title>MultiTOC CS 0.4</title>
+      <link>http://infrae.com/download/silva_codesources/multi_toc_cs/0.4</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2007-03-23T18:57:03Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/flashsource_cs/0.3">
+      <title>Flash Source CS 0.3</title>
+      <link>http://infrae.com/download/silva_codesources/flashsource_cs/0.3</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>University of Bedfordshire</dc:creator>
+      
+      
+        <dc:date>2007-03-22T18:49:23Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/flashsource_cs/0.2">
+      <title>Flash Source CS 0.2</title>
+      <link>http://infrae.com/download/silva_codesources/flashsource_cs/0.2</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>University of Bedfordshire</dc:creator>
+      
+      
+        <dc:date>2007-03-16T08:25:25Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/multi_toc_cs/0.3">
+      <title>MultiTOC CS 0.3</title>
+      <link>http://infrae.com/download/silva_codesources/multi_toc_cs/0.3</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2007-03-07T05:56:35Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/multi_toc_cs/0.2">
+      <title>MultiTOC CS 0.2</title>
+      <link>http://infrae.com/download/silva_codesources/multi_toc_cs/0.2</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2007-02-20T16:45:29Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/multi_toc_cs/0.1">
+      <title>MultiTOC CS 0.1</title>
+      <link>http://infrae.com/download/silva_codesources/multi_toc_cs/0.1</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2007-02-18T08:34:34Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/related_info_cs/0.2">
+      <title>Related Info CS 0.2</title>
+      <link>http://infrae.com/download/silva_codesources/related_info_cs/0.2</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2006-12-25T19:36:15Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/related_info_cs/0.1">
+      <title>Related Info CS 0.1</title>
+      <link>http://infrae.com/download/silva_codesources/related_info_cs/0.1</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2006-12-24T12:56:02Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/msvideo_cs/0.2">
+      <title>MS Video CS 0.2</title>
+      <link>http://infrae.com/download/silva_codesources/msvideo_cs/0.2</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2006-12-18T05:31:10Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/msvideo_cs/0.1">
+      <title>MS Video CS 0.1</title>
+      <link>http://infrae.com/download/silva_codesources/msvideo_cs/0.1</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2006-12-18T05:30:16Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/flash_cs/0.2">
+      <title>Flash CS 0.2</title>
+      <link>http://infrae.com/download/silva_codesources/flash_cs/0.2</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Samuel Schluep</dc:creator>
+      
+      
+        <dc:date>2006-12-18T05:13:38Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/javaplugin_cs/0.2">
+      <title>Java Plugin CS 0.2</title>
+      <link>http://infrae.com/download/silva_codesources/javaplugin_cs/0.2</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Samuel Schluep</dc:creator>
+      
+      
+        <dc:date>2006-12-18T05:12:45Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/javaapplet_cs/0.2">
+      <title>Java Applet CS 0.2</title>
+      <link>http://infrae.com/download/silva_codesources/javaapplet_cs/0.2</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Samuel Schluep</dc:creator>
+      
+      
+        <dc:date>2006-12-18T05:11:47Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/quicktime_cs/0.2">
+      <title>Quicktime CS 0.2</title>
+      <link>http://infrae.com/download/silva_codesources/quicktime_cs/0.2</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Samuel Schluep</dc:creator>
+      
+      
+        <dc:date>2006-12-18T05:04:56Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/flash_cs/0.1">
+      <title>Flash CS 0.1</title>
+      <link>http://infrae.com/download/silva_codesources/flash_cs/0.1</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Samuel Schluep</dc:creator>
+      
+      
+        <dc:date>2006-12-09T10:19:24Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/javaplugin_cs/0.1">
+      <title>Java Plugin CS 0.1</title>
+      <link>http://infrae.com/download/silva_codesources/javaplugin_cs/0.1</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Samuel Schluep</dc:creator>
+      
+      
+        <dc:date>2006-12-09T10:16:57Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/javaapplet_cs/0.1">
+      <title>Java Applet CS 0.1</title>
+      <link>http://infrae.com/download/silva_codesources/javaapplet_cs/0.1</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Samuel Schluep</dc:creator>
+      
+      
+        <dc:date>2006-12-09T10:13:20Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/quicktime_cs/0.1">
+      <title>Quicktime CS 0.1</title>
+      <link>http://infrae.com/download/silva_codesources/quicktime_cs/0.1</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Samuel Schluep</dc:creator>
+      
+      
+        <dc:date>2006-12-09T10:03:03Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/flashsource_cs/0.1">
+      <title>Flash Source CS 0.1</title>
+      <link>http://infrae.com/download/silva_codesources/flashsource_cs/0.1</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>University of Bedfordshire</dc:creator>
+      
+      
+        <dc:date>2006-12-09T09:35:27Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/encaptionate_cs/0.2">
+      <title>Encaptionate CS 0.2</title>
+      <link>http://infrae.com/download/silva_codesources/encaptionate_cs/0.2</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Kit BLAKE</dc:creator>
+      
+      
+        <dc:date>2006-12-09T07:43:19Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/encaptionate_cs/0.1">
+      <title>Encaptionate CS 0.1</title>
+      <link>http://infrae.com/download/silva_codesources/encaptionate_cs/0.1</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Kit BLAKE</dc:creator>
+      
+      
+        <dc:date>2006-12-09T07:42:32Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/networkimage_cs/0.2">
+      <title>Network Image CS 0.2</title>
+      <link>http://infrae.com/download/silva_codesources/networkimage_cs/0.2</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Kit BLAKE</dc:creator>
+      
+      
+        <dc:date>2006-12-09T07:31:44Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/silva_codesources/networkimage_cs/0.1">
+      <title>Network Image CS 0.1</title>
+      <link>http://infrae.com/download/silva_codesources/networkimage_cs/0.1</link>
+      <description>Download Silva Code Sources</description>
+      
+      
+        <dc:creator>Kit BLAKE</dc:creator>
+      
+      
+        <dc:date>2006-12-09T07:17:19Z</dc:date>
+      
+    </item>
+  
+</rdf:RDF>

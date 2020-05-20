@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Silva News Calendaring//lonely event//
+VERSION:2.0
+BEGIN:VEVENT
+CREATED:20120825T180559Z
+DTEND;VALUE=DATE:20120922
+DTSTART;VALUE=DATE:20120921
+LAST-MODIFIED:20120904T143327Z
+LOCATION:London
+SUMMARY:DLDcities – Digital Life Design in the Urban Arena\, at the Crys
+ tal\, London
+UID:396140236@0@silvanews
+URL:http://infrae.com/news/events/dldcitieslondon
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,116 @@
+/* stylesheet for silva find search and searchresult pages */
+
+.searchform input, .searchform select, .searchform textarea {
+  width: 94%;
+}
+
+*:first-child+html .searchform input, *:first-child+html .searchform select, *:first-child+html .searchform textarea {
+  width: 99%; /* IE7 hack */
+}
+
+div.searchform input.searchform-submit {
+  width:auto;
+}
+
+.searchform-title {
+  width: 20%;
+  padding-top:0.25em;
+  padding-right:0.3em;
+}
+
+.searchform-title:after {
+  content:':';
+}
+
+.searchform-description {
+  width: 35%;
+  padding-top:0.25em;
+  padding-left:0.5em;
+}
+
+.searchresult-header {
+  margin: 0.5em 0;
+  padding:0 0.3em;
+  border:1px solid #898a8b;
+}
+
+.searchresult-header span {
+  font-size:11px;
+}
+
+div.searchresult-header a:link {
+  text-decoration:none;
+}
+div.searchresult-header a:visited {
+  text-decoration:none;
+}
+div.searchresult-header a:hover {
+  text-decoration:underline;
+}
+
+body div#content div.searchresults ul li {
+  list-style-type:none;
+  margin:0.5em 0.5em 1.5em -1em;
+}
+
+div.searchresult {
+  margin-top:1em;
+}
+
+.searchresult-ranking {
+  float:right;
+  font-size:0.95em;
+}
+
+.searchresult-counter {
+    margin-left:-1ex;
+}
+
+.searchresult-link {
+  font-weight:bold;
+}
+.searchresult-date:before {
+  content:'(';
+}
+.searchresult-date{
+  font-size:0.85em;  
+}
+.searchresult-date:after {
+  content:')';
+}
+.searchresult-field {
+  display:block;
+  margin-left:2em;
+  padding-left:10em;
+  border-bottom:1px solid #898a8b;
+}
+.searchresult-field-title {
+  float:left;
+  margin-left:-10em;
+  font-style:italic;
+}
+
+.searchresult-snippet{
+  margin-left:2em;
+}
+
+.searchresult-notallowed {
+  color:red;
+}
+
+.searchresult-thumbnail {
+  margin-left:2em;
+  padding-top:0.25em;
+  padding-bottom:0.25em;
+}
+
+.searchresult-breadcrumb { 
+   margin-left:2em;
+   display:block;
+}
+
+.searchresult-nomatch {
+  padding:0.5em;
+  padding-top:1em;
+  text-align:center;
+}

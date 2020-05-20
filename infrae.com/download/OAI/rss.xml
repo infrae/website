@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel rdf:about="http://infrae.com/download/OAI">
+    <title>OAI Components</title>
+    <link>http://infrae.com/download/OAI/rss.xml</link>
+    <description>Download areas for all of Infrae's open source products.</description>
+    <dc:creator>sylvain</dc:creator>
+    
+      <dc:date>2010-12-22T11:45:16Z</dc:date>
+    
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="http://infrae.com/download/OAI/OAICore/2.5"/>
+        <rdf:li rdf:resource="http://infrae.com/download/OAI/OAICore/2.4dev-r46346"/>
+        <rdf:li rdf:resource="http://infrae.com/download/OAI/pyoai/2.4.4"/>
+        <rdf:li rdf:resource="http://infrae.com/download/OAI/MOAI/1.1.2"/>
+        <rdf:li rdf:resource="http://infrae.com/download/OAI/MOAI/1.1.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/OAI/pyoai/2.4.3"/>
+        <rdf:li rdf:resource="http://infrae.com/download/OAI/pyoai/2.4.2"/>
+        <rdf:li rdf:resource="http://infrae.com/download/OAI/MOAI/1.1.0"/>
+        <rdf:li rdf:resource="http://infrae.com/download/OAI/MOAI/1.0.10"/>
+        <rdf:li rdf:resource="http://infrae.com/download/OAI/MOAI/1.0.9"/>
+        <rdf:li rdf:resource="http://infrae.com/download/OAI/MOAI/1.0.8"/>
+        <rdf:li rdf:resource="http://infrae.com/download/OAI/MOAI/1.0.7"/>
+        <rdf:li rdf:resource="http://infrae.com/download/OAI/pyoai/2.4.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/OAI/MOAI/1.0.6"/>
+        <rdf:li rdf:resource="http://infrae.com/download/OAI/MOAI/1.0.5"/>
+        <rdf:li rdf:resource="http://infrae.com/download/OAI/OAICore/2.3"/>
+        <rdf:li rdf:resource="http://infrae.com/download/OAI/MOAI/1.0.4"/>
+        <rdf:li rdf:resource="http://infrae.com/download/OAI/MOAI/1.0.3"/>
+        <rdf:li rdf:resource="http://infrae.com/download/OAI/MOAI/1.0.2"/>
+        <rdf:li rdf:resource="http://infrae.com/download/OAI/MOAI/1.0.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/OAI/MOAI/1.0"/>
+        <rdf:li rdf:resource="http://infrae.com/download/OAI/pyoai/2.4"/>
+        <rdf:li rdf:resource="http://infrae.com/download/OAI/OAICore/2.1.7"/>
+        <rdf:li rdf:resource="http://infrae.com/download/OAI/pyoai/2.2.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/OAI/pyoai/2.1.5"/>
+        <rdf:li rdf:resource="http://infrae.com/download/OAI/pyoai/2.1.3"/>
+        <rdf:li rdf:resource="http://infrae.com/download/OAI/pyoai/2.0"/>
+        <rdf:li rdf:resource="http://infrae.com/download/OAI/pyoai/2.0b1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/OAI/pyoai/1.0.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/OAI/OAICore/1.0.3"/>
+        <rdf:li rdf:resource="http://infrae.com/download/OAI/OAICore/1.0.2"/>
+        <rdf:li rdf:resource="http://infrae.com/download/OAI/OAICore/1.0.1"/>
+        <rdf:li rdf:resource="http://infrae.com/download/OAI/OAICore/1.0"/>
+        <rdf:li rdf:resource="http://infrae.com/download/OAI/pyoai/1.0"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  
+    <item rdf:about="http://infrae.com/download/OAI/OAICore/2.5">
+      <title>OAICore Zope Product 2.5</title>
+      <link>http://infrae.com/download/OAI/OAICore/2.5</link>
+      <description>OAI harvesting support for Zope 2.</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2010-12-22T11:45:16Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/OAI/OAICore/2.4dev-r46346">
+      <title>OAICore Zope Product 2.4dev-r46346</title>
+      <link>http://infrae.com/download/OAI/OAICore/2.4dev-r46346</link>
+      <description>OAI harvesting support for Zope 2.</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2010-11-04T15:13:56Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/OAI/pyoai/2.4.4">
+      <title>OAI-PMH Python Module 2.4.4</title>
+      <link>http://infrae.com/download/OAI/pyoai/2.4.4</link>
+      <description>The oaipmh module is a Python implementation of an "Open Archives
+Initiative Protocol for Metadata Harvesting" (version 2) client and server.
+The protocol is described here:
+
+http://www.openarchives.org/OAI/openarchivesprotocol.html</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2010-09-30T09:22:55Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/OAI/MOAI/1.1.2">
+      <title>MOAI Server 1.1.2</title>
+      <link>http://infrae.com/download/OAI/MOAI/1.1.2</link>
+      <description>Downloads of Infrae Products.</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2010-09-30T09:00:53Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/OAI/MOAI/1.1.1">
+      <title>MOAI Server 1.1.1</title>
+      <link>http://infrae.com/download/OAI/MOAI/1.1.1</link>
+      <description>Downloads of Infrae Products.</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2010-09-02T13:33:55Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/OAI/pyoai/2.4.3">
+      <title>OAI-PMH Python Module 2.4.3</title>
+      <link>http://infrae.com/download/OAI/pyoai/2.4.3</link>
+      <description>The oaipmh module is a Python implementation of an "Open Archives
+Initiative Protocol for Metadata Harvesting" (version 2) client and server.
+The protocol is described here:
+
+http://www.openarchives.org/OAI/openarchivesprotocol.html</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2010-08-19T13:44:40Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/OAI/pyoai/2.4.2">
+      <title>OAI-PMH Python Module 2.4.2</title>
+      <link>http://infrae.com/download/OAI/pyoai/2.4.2</link>
+      <description>OAI-PMH Python Module Download</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2010-05-03T15:42:45Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/OAI/MOAI/1.1.0">
+      <title>MOAI Server 1.1.0</title>
+      <link>http://infrae.com/download/OAI/MOAI/1.1.0</link>
+      <description>Downloads of Infrae Products.</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2010-04-08T12:16:09Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/OAI/MOAI/1.0.10">
+      <title>MOAI Server 1.0.10</title>
+      <link>http://infrae.com/download/OAI/MOAI/1.0.10</link>
+      <description>Downloads of Infrae Products.</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2010-03-25T09:34:01Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/OAI/MOAI/1.0.9">
+      <title>MOAI Server 1.0.9</title>
+      <link>http://infrae.com/download/OAI/MOAI/1.0.9</link>
+      <description>Downloads of Infrae Products.</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2010-02-16T11:36:44Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/OAI/MOAI/1.0.8">
+      <title>MOAI Server 1.0.8</title>
+      <link>http://infrae.com/download/OAI/MOAI/1.0.8</link>
+      <description>Downloads of Infrae Products.</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2009-11-18T12:39:12Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/OAI/MOAI/1.0.7">
+      <title>MOAI Server 1.0.7</title>
+      <link>http://infrae.com/download/OAI/MOAI/1.0.7</link>
+      <description>Downloads of Infrae Products.</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2009-11-16T16:55:54Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/OAI/pyoai/2.4.1">
+      <title>OAI-PMH Python Module 2.4.1</title>
+      <link>http://infrae.com/download/OAI/pyoai/2.4.1</link>
+      <description>OAI-PMH Python Module Download</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2009-11-16T16:42:19Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/OAI/MOAI/1.0.6">
+      <title>MOAI Server 1.0.6</title>
+      <link>http://infrae.com/download/OAI/MOAI/1.0.6</link>
+      <description>Downloads of Infrae Products.</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2009-08-12T14:57:34Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/OAI/MOAI/1.0.5">
+      <title>MOAI Server 1.0.5</title>
+      <link>http://infrae.com/download/OAI/MOAI/1.0.5</link>
+      <description>Downloads of Infrae Products.</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2009-08-12T14:00:14Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/OAI/OAICore/2.3">
+      <title>OAICore Zope Product 2.3</title>
+      <link>http://infrae.com/download/OAI/OAICore/2.3</link>
+      <description>OAI Core Download</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2009-07-29T16:19:48Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/OAI/MOAI/1.0.4">
+      <title>MOAI Server 1.0.4</title>
+      <link>http://infrae.com/download/OAI/MOAI/1.0.4</link>
+      <description>Downloads of Infrae Products.</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2009-07-15T09:41:38Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/OAI/MOAI/1.0.3">
+      <title>MOAI Server 1.0.3</title>
+      <link>http://infrae.com/download/OAI/MOAI/1.0.3</link>
+      <description>Downloads of Infrae Products.</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2009-06-23T16:23:06Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/OAI/MOAI/1.0.2">
+      <title>MOAI Server 1.0.2</title>
+      <link>http://infrae.com/download/OAI/MOAI/1.0.2</link>
+      <description>Downloads of Infrae Products.</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2009-05-20T12:55:36Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/OAI/MOAI/1.0.1">
+      <title>MOAI Server 1.0.1</title>
+      <link>http://infrae.com/download/OAI/MOAI/1.0.1</link>
+      <description>Downloads of Infrae Products.</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2009-05-19T15:23:08Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/OAI/MOAI/1.0">
+      <title>MOAI Server 1.0</title>
+      <link>http://infrae.com/download/OAI/MOAI/1.0</link>
+      <description>Downloads of Infrae Products.</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2009-05-04T16:07:53Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/OAI/pyoai/2.4">
+      <title>OAI-PMH Python Module 2.4</title>
+      <link>http://infrae.com/download/OAI/pyoai/2.4</link>
+      <description>OAI-PMH Python Module Download</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2009-05-04T13:51:40Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/OAI/OAICore/2.1.7">
+      <title>OAICore Zope Product 2.1.7</title>
+      <link>http://infrae.com/download/OAI/OAICore/2.1.7</link>
+      <description>OAI harvesting support for Zope 2.</description>
+      
+      
+        <dc:creator>Infrae</dc:creator>
+      
+      
+        <dc:date>2008-11-17T15:06:39Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/OAI/pyoai/2.2.1">
+      <title>OAI-PMH Python Module 2.2.1</title>
+      <link>http://infrae.com/download/OAI/pyoai/2.2.1</link>
+      <description>OAI-PMH Python Module Download</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2008-07-11T12:50:09Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/OAI/pyoai/2.1.5">
+      <title>OAI-PMH Python Module 2.1.5</title>
+      <link>http://infrae.com/download/OAI/pyoai/2.1.5</link>
+      <description>OAI-PMH Python Module Download</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2006-10-02T08:20:36Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/OAI/pyoai/2.1.3">
+      <title>OAI-PMH Python Module 2.1.3</title>
+      <link>http://infrae.com/download/OAI/pyoai/2.1.3</link>
+      <description>OAI-PMH Python Module Download</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2006-05-01T16:14:26Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/OAI/pyoai/2.0">
+      <title>OAI-PMH Python Module 2.0</title>
+      <link>http://infrae.com/download/OAI/pyoai/2.0</link>
+      <description>OAI-PMH Python Module Download</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2006-01-26T14:21:02Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/OAI/pyoai/2.0b1">
+      <title>OAI-PMH Python Module 2.0b1</title>
+      <link>http://infrae.com/download/OAI/pyoai/2.0b1</link>
+      <description>OAI-PMH Python Module Download</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2005-11-21T14:22:10Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/OAI/pyoai/1.0.1">
+      <title>OAI-PMH Python Module 1.0.1</title>
+      <link>http://infrae.com/download/OAI/pyoai/1.0.1</link>
+      <description>OAI-PMH Python Module Download</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2005-01-03T15:22:26Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/OAI/OAICore/1.0.3">
+      <title>OAICore Zope Product 1.0.3</title>
+      <link>http://infrae.com/download/OAI/OAICore/1.0.3</link>
+      <description>OAI Core Download</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2004-12-14T13:39:21Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/OAI/OAICore/1.0.2">
+      <title>OAICore Zope Product 1.0.2</title>
+      <link>http://infrae.com/download/OAI/OAICore/1.0.2</link>
+      <description>OAI Core Download</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2004-11-16T13:21:53Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/OAI/OAICore/1.0.1">
+      <title>OAICore Zope Product 1.0.1</title>
+      <link>http://infrae.com/download/OAI/OAICore/1.0.1</link>
+      <description>OAI Core Download</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2004-10-18T12:03:39Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/OAI/OAICore/1.0">
+      <title>OAICore Zope Product 1.0</title>
+      <link>http://infrae.com/download/OAI/OAICore/1.0</link>
+      <description>OAI Core Download</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2004-10-13T17:08:00Z</dc:date>
+      
+    </item>
+  
+  
+    <item rdf:about="http://infrae.com/download/OAI/pyoai/1.0">
+      <title>OAI-PMH Python Module 1.0</title>
+      <link>http://infrae.com/download/OAI/pyoai/1.0</link>
+      <description>OAI-PMH Python Module Download</description>
+      
+      
+        <dc:creator></dc:creator>
+      
+      
+        <dc:date>2004-10-13T17:07:36Z</dc:date>
+      
+    </item>
+  
+</rdf:RDF>

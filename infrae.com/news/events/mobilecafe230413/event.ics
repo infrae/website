@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+PRODID:-//Silva News Calendaring//lonely event//
+VERSION:2.0
+BEGIN:VEVENT
+CREATED:20140418T153614Z
+DTEND:20140423T190000Z
+DTSTART:20140423T150000Z
+LAST-MODIFIED:20140418T153641Z
+LOCATION:One Shoe\, Janskerkhof 16\, Utrecht
+SUMMARY:Mobile Café Meetup: Next level mobile marketing
+UID:2078028626@0@silvanews
+URL:http://infrae.com/news/events/mobilecafe230413
+END:VEVENT
+END:VCALENDAR

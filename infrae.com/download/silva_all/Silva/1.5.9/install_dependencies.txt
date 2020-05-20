@@ -1,0 +1,60 @@
+Installing Silva 1.5.9 and dependencies from source
+===================================================
+
+0) Choose where to install the instance::
+
+     PREFIX=$HOME/silva-1.5.9
+
+1) Download and install Python 2.3::
+
+     cd /tmp
+     wget http://www.python.org/ftp/python/2.3.6/Python-2.3.6.tgz
+     tar xzfv Python-2.3.6.tgz
+     cd Python-2.3.6
+     ./configure --prefix=$PREFIX
+     make install
+
+2) Download and install libxml2::
+
+     cd /tmp
+     wget ftp://ftp.xmlsoft.org/libxml2/libxml2-2.6.27.tar.gz
+     tar xzfv libxml2-2.6.27.tar.gz
+     cd libxml2-2.6.27
+     ./configure --prefix=$PREFIX --with-python=$PREFIX/bin/python
+     make install
+
+3) Download and install libxslt2::
+
+     cd /tmp
+     wget ftp://ftp.xmlsoft.org/libxml2/libxslt-1.1.19.tar.gz
+     tar xzfv libxslt-1.1.19.tar.gz
+     cd libxslt-1.1.19
+     ./configure --prefix=$PREFIX --with-python=$PREFIX/bin/python
+     make install
+
+4) Download and install Python Imaging Library::
+
+     cd /tmp
+     wget http://effbot.org/downloads/Imaging-1.1.6.tar.gz
+     tar xzfv Imaging-1.1.6.tar.gz
+     cd Imaging-1.1.6
+     python setup.py install --home=$PREFIX
+
+5) Download and install Zope 2.8::
+
+     cd /tmp
+     wget http://www.zope.org/Products/Zope/2.8.8/Zope-2.8.8-final.tgz
+     tar xzfv Zope-2.8.8-final.tgz
+     cd Zope-2.8.8-final
+     ./configure --prefix=$PREFIX --with-python=$PREFIX/bin/python
+     make install
+
+6) Create a new Zope instance::
+
+     $PREFIX/bin/mkzopeinstance.py --dir $PREFIX --user myuser:pwd
+
+7) Download and install Silva::
+
+     cd $PREFIX/Products
+     wget http://www.infrae.com/download/Silva/1.5.9/Silva-1.5.9-all.tgz
+     tar xzfv Silva-1.5.9-all.tgz

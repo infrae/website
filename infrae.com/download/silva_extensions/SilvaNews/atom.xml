@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://infrae.com/download/silva_extensions/SilvaNews</id>
+  <title type="text">Silva News Network</title>
+  <subtitle>Download area for SilvaNews, the news extension for Silva.</subtitle>
+  <link rel="self"
+        href="http://infrae.com/download/silva_extensions/SilvaNews/atom.xml"/>
+  <author>
+    <name>sylvain</name>
+  </author>
+  
+    <updated>2004-08-17T12:06:48Z</updated>
+  
+</feed>

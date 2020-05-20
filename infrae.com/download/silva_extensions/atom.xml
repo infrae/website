@@ -1,0 +1,4508 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://infrae.com/download/silva_extensions</id>
+  <title type="text">Silva Extensions</title>
+  <subtitle>Descriptions and download of extensions for the Silva content management system</subtitle>
+  <link rel="self"
+        href="http://infrae.com/download/silva_extensions/atom.xml"/>
+  <author>
+    <name>sylvain</name>
+  </author>
+  
+    <updated>2013-12-19T13:32:18Z</updated>
+  
+  <entry>
+    <title>silva.app.news 3.0.4</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.app.news/3.0.4"/>
+    <id>http://infrae.com/download/silva_extensions/silva.app.news/3.0.4</id>
+    
+      <published>2013-12-19T13:32:18Z</published>
+    
+    
+      <updated>2013-12-19T13:32:52Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="news"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>News extension for Silva 3</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Find 3.0.4</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaFind/3.0.4"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaFind/3.0.4</id>
+    
+      <published>2013-12-16T15:17:45Z</published>
+    
+    
+      <updated>2013-12-16T15:22:55Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="search"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>Search extension for Silva CMS</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Forum 3.0.3</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaForum/3.0.3"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaForum/3.0.3</id>
+    
+      <published>2013-12-16T14:47:42Z</published>
+    
+    
+      <updated>2013-12-16T14:48:23Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="forum"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>Forum content types for Silva CMS</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.app.subscriptions 3.0.3</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.app.subscriptions/3.0.3"/>
+    <id>http://infrae.com/download/silva_extensions/silva.app.subscriptions/3.0.3</id>
+    
+      <published>2013-12-16T14:34:11Z</published>
+    
+    
+      <updated>2013-12-16T14:34:40Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="silva"/>
+    <category term="app"/>
+    <category term="redirect"/>
+    <category term="permanent"/>
+    <category term="http"/>
+    <summary type="xhtml">
+      <div>Let people subscribe to content changes in Silva CMS</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.pas.base 3.0.4</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.pas.base/3.0.4"/>
+    <id>http://infrae.com/download/silva_extensions/silva.pas.base/3.0.4</id>
+    
+      <published>2013-12-16T14:20:05Z</published>
+    
+    
+      <updated>2013-12-16T14:20:47Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="pas"/>
+    <category term="silva"/>
+    <summary type="xhtml">
+      <div>Authentication support for Silva CMS</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.security.addables 3.0.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.security.addables/3.0.2"/>
+    <id>http://infrae.com/download/silva_extensions/silva.security.addables/3.0.2</id>
+    
+      <published>2013-12-16T14:10:33Z</published>
+    
+    
+      <updated>2013-12-16T14:10:58Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="silva"/>
+    <category term="roles"/>
+    <category term="security"/>
+    <summary type="xhtml">
+      <div>Configure which content type is addable for which Silva roles</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.app.shorturl 3.0.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.app.shorturl/3.0.2"/>
+    <id>http://infrae.com/download/silva_extensions/silva.app.shorturl/3.0.2</id>
+    
+      <published>2013-10-09T13:25:14Z</published>
+    
+    
+      <updated>2013-10-09T13:25:19Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="shorturl"/>
+    <summary type="xhtml">
+      <div>Short url generation for silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.app.news 3.0.3</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.app.news/3.0.3"/>
+    <id>http://infrae.com/download/silva_extensions/silva.app.news/3.0.3</id>
+    
+      <published>2013-10-09T13:15:13Z</published>
+    
+    
+      <updated>2013-10-09T13:15:43Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="news"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>News extension for Silva 3.x.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Forum 3.0.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaForum/3.0.2"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaForum/3.0.2</id>
+    
+      <published>2013-10-09T13:01:03Z</published>
+    
+    
+      <updated>2013-10-09T13:01:45Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="forum"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>Forum for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Find 3.0.3</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaFind/3.0.3"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaFind/3.0.3</id>
+    
+      <published>2013-10-08T15:41:24Z</published>
+    
+    
+      <updated>2013-10-08T15:42:14Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="search"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>Search support for Silva.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.app.mediacontent 3.0.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.app.mediacontent/3.0.2"/>
+    <id>http://infrae.com/download/silva_extensions/silva.app.mediacontent/3.0.2</id>
+    
+      <published>2013-10-08T15:09:55Z</published>
+    
+    
+      <updated>2013-10-08T15:10:42Z</updated>
+    
+    <author>
+      <name>Antonin Amand</name>
+    </author>
+    <category term="media"/>
+    <category term="silva"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Media content types for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva News Network 3.0.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaNews/3.0.1"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaNews/3.0.1</id>
+    
+      <published>2013-08-26T15:10:45Z</published>
+    
+    
+      <updated>2013-08-26T15:17:48Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="news"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>News extension for Silva 2.x.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Poll 3.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaPoll/3.0"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaPoll/3.0</id>
+    
+      <published>2013-08-26T14:50:05Z</published>
+    
+    
+      <updated>2013-08-26T15:01:34Z</updated>
+    
+    <author>
+      <name>Guido Wesdorp, Wim Boucquaert, Jasper Op De Coul</name>
+    </author>
+    <category term="poll"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>Poll for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.pas.base 3.0.3</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.pas.base/3.0.3"/>
+    <id>http://infrae.com/download/silva_extensions/silva.pas.base/3.0.3</id>
+    
+      <published>2013-08-26T14:03:57Z</published>
+    
+    
+      <updated>2013-08-26T14:05:18Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="pas"/>
+    <category term="silva"/>
+    <summary type="xhtml">
+      <div>Base PluggableAuthService support for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.app.news 3.0.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.app.news/3.0.2"/>
+    <id>http://infrae.com/download/silva_extensions/silva.app.news/3.0.2</id>
+    
+      <published>2013-05-27T11:38:05Z</published>
+    
+    
+      <updated>2013-05-27T11:38:33Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="news"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>News extension for Silva 3.x.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.app.shorturl 3.0.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.app.shorturl/3.0.1"/>
+    <id>http://infrae.com/download/silva_extensions/silva.app.shorturl/3.0.1</id>
+    
+      <published>2013-05-24T12:11:00Z</published>
+    
+    
+      <updated>2013-05-24T12:11:29Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="shorturl"/>
+    <summary type="xhtml">
+      <div>Short url generation for silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Forum 3.0.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaForum/3.0.1"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaForum/3.0.1</id>
+    
+      <published>2013-05-24T11:57:05Z</published>
+    
+    
+      <updated>2013-05-24T11:57:26Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="forum"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>Forum for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.app.subscriptions 3.0.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.app.subscriptions/3.0.2"/>
+    <id>http://infrae.com/download/silva_extensions/silva.app.subscriptions/3.0.2</id>
+    
+      <published>2013-05-24T11:47:30Z</published>
+    
+    
+      <updated>2013-05-24T11:48:01Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="silva"/>
+    <category term="app"/>
+    <category term="redirect"/>
+    <category term="permanent"/>
+    <category term="http"/>
+    <summary type="xhtml">
+      <div>Let people subscribe to content changes</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Find 3.0.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaFind/3.0.2"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaFind/3.0.2</id>
+    
+      <published>2013-05-24T10:35:49Z</published>
+    
+    
+      <updated>2013-05-24T10:36:10Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="search"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>Search support for Silva.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.pas.openid 3.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.pas.openid/3.0"/>
+    <id>http://infrae.com/download/silva_extensions/silva.pas.openid/3.0</id>
+    
+      <published>2013-05-24T09:28:48Z</published>
+    
+    
+      <updated>2013-05-24T09:29:19Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="pas"/>
+    <category term="openid"/>
+    <category term="silva"/>
+    <summary type="xhtml">
+      <div>OpenID suport for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.pas.base 3.0.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.pas.base/3.0.2"/>
+    <id>http://infrae.com/download/silva_extensions/silva.pas.base/3.0.2</id>
+    
+      <published>2013-05-24T09:13:20Z</published>
+    
+    
+      <updated>2013-05-24T09:13:36Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="pas"/>
+    <category term="silva"/>
+    <summary type="xhtml">
+      <div>Base PluggableAuthService support for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.app.mediacontent 3.0.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.app.mediacontent/3.0.1"/>
+    <id>http://infrae.com/download/silva_extensions/silva.app.mediacontent/3.0.1</id>
+    
+      <published>2013-05-23T14:08:05Z</published>
+    
+    
+      <updated>2013-05-23T14:09:11Z</updated>
+    
+    <author>
+      <name>Antonin Amand</name>
+    </author>
+    <category term="media"/>
+    <category term="silva"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Media content types for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.app.redirectlink 3.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.app.redirectlink/3.0"/>
+    <id>http://infrae.com/download/silva_extensions/silva.app.redirectlink/3.0</id>
+    
+      <published>2013-05-23T12:48:28Z</published>
+    
+    
+      <updated>2013-05-23T12:49:27Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="silva"/>
+    <category term="app"/>
+    <category term="redirect"/>
+    <category term="permanent"/>
+    <category term="http"/>
+    <summary type="xhtml">
+      <div>A link which does a permanent HTTP redirect to a Silva Object</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.pas.membership 1.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.pas.membership/1.2"/>
+    <id>http://infrae.com/download/silva_extensions/silva.pas.membership/1.2</id>
+    
+      <published>2013-05-23T12:33:25Z</published>
+    
+    
+      <updated>2013-05-23T12:42:28Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="silva"/>
+    <category term="pas"/>
+    <category term="membership"/>
+    <summary type="xhtml">
+      <div>Retrieve Silva membership information in PAS</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.app.shorturl 3.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.app.shorturl/3.0"/>
+    <id>http://infrae.com/download/silva_extensions/silva.app.shorturl/3.0</id>
+    
+      <published>2013-03-07T09:46:37Z</published>
+    
+    
+      <updated>2013-03-07T09:48:29Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="shorturl"/>
+    <summary type="xhtml">
+      <div>Short url generation for silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.app.mediacontent 3.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.app.mediacontent/3.0"/>
+    <id>http://infrae.com/download/silva_extensions/silva.app.mediacontent/3.0</id>
+    
+      <published>2013-03-06T16:07:23Z</published>
+    
+    
+      <updated>2013-03-06T16:17:07Z</updated>
+    
+    <author>
+      <name>Antonin Amand</name>
+    </author>
+    <category term="media"/>
+    <category term="silva"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Media content types for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.app.news 3.0.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.app.news/3.0.1"/>
+    <id>http://infrae.com/download/silva_extensions/silva.app.news/3.0.1</id>
+    
+      <published>2013-03-06T14:59:52Z</published>
+    
+    
+      <updated>2013-03-06T15:01:53Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="news"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>News extension for Silva 3.x.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Find 3.0.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaFind/3.0.1"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaFind/3.0.1</id>
+    
+      <published>2013-03-06T14:46:29Z</published>
+    
+    
+      <updated>2013-03-06T14:47:03Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="search"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>Search support for Silva.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.export.html 3.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.export.html/3.0"/>
+    <id>http://infrae.com/download/silva_extensions/silva.export.html/3.0</id>
+    
+      <published>2013-03-06T14:25:06Z</published>
+    
+    
+      <updated>2013-03-06T14:25:17Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="export"/>
+    <category term="html"/>
+    <summary type="xhtml">
+      <div>Export Silva content to html</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva News Network 3.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaNews/3.0"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaNews/3.0</id>
+    
+      <published>2013-03-06T13:36:25Z</published>
+    
+    
+      <updated>2013-03-06T13:37:39Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="news"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>News extension for Silva 2.x.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.pas.base 3.0.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.pas.base/3.0.1"/>
+    <id>http://infrae.com/download/silva_extensions/silva.pas.base/3.0.1</id>
+    
+      <published>2013-03-06T12:29:44Z</published>
+    
+    
+      <updated>2013-03-06T12:30:43Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="pas"/>
+    <category term="silva"/>
+    <summary type="xhtml">
+      <div>Base PluggableAuthService support for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.app.subscriptions 3.0.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.app.subscriptions/3.0.1"/>
+    <id>http://infrae.com/download/silva_extensions/silva.app.subscriptions/3.0.1</id>
+    
+      <published>2013-03-05T17:09:15Z</published>
+    
+    
+      <updated>2013-03-05T17:10:00Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="silva"/>
+    <category term="app"/>
+    <category term="redirect"/>
+    <category term="permanent"/>
+    <category term="http"/>
+    <summary type="xhtml">
+      <div>Let people subscribe to content changes</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>smitheme.industrial 3.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/smitheme.industrial/3.0"/>
+    <id>http://infrae.com/download/silva_extensions/smitheme.industrial/3.0</id>
+    
+      <published>2012-12-12T15:02:10Z</published>
+    
+    
+      <updated>2012-12-12T15:02:19Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="skin"/>
+    <category term="silva"/>
+    <category term="smi"/>
+    <summary type="xhtml">
+      <div>Alternate (original) SMI Skin for Silva 3.0</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.app.news 3.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.app.news/3.0"/>
+    <id>http://infrae.com/download/silva_extensions/silva.app.news/3.0</id>
+    
+      <published>2012-12-11T15:22:23Z</published>
+    
+    
+      <updated>2012-12-11T15:22:50Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="news"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>News extension for Silva 3.x.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.pas.base 3.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.pas.base/3.0"/>
+    <id>http://infrae.com/download/silva_extensions/silva.pas.base/3.0</id>
+    
+      <published>2012-12-11T15:12:32Z</published>
+    
+    
+      <updated>2012-12-11T15:13:23Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="pas"/>
+    <category term="silva"/>
+    <summary type="xhtml">
+      <div>Base PluggableAuthService support for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.app.sitemap 1.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.app.sitemap/1.0"/>
+    <id>http://infrae.com/download/silva_extensions/silva.app.sitemap/1.0</id>
+    
+      <published>2012-12-11T13:55:16Z</published>
+    
+    
+      <updated>2012-12-11T14:00:37Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="sitemap"/>
+    <summary type="xhtml">
+      <div>Sitemap xml for silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.app.subscriptions 3.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.app.subscriptions/3.0"/>
+    <id>http://infrae.com/download/silva_extensions/silva.app.subscriptions/3.0</id>
+    
+      <published>2012-12-11T13:31:42Z</published>
+    
+    
+      <updated>2012-12-11T13:31:52Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="silva"/>
+    <category term="app"/>
+    <category term="redirect"/>
+    <category term="permanent"/>
+    <category term="http"/>
+    <summary type="xhtml">
+      <div>Let people subscribe to content changes</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Forum 3.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaForum/3.0"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaForum/3.0</id>
+    
+      <published>2012-12-11T10:55:27Z</published>
+    
+    
+      <updated>2012-12-11T10:55:40Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="forum"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>Forum for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Find 3.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaFind/3.0"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaFind/3.0</id>
+    
+      <published>2012-12-11T10:47:32Z</published>
+    
+    
+      <updated>2012-12-11T10:48:12Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="search"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>Search support for Silva.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>smitheme.industrial 3.0c1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/smitheme.industrial/3.0c1"/>
+    <id>http://infrae.com/download/silva_extensions/smitheme.industrial/3.0c1</id>
+    
+      <published>2012-09-25T14:14:41Z</published>
+    
+    
+      <updated>2012-09-25T14:15:59Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="skin"/>
+    <category term="silva"/>
+    <category term="smi"/>
+    <summary type="xhtml">
+      <div>Alternate (original) SMI Skin for Silva 3.0</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.export.html 3.0c1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.export.html/3.0c1"/>
+    <id>http://infrae.com/download/silva_extensions/silva.export.html/3.0c1</id>
+    
+      <published>2012-09-25T14:02:19Z</published>
+    
+    
+      <updated>2012-09-25T14:04:11Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="export"/>
+    <category term="html"/>
+    <summary type="xhtml">
+      <div>Export Silva content to html</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.demo.contentlayout 3.0c1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.demo.contentlayout/3.0c1"/>
+    <id>http://infrae.com/download/silva_extensions/silva.demo.contentlayout/3.0c1</id>
+    
+      <published>2012-09-25T13:37:57Z</published>
+    
+    
+      <updated>2012-09-25T13:39:37Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Silva Content Layout Demo templates</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Poll 3.0c1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaPoll/3.0c1"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaPoll/3.0c1</id>
+    
+      <published>2012-09-25T10:05:59Z</published>
+    
+    
+      <updated>2012-09-25T11:12:52Z</updated>
+    
+    <author>
+      <name>Guido Wesdorp, Wim Boucquaert, Jasper Op De Coul</name>
+    </author>
+    <category term="poll"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>Poll for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Find 3.0c1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaFind/3.0c1"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaFind/3.0c1</id>
+    
+      <published>2012-09-25T09:51:36Z</published>
+    
+    
+      <updated>2012-09-25T09:52:02Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="search"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>Search support for Silva.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Forum 3.0c1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaForum/3.0c1"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaForum/3.0c1</id>
+    
+      <published>2012-09-25T09:47:24Z</published>
+    
+    
+      <updated>2012-09-25T09:47:46Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="forum"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>Forum for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.app.news 3.0c1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.app.news/3.0c1"/>
+    <id>http://infrae.com/download/silva_extensions/silva.app.news/3.0c1</id>
+    
+      <published>2012-09-25T09:23:24Z</published>
+    
+    
+      <updated>2012-09-25T09:24:33Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="news"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>News extension for Silva 3.x.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva News Network 3.0c1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaNews/3.0c1"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaNews/3.0c1</id>
+    
+      <published>2012-09-25T08:22:34Z</published>
+    
+    
+      <updated>2012-09-25T08:23:53Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="news"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>News extension for Silva 2.x.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.app.photogallery 1.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.app.photogallery/1.0"/>
+    <id>http://infrae.com/download/silva_extensions/silva.app.photogallery/1.0</id>
+    
+      <published>2012-09-25T07:51:05Z</published>
+    
+    
+      <updated>2012-09-25T07:55:05Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="silva"/>
+    <category term="photo"/>
+    <category term="gallery"/>
+    <summary type="xhtml">
+      <div>Render photo galleries in Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.app.subscriptions 3.0c1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.app.subscriptions/3.0c1"/>
+    <id>http://infrae.com/download/silva_extensions/silva.app.subscriptions/3.0c1</id>
+    
+      <published>2012-09-25T07:43:49Z</published>
+    
+    
+      <updated>2012-09-25T07:44:16Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="silva"/>
+    <category term="app"/>
+    <category term="redirect"/>
+    <category term="permanent"/>
+    <category term="http"/>
+    <summary type="xhtml">
+      <div>Let people subscribe to content changes</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.app.redirectlink 3.0c1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.app.redirectlink/3.0c1"/>
+    <id>http://infrae.com/download/silva_extensions/silva.app.redirectlink/3.0c1</id>
+    
+      <published>2012-09-25T07:39:53Z</published>
+    
+    
+      <updated>2012-09-25T07:41:02Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="silva"/>
+    <category term="app"/>
+    <category term="redirect"/>
+    <category term="permanent"/>
+    <category term="http"/>
+    <summary type="xhtml">
+      <div>A link which does a permanent HTTP redirect to a Silva Object</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.pas.base 3.0c1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.pas.base/3.0c1"/>
+    <id>http://infrae.com/download/silva_extensions/silva.pas.base/3.0c1</id>
+    
+      <published>2012-09-25T07:22:08Z</published>
+    
+    
+      <updated>2012-09-25T07:24:52Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="pas"/>
+    <category term="silva"/>
+    <summary type="xhtml">
+      <div>Base PluggableAuthService support for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.security.overview 1.1.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.security.overview/1.1.1"/>
+    <id>http://infrae.com/download/silva_extensions/silva.security.overview/1.1.1</id>
+    
+      <published>2012-09-25T06:49:12Z</published>
+    
+    
+      <updated>2012-09-25T06:50:01Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="cms"/>
+    <category term="zope"/>
+    <category term="security"/>
+    <summary type="xhtml">
+      <div>Security overview</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.security.addables 3.0.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.security.addables/3.0.1"/>
+    <id>http://infrae.com/download/silva_extensions/silva.security.addables/3.0.1</id>
+    
+      <published>2012-09-24T14:42:50Z</published>
+    
+    
+      <updated>2012-09-24T14:46:09Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="silva"/>
+    <category term="roles"/>
+    <category term="security"/>
+    <summary type="xhtml">
+      <div>Configure which content type is addable for which Silva roles</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.pas.base 1.5.5</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.pas.base/1.5.5"/>
+    <id>http://infrae.com/download/silva_extensions/silva.pas.base/1.5.5</id>
+    
+      <published>2012-08-23T09:58:35Z</published>
+    
+    
+      <updated>2012-09-04T14:34:12Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="pas"/>
+    <category term="silva"/>
+    <summary type="xhtml">
+      <div>Base PluggableAuthService support for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.app.mediacontent 1.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.app.mediacontent/1.0"/>
+    <id>http://infrae.com/download/silva_extensions/silva.app.mediacontent/1.0</id>
+    
+      <published>2012-05-11T09:37:50Z</published>
+    
+    
+      <updated>2012-09-04T14:34:04Z</updated>
+    
+    <author>
+      <name>Antonin Amand</name>
+    </author>
+    <category term="media"/>
+    <category term="silva"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Media content types for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.pas.wsgi 1.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.pas.wsgi/1.2"/>
+    <id>http://infrae.com/download/silva_extensions/silva.pas.wsgi/1.2</id>
+    
+      <published>2012-05-10T17:00:09Z</published>
+    
+    
+      <updated>2012-09-04T14:34:04Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="pas"/>
+    <category term="silva"/>
+    <category term="wsgi"/>
+    <category term="authentication"/>
+    <summary type="xhtml">
+      <div>Reuse WSGI authentication in Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.pas.base 1.6.3</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.pas.base/1.6.3"/>
+    <id>http://infrae.com/download/silva_extensions/silva.pas.base/1.6.3</id>
+    
+      <published>2012-05-10T16:01:00Z</published>
+    
+    
+      <updated>2012-09-04T14:34:12Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="pas"/>
+    <category term="silva"/>
+    <summary type="xhtml">
+      <div>Base PluggableAuthService support for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva News Network 2.9.5</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaNews/2.9.5"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaNews/2.9.5</id>
+    
+      <published>2012-05-10T09:27:38Z</published>
+    
+    
+      <updated>2012-09-04T14:34:14Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="news"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>News extension for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.searchandreplace 2.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.searchandreplace/2.1"/>
+    <id>http://infrae.com/download/silva_extensions/silva.searchandreplace/2.1</id>
+    
+      <published>2012-03-20T09:13:17Z</published>
+    
+    
+      <updated>2012-09-04T14:34:11Z</updated>
+    
+    <author>
+      <name>Guido Wesdorp</name>
+    </author>
+    <category term="silva"/>
+    <category term="silvadocument"/>
+    <category term="search"/>
+    <category term="replace"/>
+    <category term="service"/>
+    <summary type="xhtml">
+      <div>Search in all Silva Documents and replace information</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.security.logging 1.2.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.security.logging/1.2.2"/>
+    <id>http://infrae.com/download/silva_extensions/silva.security.logging/1.2.2</id>
+    
+      <published>2012-03-01T15:48:45Z</published>
+    
+    
+      <updated>2012-09-04T14:34:06Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="cms"/>
+    <category term="zope"/>
+    <category term="security"/>
+    <summary type="xhtml">
+      <div>Log all Silva actions</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.security.logging 1.2.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.security.logging/1.2.1"/>
+    <id>http://infrae.com/download/silva_extensions/silva.security.logging/1.2.1</id>
+    
+      <published>2012-03-01T11:17:42Z</published>
+    
+    
+      <updated>2012-09-04T14:34:06Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="cms"/>
+    <category term="zope"/>
+    <category term="security"/>
+    <summary type="xhtml">
+      <div>Log all Silva actions</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.pas.wsgi 1.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.pas.wsgi/1.1"/>
+    <id>http://infrae.com/download/silva_extensions/silva.pas.wsgi/1.1</id>
+    
+      <published>2012-02-23T17:13:55Z</published>
+    
+    
+      <updated>2012-09-04T14:34:04Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="pas"/>
+    <category term="silva"/>
+    <category term="wsgi"/>
+    <category term="authentication"/>
+    <summary type="xhtml">
+      <div>Reuse WSGI authentication in Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva News Network 2.9.4</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaNews/2.9.4"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaNews/2.9.4</id>
+    
+      <published>2012-02-23T14:57:12Z</published>
+    
+    
+      <updated>2012-09-04T14:34:14Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="news"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>News extension for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.security.logging 1.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.security.logging/1.2"/>
+    <id>http://infrae.com/download/silva_extensions/silva.security.logging/1.2</id>
+    
+      <published>2012-02-23T14:00:56Z</published>
+    
+    
+      <updated>2012-09-04T14:34:06Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="cms"/>
+    <category term="zope"/>
+    <category term="security"/>
+    <summary type="xhtml">
+      <div>Log all Silva actions</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>smitheme.phoenix 1.0.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/smitheme.phoenix/1.0.1"/>
+    <id>http://infrae.com/download/silva_extensions/smitheme.phoenix/1.0.1</id>
+    
+      <published>2012-02-23T12:25:53Z</published>
+    
+    
+      <updated>2012-09-04T14:34:04Z</updated>
+    
+    <author>
+      <name>Gert Hengeveld</name>
+    </author>
+    <category term="skin"/>
+    <category term="silva"/>
+    <category term="smi"/>
+    <summary type="xhtml">
+      <div>New SMI Skin</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.pas.base 1.5.4</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.pas.base/1.5.4"/>
+    <id>http://infrae.com/download/silva_extensions/silva.pas.base/1.5.4</id>
+    
+      <published>2012-01-13T13:00:34Z</published>
+    
+    
+      <updated>2012-09-04T14:34:12Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="pas"/>
+    <category term="silva"/>
+    <summary type="xhtml">
+      <div>Base PluggableAuthService support for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.security.logging 1.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.security.logging/1.1"/>
+    <id>http://infrae.com/download/silva_extensions/silva.security.logging/1.1</id>
+    
+      <published>2011-11-14T11:31:40Z</published>
+    
+    
+      <updated>2012-09-04T14:34:06Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="cms"/>
+    <category term="zope"/>
+    <category term="security"/>
+    <summary type="xhtml">
+      <div>Log all Silva actions</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.security.overview 1.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.security.overview/1.1"/>
+    <id>http://infrae.com/download/silva_extensions/silva.security.overview/1.1</id>
+    
+      <published>2011-11-14T10:43:47Z</published>
+    
+    
+      <updated>2012-09-04T14:34:07Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="cms"/>
+    <category term="zope"/>
+    <category term="security"/>
+    <summary type="xhtml">
+      <div>Security overview</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.security.addables 3.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.security.addables/3.0"/>
+    <id>http://infrae.com/download/silva_extensions/silva.security.addables/3.0</id>
+    
+      <published>2011-11-11T17:43:39Z</published>
+    
+    
+      <updated>2012-09-04T14:34:11Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="silva"/>
+    <category term="roles"/>
+    <category term="security"/>
+    <summary type="xhtml">
+      <div>Configure which content type is addable for which Silva roles</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.app.redirectlink 3.0b1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.app.redirectlink/3.0b1"/>
+    <id>http://infrae.com/download/silva_extensions/silva.app.redirectlink/3.0b1</id>
+    
+      <published>2011-11-11T17:36:53Z</published>
+    
+    
+      <updated>2012-09-04T14:34:09Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="silva"/>
+    <category term="app"/>
+    <category term="redirect"/>
+    <category term="permanent"/>
+    <category term="http"/>
+    <summary type="xhtml">
+      <div>A link which does a permanent HTTP redirect to a Silva Object</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.app.subscriptions 3.0b1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.app.subscriptions/3.0b1"/>
+    <id>http://infrae.com/download/silva_extensions/silva.app.subscriptions/3.0b1</id>
+    
+      <published>2011-11-11T17:25:24Z</published>
+    
+    
+      <updated>2012-09-04T14:34:07Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="silva"/>
+    <category term="app"/>
+    <category term="redirect"/>
+    <category term="permanent"/>
+    <category term="http"/>
+    <summary type="xhtml">
+      <div>Let people subscribe to content changes</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.app.news 3.0b1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.app.news/3.0b1"/>
+    <id>http://infrae.com/download/silva_extensions/silva.app.news/3.0b1</id>
+    
+      <published>2011-11-11T16:53:44Z</published>
+    
+    
+      <updated>2012-09-04T14:34:03Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="news"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>News extension for Silva 3.x.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.pas.base 3.0b1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.pas.base/3.0b1"/>
+    <id>http://infrae.com/download/silva_extensions/silva.pas.base/3.0b1</id>
+    
+      <published>2011-11-11T16:21:34Z</published>
+    
+    
+      <updated>2012-09-04T14:34:12Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="pas"/>
+    <category term="silva"/>
+    <summary type="xhtml">
+      <div>Base PluggableAuthService support for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Find 3.0b1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaFind/3.0b1"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaFind/3.0b1</id>
+    
+      <published>2011-11-11T16:03:09Z</published>
+    
+    
+      <updated>2012-09-04T14:34:07Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="search"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>Search support for Silva.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Forum 3.0b1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaForum/3.0b1"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaForum/3.0b1</id>
+    
+      <published>2011-11-11T15:55:58Z</published>
+    
+    
+      <updated>2012-09-04T14:34:10Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="forum"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>Forum for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva News Network 3.0b1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaNews/3.0b1"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaNews/3.0b1</id>
+    
+      <published>2011-11-11T15:19:38Z</published>
+    
+    
+      <updated>2012-09-04T14:34:14Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="news"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>News extension for Silva 2.x.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva News Network 2.9.3</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaNews/2.9.3"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaNews/2.9.3</id>
+    
+      <published>2011-10-06T12:58:24Z</published>
+    
+    
+      <updated>2012-09-04T14:34:14Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="news"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>News extension for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva News Network 2.9.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaNews/2.9.2"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaNews/2.9.2</id>
+    
+      <published>2011-07-27T12:27:34Z</published>
+    
+    
+      <updated>2012-09-04T14:34:14Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="news"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>News extension for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.security.renameusers 1.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.security.renameusers/1.0"/>
+    <id>http://infrae.com/download/silva_extensions/silva.security.renameusers/1.0</id>
+    
+      <published>2011-07-27T12:00:05Z</published>
+    
+    
+      <updated>2012-09-04T14:34:03Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="cms"/>
+    <category term="zope"/>
+    <category term="security"/>
+    <category term="rename"/>
+    <category term="users"/>
+    <summary type="xhtml">
+      <div>Rename users identifier in a Silva site</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.pas.base 1.6.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.pas.base/1.6.2"/>
+    <id>http://infrae.com/download/silva_extensions/silva.pas.base/1.6.2</id>
+    
+      <published>2011-07-27T10:55:49Z</published>
+    
+    
+      <updated>2012-09-04T14:34:13Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="pas"/>
+    <category term="silva"/>
+    <summary type="xhtml">
+      <div>Base PluggableAuthService support for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.app.mediacontent 1.0b1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.app.mediacontent/1.0b1"/>
+    <id>http://infrae.com/download/silva_extensions/silva.app.mediacontent/1.0b1</id>
+    
+      <published>2011-02-08T07:53:29Z</published>
+    
+    
+      <updated>2012-09-04T14:34:04Z</updated>
+    
+    <author>
+      <name>Antonin Amand</name>
+    </author>
+    <category term="media"/>
+    <category term="silva"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Media content types for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva News Network 2.9.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaNews/2.9.1"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaNews/2.9.1</id>
+    
+      <published>2011-02-07T20:51:49Z</published>
+    
+    
+      <updated>2012-09-04T14:34:14Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="news"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>News extension for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.pas.base 1.6.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.pas.base/1.6.1"/>
+    <id>http://infrae.com/download/silva_extensions/silva.pas.base/1.6.1</id>
+    
+      <published>2011-02-07T20:34:01Z</published>
+    
+    
+      <updated>2012-09-04T14:34:13Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="pas"/>
+    <category term="silva"/>
+    <summary type="xhtml">
+      <div>Base PluggableAuthService support for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>smitheme.phoenix 1.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/smitheme.phoenix/1.0"/>
+    <id>http://infrae.com/download/silva_extensions/smitheme.phoenix/1.0</id>
+    
+      <published>2011-02-07T16:25:00Z</published>
+    
+    
+      <updated>2012-09-04T14:34:04Z</updated>
+    
+    <author>
+      <name>Gert Hengeveld</name>
+    </author>
+    <category term="skin"/>
+    <category term="silva"/>
+    <category term="smi"/>
+    <summary type="xhtml">
+      <div>New SMI Skin</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Forum 2.4.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaForum/2.4.2"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaForum/2.4.2</id>
+    
+      <published>2011-02-07T15:04:10Z</published>
+    
+    
+      <updated>2012-09-04T14:34:10Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="forum"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>Forum for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Find 1.3.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaFind/1.3.2"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaFind/1.3.2</id>
+    
+      <published>2011-02-07T14:53:50Z</published>
+    
+    
+      <updated>2012-09-04T14:34:07Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="search"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>Search support for Silva.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.pas.wsgi 1.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.pas.wsgi/1.0"/>
+    <id>http://infrae.com/download/silva_extensions/silva.pas.wsgi/1.0</id>
+    
+      <published>2011-02-02T15:05:09Z</published>
+    
+    
+      <updated>2012-09-04T14:34:04Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="pas"/>
+    <category term="silva"/>
+    <category term="wsgi"/>
+    <category term="authentication"/>
+    <summary type="xhtml">
+      <div>Reuse WSGI authentication in Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Forum 1.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaForum/1.1"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaForum/1.1</id>
+    
+      <published>2010-12-22T10:41:20Z</published>
+    
+    
+      <updated>2012-09-04T14:34:10Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="forum"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>Forum for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.pas.openid 1.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.pas.openid/1.2"/>
+    <id>http://infrae.com/download/silva_extensions/silva.pas.openid/1.2</id>
+    
+      <published>2010-12-22T09:58:31Z</published>
+    
+    
+      <updated>2012-09-04T14:34:04Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="pas"/>
+    <category term="openid"/>
+    <category term="silva"/>
+    <summary type="xhtml">
+      <div>OpenID suport for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.app.redirectlink 1.0.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.app.redirectlink/1.0.1"/>
+    <id>http://infrae.com/download/silva_extensions/silva.app.redirectlink/1.0.1</id>
+    
+      <published>2010-12-20T17:39:00Z</published>
+    
+    
+      <updated>2012-09-04T14:34:10Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="silva"/>
+    <category term="app"/>
+    <category term="redirect"/>
+    <category term="permanent"/>
+    <category term="http"/>
+    <summary type="xhtml">
+      <div>A link which does a permanent HTTP redirect to a Silva Object</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva News Network 2.9</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaNews/2.9"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaNews/2.9</id>
+    
+      <published>2010-12-20T14:36:15Z</published>
+    
+    
+      <updated>2012-09-04T14:34:15Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="news"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>News extension for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Poll 1.4</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaPoll/1.4"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaPoll/1.4</id>
+    
+      <published>2010-12-20T14:00:39Z</published>
+    
+    
+      <updated>2012-09-04T14:34:06Z</updated>
+    
+    <author>
+      <name>Guido Wesdorp, Wim Boucquaert, Jasper Op De Coul</name>
+    </author>
+    <category term="poll"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>Poll for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Find 1.3.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaFind/1.3.1"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaFind/1.3.1</id>
+    
+      <published>2010-12-20T12:57:28Z</published>
+    
+    
+      <updated>2012-09-04T14:34:07Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="search"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>Search support for Silva.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Forum 2.4.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaForum/2.4.1"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaForum/2.4.1</id>
+    
+      <published>2010-12-20T12:43:28Z</published>
+    
+    
+      <updated>2012-09-04T14:34:10Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="forum"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>Forum for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.security.overview 1.0.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.security.overview/1.0.1"/>
+    <id>http://infrae.com/download/silva_extensions/silva.security.overview/1.0.1</id>
+    
+      <published>2010-12-20T11:55:35Z</published>
+    
+    
+      <updated>2012-09-04T14:34:07Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="cms"/>
+    <category term="zope"/>
+    <category term="security"/>
+    <summary type="xhtml">
+      <div>Security overview</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.security.logging 1.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.security.logging/1.0"/>
+    <id>http://infrae.com/download/silva_extensions/silva.security.logging/1.0</id>
+    
+      <published>2010-12-20T11:30:03Z</published>
+    
+    
+      <updated>2012-09-04T14:34:06Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="cms"/>
+    <category term="zope"/>
+    <category term="security"/>
+    <summary type="xhtml">
+      <div>Log all Silva actions</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.app.subscriptions 1.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.app.subscriptions/1.1"/>
+    <id>http://infrae.com/download/silva_extensions/silva.app.subscriptions/1.1</id>
+    
+      <published>2010-12-20T11:05:41Z</published>
+    
+    
+      <updated>2012-09-04T14:34:07Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="silva"/>
+    <category term="app"/>
+    <category term="redirect"/>
+    <category term="permanent"/>
+    <category term="http"/>
+    <summary type="xhtml">
+      <div>Let people subscribe to content changes</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Find 1.2.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaFind/1.2.1"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaFind/1.2.1</id>
+    
+      <published>2010-11-26T14:32:45Z</published>
+    
+    
+      <updated>2012-09-04T14:34:08Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.pas.base 1.5.3</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.pas.base/1.5.3"/>
+    <id>http://infrae.com/download/silva_extensions/silva.pas.base/1.5.3</id>
+    
+      <published>2010-11-15T19:28:44Z</published>
+    
+    
+      <updated>2012-09-04T14:34:13Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="pas"/>
+    <category term="silva"/>
+    <summary type="xhtml">
+      <div>Base PluggableAuthService support for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva News Network 2.9b2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaNews/2.9b2"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaNews/2.9b2</id>
+    
+      <published>2010-10-28T09:07:01Z</published>
+    
+    
+      <updated>2012-09-04T14:34:15Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="news"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>News extension for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Forum 2.4</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaForum/2.4"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaForum/2.4</id>
+    
+      <published>2010-10-27T15:57:37Z</published>
+    
+    
+      <updated>2012-09-04T14:34:10Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="forum"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>Forum for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.pas.base 1.6</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.pas.base/1.6"/>
+    <id>http://infrae.com/download/silva_extensions/silva.pas.base/1.6</id>
+    
+      <published>2010-10-20T14:04:27Z</published>
+    
+    
+      <updated>2012-09-04T14:34:13Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="pas"/>
+    <category term="silva"/>
+    <summary type="xhtml">
+      <div>Base PluggableAuthService support for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.app.subscriptions 1.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.app.subscriptions/1.0"/>
+    <id>http://infrae.com/download/silva_extensions/silva.app.subscriptions/1.0</id>
+    
+      <published>2010-10-20T09:43:40Z</published>
+    
+    
+      <updated>2012-09-04T14:34:07Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="silva"/>
+    <category term="app"/>
+    <category term="redirect"/>
+    <category term="permanent"/>
+    <category term="http"/>
+    <summary type="xhtml">
+      <div>Let people subscribe to content changes</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.security.addables 1.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.security.addables/1.1"/>
+    <id>http://infrae.com/download/silva_extensions/silva.security.addables/1.1</id>
+    
+      <published>2010-10-18T16:03:23Z</published>
+    
+    
+      <updated>2012-09-04T14:34:12Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="silva"/>
+    <category term="roles"/>
+    <category term="security"/>
+    <summary type="xhtml">
+      <div>Configure which content type is addable for which Silva roles</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.security.overview 1.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.security.overview/1.0"/>
+    <id>http://infrae.com/download/silva_extensions/silva.security.overview/1.0</id>
+    
+      <published>2010-10-18T14:56:18Z</published>
+    
+    
+      <updated>2012-09-04T14:34:07Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="cms"/>
+    <category term="zope"/>
+    <category term="security"/>
+    <summary type="xhtml">
+      <div>Security overview</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Find 1.3</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaFind/1.3"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaFind/1.3</id>
+    
+      <published>2010-10-18T14:30:15Z</published>
+    
+    
+      <updated>2012-09-04T14:34:08Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="search"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>Search support for Silva.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva News Network 2.8</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaNews/2.8"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaNews/2.8</id>
+    
+      <published>2010-10-05T13:58:11Z</published>
+    
+    
+      <updated>2012-09-04T14:34:15Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="news"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>News extension for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.app.redirectlink 1.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.app.redirectlink/1.1"/>
+    <id>http://infrae.com/download/silva_extensions/silva.app.redirectlink/1.1</id>
+    
+      <published>2010-07-16T14:19:16Z</published>
+    
+    
+      <updated>2012-09-04T14:34:10Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="silva"/>
+    <category term="app"/>
+    <category term="redirect"/>
+    <category term="permanent"/>
+    <category term="http"/>
+    <summary type="xhtml">
+      <div>A link which does a permanent HTTP redirect to a Silva Object</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva News Network 2.9b1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaNews/2.9b1"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaNews/2.9b1</id>
+    
+      <published>2010-07-16T14:12:04Z</published>
+    
+    
+      <updated>2012-09-04T14:34:15Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="news"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>News extension for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Forum 2.3</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaForum/2.3"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaForum/2.3</id>
+    
+      <published>2010-07-16T13:21:34Z</published>
+    
+    
+      <updated>2012-09-04T14:34:10Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="forum"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>Forum for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Find 1.3b1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaFind/1.3b1"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaFind/1.3b1</id>
+    
+      <published>2010-07-16T13:01:09Z</published>
+    
+    
+      <updated>2012-09-04T14:34:08Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="search"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>Search support for Silva.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Find 1.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaFind/1.2"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaFind/1.2</id>
+    
+      <published>2010-03-31T07:39:06Z</published>
+    
+    
+      <updated>2012-09-04T14:34:08Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="search"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>Search support for Silva.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Find 1.2b2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaFind/1.2b2"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaFind/1.2b2</id>
+    
+      <published>2010-02-08T10:38:00Z</published>
+    
+    
+      <updated>2012-09-04T14:34:08Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="search"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>Search support for Silva.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva News Network 2.8b1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaNews/2.8b1"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaNews/2.8b1</id>
+    
+      <published>2010-02-01T18:26:08Z</published>
+    
+    
+      <updated>2012-09-04T14:34:15Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="news"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>News extension for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Find 1.2b1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaFind/1.2b1"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaFind/1.2b1</id>
+    
+      <published>2010-02-01T17:40:35Z</published>
+    
+    
+      <updated>2012-09-04T14:34:08Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="search"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>Search support for Silva.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.app.redirectlink 1.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.app.redirectlink/1.0"/>
+    <id>http://infrae.com/download/silva_extensions/silva.app.redirectlink/1.0</id>
+    
+      <published>2010-02-01T14:55:03Z</published>
+    
+    
+      <updated>2012-09-04T14:34:10Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="silva"/>
+    <category term="app"/>
+    <category term="redirect"/>
+    <category term="permanent"/>
+    <category term="http"/>
+    <summary type="xhtml">
+      <div>A link which does a permanent HTTP redirect to a Silva Object</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Forum 1.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaForum/1.0"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaForum/1.0</id>
+    
+      <published>2010-01-29T12:00:29Z</published>
+    
+    
+      <updated>2012-09-04T14:34:10Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="forum"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>Forum for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.searchandreplace 2.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.searchandreplace/2.2"/>
+    <id>http://infrae.com/download/silva_extensions/silva.searchandreplace/2.2</id>
+    
+      <published>2010-01-19T17:18:00Z</published>
+    
+    
+      <updated>2012-09-04T14:34:11Z</updated>
+    
+    <author>
+      <name>Guido Wesdorp</name>
+    </author>
+    <category term="silva"/>
+    <category term="silvadocument"/>
+    <category term="search"/>
+    <category term="replace"/>
+    <category term="service"/>
+    <summary type="xhtml">
+      <div>Search in all Silva Documents and replace information</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silvatheme.multiflex 1.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silvatheme.multiflex/1.0"/>
+    <id>http://infrae.com/download/silva_extensions/silvatheme.multiflex/1.0</id>
+    
+      <published>2010-01-19T15:56:21Z</published>
+    
+    
+      <updated>2012-09-04T14:34:11Z</updated>
+    
+    <author>
+      <name>Wim Boucquaert</name>
+    </author>
+    <category term="skin"/>
+    <category term="silva"/>
+    <summary type="xhtml">
+      <div>Multiflex Skin</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.pas.base 1.5.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.pas.base/1.5.2"/>
+    <id>http://infrae.com/download/silva_extensions/silva.pas.base/1.5.2</id>
+    
+      <published>2009-12-09T17:19:03Z</published>
+    
+    
+      <updated>2012-09-04T14:34:13Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="pas"/>
+    <category term="silva"/>
+    <summary type="xhtml">
+      <div>Base PluggableAuthService support for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.pas.base 1.5.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.pas.base/1.5.1"/>
+    <id>http://infrae.com/download/silva_extensions/silva.pas.base/1.5.1</id>
+    
+      <published>2009-03-20T12:31:48Z</published>
+    
+    
+      <updated>2012-09-04T14:34:13Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.pas.base 1.5</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.pas.base/1.5"/>
+    <id>http://infrae.com/download/silva_extensions/silva.pas.base/1.5</id>
+    
+      <published>2009-03-05T15:13:35Z</published>
+    
+    
+      <updated>2012-09-04T14:34:13Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.security.addables 1.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.security.addables/1.0"/>
+    <id>http://infrae.com/download/silva_extensions/silva.security.addables/1.0</id>
+    
+      <published>2009-03-05T15:01:53Z</published>
+    
+    
+      <updated>2012-09-04T14:34:12Z</updated>
+    
+    <author>
+      <name>Sylvain Viollon</name>
+    </author>
+    <category term="silva"/>
+    <category term="roles"/>
+    <category term="security"/>
+    <summary type="xhtml">
+      <div>Configure which content type is addable for which Silva roles</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.app.oaiprovider 0.1a1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.app.oaiprovider/0.1a1"/>
+    <id>http://infrae.com/download/silva_extensions/silva.app.oaiprovider/0.1a1</id>
+    
+      <published>2009-01-13T15:04:20Z</published>
+    
+    
+      <updated>2012-09-04T14:34:13Z</updated>
+    
+    <author>
+      <name>Eric Casteleijn</name>
+    </author>
+    <category term="oai"/>
+    <category term="silva"/>
+    <category term="oaipmh"/>
+    <category term="silva"/>
+    <summary type="xhtml">
+      <div>Simple OAI Provider for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva News Network 2.7</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaNews/2.7"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaNews/2.7</id>
+    
+      <published>2009-01-07T12:03:18Z</published>
+    
+    
+      <updated>2012-09-04T14:34:15Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="Silva,"/>
+    <category term="SilvaNews,"/>
+    <category term="news,"/>
+    <category term="rss,"/>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="download"/>
+    <summary type="xhtml">
+      <div>Silva News</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.pas.membership 1.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.pas.membership/1.1"/>
+    <id>http://infrae.com/download/silva_extensions/silva.pas.membership/1.1</id>
+    
+      <published>2008-11-20T18:04:49Z</published>
+    
+    
+      <updated>2012-09-04T14:34:12Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.pas.base 1.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.pas.base/1.2"/>
+    <id>http://infrae.com/download/silva_extensions/silva.pas.base/1.2</id>
+    
+      <published>2008-11-20T18:04:42Z</published>
+    
+    
+      <updated>2012-09-04T14:34:13Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>silva.pas.radius 1.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva.pas.radius/1.0"/>
+    <id>http://infrae.com/download/silva_extensions/silva.pas.radius/1.0</id>
+    
+      <published>2008-11-20T18:04:35Z</published>
+    
+    
+      <updated>2012-09-04T14:34:12Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Forum 0.3.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaForum/0.3.1"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaForum/0.3.1</id>
+    
+      <published>2008-11-18T15:56:52Z</published>
+    
+    
+      <updated>2012-09-04T14:34:11Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="forum"/>
+    <category term="silva"/>
+    <category term="zope2"/>
+    <summary type="xhtml">
+      <div>Forum for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Poll 1.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaPoll/1.2"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaPoll/1.2</id>
+    
+      <published>2008-11-18T15:00:23Z</published>
+    
+    
+      <updated>2012-09-04T14:34:06Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Find 1.1.5</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaFind/1.1.5"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaFind/1.1.5</id>
+    
+      <published>2008-11-17T15:57:27Z</published>
+    
+    
+      <updated>2012-09-04T14:34:08Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="silva"/>
+    <category term="cms"/>
+    <category term="search"/>
+    <category term="zope"/>
+    <summary type="xhtml">
+      <div>Search support for Silva</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Find 1.1.1.3</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaFind/1.1.1.3"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaFind/1.1.1.3</id>
+    
+      <published>2008-11-04T16:36:38Z</published>
+    
+    
+      <updated>2012-09-04T14:34:08Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Find 1.1.7</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaFind/1.1.7"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaFind/1.1.7</id>
+    
+      <published>2008-11-04T16:35:13Z</published>
+    
+    
+      <updated>2012-09-04T14:34:08Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Forum 0.3</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaForum/0.3"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaForum/0.3</id>
+    
+      <published>2008-10-30T14:44:44Z</published>
+    
+    
+      <updated>2012-09-04T14:34:11Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Find 1.1.6</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaFind/1.1.6"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaFind/1.1.6</id>
+    
+      <published>2008-10-29T16:15:35Z</published>
+    
+    
+      <updated>2012-09-04T14:34:08Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Photo Gallery 1.3</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva_photo_gallery/1.3"/>
+    <id>http://infrae.com/download/silva_extensions/silva_photo_gallery/1.3</id>
+    
+      <published>2008-08-27T12:26:38Z</published>
+    
+    
+      <updated>2012-09-04T14:34:39Z</updated>
+    
+    <author>
+      <name>Benno Luthiger, Lorenz Textor, Marc Petitmermet</name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Poll 1.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaPoll/1.1"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaPoll/1.1</id>
+    
+      <published>2008-08-27T10:57:14Z</published>
+    
+    
+      <updated>2012-09-04T14:34:06Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva News Network 2.6</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaNews/2.6"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaNews/2.6</id>
+    
+      <published>2008-08-07T10:20:47Z</published>
+    
+    
+      <updated>2012-09-04T14:34:15Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="Silva,"/>
+    <category term="SilvaNews,"/>
+    <category term="news,"/>
+    <category term="rss,"/>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="download"/>
+    <summary type="xhtml">
+      <div>Silva News</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva News Network 2.6b4</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaNews/2.6b4"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaNews/2.6b4</id>
+    
+      <published>2008-06-19T15:51:02Z</published>
+    
+    
+      <updated>2012-09-04T14:34:15Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="Silva,"/>
+    <category term="SilvaNews,"/>
+    <category term="news,"/>
+    <category term="rss,"/>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="download"/>
+    <summary type="xhtml">
+      <div>Silva News</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Forum 0.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaForum/0.2"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaForum/0.2</id>
+    
+      <published>2008-05-27T15:47:17Z</published>
+    
+    
+      <updated>2012-09-04T14:34:11Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Find 1.1.3</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaFind/1.1.3"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaFind/1.1.3</id>
+    
+      <published>2008-03-03T11:36:55Z</published>
+    
+    
+      <updated>2012-09-04T14:34:08Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Find 1.1.1.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaFind/1.1.1.2"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaFind/1.1.1.2</id>
+    
+      <published>2008-01-08T09:54:08Z</published>
+    
+    
+      <updated>2012-09-04T14:34:09Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Find 1.1.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaFind/1.1.2"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaFind/1.1.2</id>
+    
+      <published>2007-12-06T15:36:56Z</published>
+    
+    
+      <updated>2012-09-04T14:34:09Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva News Network 2.6b3</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaNews/2.6b3"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaNews/2.6b3</id>
+    
+      <published>2007-12-06T15:34:16Z</published>
+    
+    
+      <updated>2012-09-04T14:34:15Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="Silva,"/>
+    <category term="SilvaNews,"/>
+    <category term="news,"/>
+    <category term="rss,"/>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="download"/>
+    <summary type="xhtml">
+      <div>Silva News</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Poll 1.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaPoll/1.0"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaPoll/1.0</id>
+    
+      <published>2007-11-12T12:09:08Z</published>
+    
+    
+      <updated>2012-09-04T14:34:06Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva News Network 2.5</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaNews/2.5"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaNews/2.5</id>
+    
+      <published>2007-05-25T11:56:04Z</published>
+    
+    
+      <updated>2012-09-04T14:34:15Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="Silva,"/>
+    <category term="SilvaNews,"/>
+    <category term="news,"/>
+    <category term="rss,"/>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="download"/>
+    <summary type="xhtml">
+      <div>Silva News</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Find 1.1.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaFind/1.1.1"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaFind/1.1.1</id>
+    
+      <published>2007-05-23T14:50:10Z</published>
+    
+    
+      <updated>2012-09-04T14:34:09Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Software Package 0.6</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaSoftwarePackage/0.6"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaSoftwarePackage/0.6</id>
+    
+      <published>2007-04-23T13:19:26Z</published>
+    
+    
+      <updated>2012-09-04T14:34:20Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva News Network 2.4.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaNews/2.4.1"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaNews/2.4.1</id>
+    
+      <published>2007-04-19T14:08:45Z</published>
+    
+    
+      <updated>2012-09-04T14:34:16Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="Silva,"/>
+    <category term="SilvaNews,"/>
+    <category term="news,"/>
+    <category term="rss,"/>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="download"/>
+    <summary type="xhtml">
+      <div>Silva News</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Find 1.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaFind/1.0"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaFind/1.0</id>
+    
+      <published>2007-04-19T10:26:36Z</published>
+    
+    
+      <updated>2012-09-04T14:34:09Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Find 1.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaFind/1.1"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaFind/1.1</id>
+    
+      <published>2007-04-19T10:26:36Z</published>
+    
+    
+      <updated>2012-09-04T14:34:09Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva News Network 2.4</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaNews/2.4"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaNews/2.4</id>
+    
+      <published>2007-04-19T10:15:34Z</published>
+    
+    
+      <updated>2012-09-04T14:34:16Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="Silva,"/>
+    <category term="SilvaNews,"/>
+    <category term="news,"/>
+    <category term="rss,"/>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="download"/>
+    <summary type="xhtml">
+      <div>Silva News</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Find 0.1.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaFind/0.1.2"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaFind/0.1.2</id>
+    
+      <published>2007-01-13T17:54:24Z</published>
+    
+    
+      <updated>2012-09-04T14:34:09Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Find 0.1.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaFind/0.1.1"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaFind/0.1.1</id>
+    
+      <published>2007-01-13T17:54:19Z</published>
+    
+    
+      <updated>2012-09-04T14:34:09Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Find 0.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaFind/0.1"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaFind/0.1</id>
+    
+      <published>2007-01-13T17:54:14Z</published>
+    
+    
+      <updated>2012-09-04T14:34:09Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Facets 0.1.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva_facetsc/0.1.1"/>
+    <id>http://infrae.com/download/silva_extensions/silva_facetsc/0.1.1</id>
+    
+      <published>2007-01-13T17:15:49Z</published>
+    
+    
+      <updated>2012-09-04T14:34:19Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Facets 0.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva_facetsc/0.1"/>
+    <id>http://infrae.com/download/silva_extensions/silva_facetsc/0.1</id>
+    
+      <published>2007-01-13T17:15:41Z</published>
+    
+    
+      <updated>2012-09-04T14:34:19Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Ext ETH LDAP 0.8.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva_ext_eth_ldapc/0.8.1"/>
+    <id>http://infrae.com/download/silva_extensions/silva_ext_eth_ldapc/0.8.1</id>
+    
+      <published>2007-01-13T10:44:33Z</published>
+    
+    
+      <updated>2012-09-04T14:34:19Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Ext ETH LDAP 0.7</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva_ext_eth_ldapc/0.7"/>
+    <id>http://infrae.com/download/silva_extensions/silva_ext_eth_ldapc/0.7</id>
+    
+      <published>2007-01-13T10:44:24Z</published>
+    
+    
+      <updated>2012-09-04T14:34:19Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Find 0.1.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva_findc/0.1.2"/>
+    <id>http://infrae.com/download/silva_extensions/silva_findc/0.1.2</id>
+    
+      <published>2007-01-13T09:30:37Z</published>
+    
+    
+      <updated>2012-09-04T14:34:18Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Find 0.1.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva_findc/0.1.1"/>
+    <id>http://infrae.com/download/silva_extensions/silva_findc/0.1.1</id>
+    
+      <published>2007-01-13T09:30:31Z</published>
+    
+    
+      <updated>2012-09-04T14:34:18Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Find 0.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/silva_findc/0.1"/>
+    <id>http://infrae.com/download/silva_extensions/silva_findc/0.1</id>
+    
+      <published>2007-01-13T09:30:15Z</published>
+    
+    
+      <updated>2012-09-04T14:34:19Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Software Package 0.4</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaSoftwarePackage/0.4"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaSoftwarePackage/0.4</id>
+    
+      <published>2007-01-13T08:18:02Z</published>
+    
+    
+      <updated>2012-09-04T14:34:20Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Find 0.1.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/x_silva_find/0.1.2"/>
+    <id>http://infrae.com/download/silva_extensions/x_silva_find/0.1.2</id>
+    
+      <published>2006-12-13T11:15:43Z</published>
+    
+    
+      <updated>2012-09-04T14:34:38Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Static 0.7</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/x_silva_static/0.7"/>
+    <id>http://infrae.com/download/silva_extensions/x_silva_static/0.7</id>
+    
+      <published>2006-11-28T13:43:35Z</published>
+    
+    
+      <updated>2012-09-04T14:34:37Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Find 0.1.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/x_silva_find/0.1.1"/>
+    <id>http://infrae.com/download/silva_extensions/x_silva_find/0.1.1</id>
+    
+      <published>2006-11-07T16:39:13Z</published>
+    
+    
+      <updated>2012-09-04T14:34:38Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva News Network 2.3</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaNews/2.3"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaNews/2.3</id>
+    
+      <published>2006-11-06T15:20:57Z</published>
+    
+    
+      <updated>2012-09-04T14:34:16Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="Silva,"/>
+    <category term="SilvaNews,"/>
+    <category term="news,"/>
+    <category term="rss,"/>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="download"/>
+    <summary type="xhtml">
+      <div>Silva News</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Find 0.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/x_silva_find/0.1"/>
+    <id>http://infrae.com/download/silva_extensions/x_silva_find/0.1</id>
+    
+      <published>2006-10-06T16:59:09Z</published>
+    
+    
+      <updated>2012-09-04T14:34:38Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Ext ETH LDAP 0.8.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/x_silva_ext_eth_ldap/0.8.1"/>
+    <id>http://infrae.com/download/silva_extensions/x_silva_ext_eth_ldap/0.8.1</id>
+    
+      <published>2006-09-21T15:11:33Z</published>
+    
+    
+      <updated>2012-09-04T14:34:38Z</updated>
+    
+    <author>
+      <name>ETH Zurich</name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva News Network 2.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaNews/2.2"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaNews/2.2</id>
+    
+      <published>2006-08-17T14:51:12Z</published>
+    
+    
+      <updated>2012-09-04T14:34:16Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="Silva,"/>
+    <category term="SilvaNews,"/>
+    <category term="news,"/>
+    <category term="rss,"/>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="download"/>
+    <summary type="xhtml">
+      <div>Silva News</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva News Network 2.1.3</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaNews/2.1.3"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaNews/2.1.3</id>
+    
+      <published>2006-06-14T14:43:14Z</published>
+    
+    
+      <updated>2012-09-04T14:34:16Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="Silva,"/>
+    <category term="SilvaNews,"/>
+    <category term="news,"/>
+    <category term="rss,"/>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="download"/>
+    <summary type="xhtml">
+      <div>Silva News</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva News Network 2.1.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaNews/2.1.2"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaNews/2.1.2</id>
+    
+      <published>2006-04-21T14:49:09Z</published>
+    
+    
+      <updated>2012-09-04T14:34:16Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="Silva,"/>
+    <category term="SilvaNews,"/>
+    <category term="news,"/>
+    <category term="rss,"/>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="download"/>
+    <summary type="xhtml">
+      <div>Silva News</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva News Network 2.0.3</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaNews/2.0.3"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaNews/2.0.3</id>
+    
+      <published>2006-02-14T11:33:59Z</published>
+    
+    
+      <updated>2012-09-04T14:34:16Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="Silva,"/>
+    <category term="SilvaNews,"/>
+    <category term="news,"/>
+    <category term="rss,"/>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="download"/>
+    <summary type="xhtml">
+      <div>Silva News</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva News Network 2.1.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaNews/2.1.1"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaNews/2.1.1</id>
+    
+      <published>2006-02-14T11:24:29Z</published>
+    
+    
+      <updated>2012-09-04T14:34:16Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="Silva,"/>
+    <category term="SilvaNews,"/>
+    <category term="news,"/>
+    <category term="rss,"/>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="download"/>
+    <summary type="xhtml">
+      <div>Silva News</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva News Network 2.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaNews/2.1"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaNews/2.1</id>
+    
+      <published>2006-02-10T14:41:46Z</published>
+    
+    
+      <updated>2012-09-04T14:34:16Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="Silva,"/>
+    <category term="SilvaNews,"/>
+    <category term="news,"/>
+    <category term="rss,"/>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="download"/>
+    <summary type="xhtml">
+      <div>Silva News</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva News Network 2.0.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaNews/2.0.2"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaNews/2.0.2</id>
+    
+      <published>2006-01-30T15:15:43Z</published>
+    
+    
+      <updated>2012-09-04T14:34:16Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="Silva,"/>
+    <category term="SilvaNews,"/>
+    <category term="news,"/>
+    <category term="rss,"/>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="download"/>
+    <summary type="xhtml">
+      <div>Silva News</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva News Network 2.0.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaNews/2.0.1"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaNews/2.0.1</id>
+    
+      <published>2005-11-30T13:51:11Z</published>
+    
+    
+      <updated>2012-09-04T14:34:17Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="Silva,"/>
+    <category term="SilvaNews,"/>
+    <category term="news,"/>
+    <category term="rss,"/>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="download"/>
+    <summary type="xhtml">
+      <div>Silva News</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva News Network 2.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaNews/2.0"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaNews/2.0</id>
+    
+      <published>2005-11-04T16:38:47Z</published>
+    
+    
+      <updated>2012-09-04T14:34:17Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="Silva,"/>
+    <category term="SilvaNews,"/>
+    <category term="news,"/>
+    <category term="rss,"/>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="download"/>
+    <summary type="xhtml">
+      <div>Silva News</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Facets 0.1.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/x_silva_facets/0.1.1"/>
+    <id>http://infrae.com/download/silva_extensions/x_silva_facets/0.1.1</id>
+    
+      <published>2005-04-28T16:02:41Z</published>
+    
+    
+      <updated>2012-09-04T14:34:38Z</updated>
+    
+    <author>
+      <name>Eric Casteleijn</name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Facets 0.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/x_silva_facets/0.1"/>
+    <id>http://infrae.com/download/silva_extensions/x_silva_facets/0.1</id>
+    
+      <published>2005-04-28T14:24:19Z</published>
+    
+    
+      <updated>2012-09-04T14:34:38Z</updated>
+    
+    <author>
+      <name>Eric Casteleijn</name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva Ext ETH LDAP 0.7</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/x_silva_ext_eth_ldap/0.7"/>
+    <id>http://infrae.com/download/silva_extensions/x_silva_ext_eth_ldap/0.7</id>
+    
+      <published>2005-04-08T12:48:27Z</published>
+    
+    
+      <updated>2012-09-04T14:34:38Z</updated>
+    
+    <author>
+      <name>ETH Zurich</name>
+    </author>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="CMS,"/>
+    <category term="content"/>
+    <category term="management"/>
+    <category term="system,"/>
+    <category term="DAM,"/>
+    <category term="digital"/>
+    <category term="asset"/>
+    <category term="management,"/>
+    <category term="Silva,"/>
+    <category term="Silva"/>
+    <category term="CMS,"/>
+    <category term="extension,"/>
+    <category term="Silva"/>
+    <category term="extensions"/>
+    <summary type="xhtml">
+      <div>Download extensions for the Silva content management system</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva News Network 1.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaNews/1.2"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaNews/1.2</id>
+    
+      <published>2005-03-10T10:14:48Z</published>
+    
+    
+      <updated>2012-09-04T14:34:17Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="Silva,"/>
+    <category term="SilvaNews,"/>
+    <category term="news,"/>
+    <category term="rss,"/>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="download"/>
+    <summary type="xhtml">
+      <div>Silva News</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>Silva News Network 1.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/silva_extensions/SilvaNews/1.0"/>
+    <id>http://infrae.com/download/silva_extensions/SilvaNews/1.0</id>
+    
+      <published>2004-08-24T14:53:57Z</published>
+    
+    
+      <updated>2012-09-04T14:34:17Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="Silva,"/>
+    <category term="SilvaNews,"/>
+    <category term="news,"/>
+    <category term="rss,"/>
+    <category term="content"/>
+    <category term="management,"/>
+    <category term="download"/>
+    <summary type="xhtml">
+      <div>Silva News</div>
+    </summary>
+  </entry>
+</feed>

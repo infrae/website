@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://infrae.com/download/OAI</id>
+  <title type="text">OAI Components</title>
+  <subtitle>Download areas for all of Infrae's open source products.</subtitle>
+  <link rel="self"
+        href="http://infrae.com/download/OAI/atom.xml"/>
+  <author>
+    <name>sylvain</name>
+  </author>
+  
+    <updated>2010-12-22T11:45:16Z</updated>
+  
+  <entry>
+    <title>OAICore Zope Product 2.5</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/OAI/OAICore/2.5"/>
+    <id>http://infrae.com/download/OAI/OAICore/2.5</id>
+    
+      <published>2010-12-22T11:45:16Z</published>
+    
+    
+      <updated>2012-09-04T14:35:44Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="zope2"/>
+    <category term="harvesting"/>
+    <category term="oai"/>
+    <category term="oaipmh"/>
+    <summary type="xhtml">
+      <div>OAI harvesting support for Zope 2.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>OAICore Zope Product 2.4dev-r46346</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/OAI/OAICore/2.4dev-r46346"/>
+    <id>http://infrae.com/download/OAI/OAICore/2.4dev-r46346</id>
+    
+      <published>2010-11-04T15:13:56Z</published>
+    
+    
+      <updated>2012-09-04T14:35:44Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="zope2"/>
+    <category term="harvesting"/>
+    <category term="oai"/>
+    <category term="oaipmh"/>
+    <summary type="xhtml">
+      <div>OAI harvesting support for Zope 2.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>OAI-PMH Python Module 2.4.4</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/OAI/pyoai/2.4.4"/>
+    <id>http://infrae.com/download/OAI/pyoai/2.4.4</id>
+    
+      <published>2010-09-30T09:22:55Z</published>
+    
+    
+      <updated>2012-09-04T14:35:43Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="OAI-PMH"/>
+    <category term="xml"/>
+    <category term="archive"/>
+    <summary type="xhtml">
+      <div>The oaipmh module is a Python implementation of an "Open Archives
+Initiative Protocol for Metadata Harvesting" (version 2) client and server.
+The protocol is described here:
+
+http://www.openarchives.org/OAI/openarchivesprotocol.html</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>MOAI Server 1.1.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/OAI/MOAI/1.1.2"/>
+    <id>http://infrae.com/download/OAI/MOAI/1.1.2</id>
+    
+      <published>2010-09-30T09:00:53Z</published>
+    
+    
+      <updated>2012-09-04T14:35:45Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="download,"/>
+    <category term="open"/>
+    <category term="source,"/>
+    <category term="software,"/>
+    <category term="products,"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Downloads of Infrae Products.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>MOAI Server 1.1.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/OAI/MOAI/1.1.1"/>
+    <id>http://infrae.com/download/OAI/MOAI/1.1.1</id>
+    
+      <published>2010-09-02T13:33:55Z</published>
+    
+    
+      <updated>2012-09-04T14:35:45Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="download,"/>
+    <category term="open"/>
+    <category term="source,"/>
+    <category term="software,"/>
+    <category term="products,"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Downloads of Infrae Products.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>OAI-PMH Python Module 2.4.3</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/OAI/pyoai/2.4.3"/>
+    <id>http://infrae.com/download/OAI/pyoai/2.4.3</id>
+    
+      <published>2010-08-19T13:44:40Z</published>
+    
+    
+      <updated>2012-09-04T14:35:43Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="OAI-PMH"/>
+    <category term="xml"/>
+    <category term="archive"/>
+    <summary type="xhtml">
+      <div>The oaipmh module is a Python implementation of an "Open Archives
+Initiative Protocol for Metadata Harvesting" (version 2) client and server.
+The protocol is described here:
+
+http://www.openarchives.org/OAI/openarchivesprotocol.html</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>OAI-PMH Python Module 2.4.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/OAI/pyoai/2.4.2"/>
+    <id>http://infrae.com/download/OAI/pyoai/2.4.2</id>
+    
+      <published>2010-05-03T15:42:45Z</published>
+    
+    
+      <updated>2012-09-04T14:35:43Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="OAI,"/>
+    <category term="OAIPMH,"/>
+    <category term="python,"/>
+    <category term="download"/>
+    <summary type="xhtml">
+      <div>OAI-PMH Python Module Download</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>MOAI Server 1.1.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/OAI/MOAI/1.1.0"/>
+    <id>http://infrae.com/download/OAI/MOAI/1.1.0</id>
+    
+      <published>2010-04-08T12:16:09Z</published>
+    
+    
+      <updated>2012-09-04T14:35:45Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="download,"/>
+    <category term="open"/>
+    <category term="source,"/>
+    <category term="software,"/>
+    <category term="products,"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Downloads of Infrae Products.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>MOAI Server 1.0.10</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/OAI/MOAI/1.0.10"/>
+    <id>http://infrae.com/download/OAI/MOAI/1.0.10</id>
+    
+      <published>2010-03-25T09:34:01Z</published>
+    
+    
+      <updated>2012-09-04T14:35:45Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="download,"/>
+    <category term="open"/>
+    <category term="source,"/>
+    <category term="software,"/>
+    <category term="products,"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Downloads of Infrae Products.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>MOAI Server 1.0.9</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/OAI/MOAI/1.0.9"/>
+    <id>http://infrae.com/download/OAI/MOAI/1.0.9</id>
+    
+      <published>2010-02-16T11:36:44Z</published>
+    
+    
+      <updated>2012-09-04T14:35:45Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="download,"/>
+    <category term="open"/>
+    <category term="source,"/>
+    <category term="software,"/>
+    <category term="products,"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Downloads of Infrae Products.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>MOAI Server 1.0.8</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/OAI/MOAI/1.0.8"/>
+    <id>http://infrae.com/download/OAI/MOAI/1.0.8</id>
+    
+      <published>2009-11-18T12:39:12Z</published>
+    
+    
+      <updated>2012-09-04T14:35:45Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="download,"/>
+    <category term="open"/>
+    <category term="source,"/>
+    <category term="software,"/>
+    <category term="products,"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Downloads of Infrae Products.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>MOAI Server 1.0.7</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/OAI/MOAI/1.0.7"/>
+    <id>http://infrae.com/download/OAI/MOAI/1.0.7</id>
+    
+      <published>2009-11-16T16:55:54Z</published>
+    
+    
+      <updated>2012-09-04T14:35:45Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="download,"/>
+    <category term="open"/>
+    <category term="source,"/>
+    <category term="software,"/>
+    <category term="products,"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Downloads of Infrae Products.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>OAI-PMH Python Module 2.4.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/OAI/pyoai/2.4.1"/>
+    <id>http://infrae.com/download/OAI/pyoai/2.4.1</id>
+    
+      <published>2009-11-16T16:42:19Z</published>
+    
+    
+      <updated>2012-09-04T14:35:43Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="OAI,"/>
+    <category term="OAIPMH,"/>
+    <category term="python,"/>
+    <category term="download"/>
+    <summary type="xhtml">
+      <div>OAI-PMH Python Module Download</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>MOAI Server 1.0.6</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/OAI/MOAI/1.0.6"/>
+    <id>http://infrae.com/download/OAI/MOAI/1.0.6</id>
+    
+      <published>2009-08-12T14:57:34Z</published>
+    
+    
+      <updated>2012-09-04T14:35:45Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="download,"/>
+    <category term="open"/>
+    <category term="source,"/>
+    <category term="software,"/>
+    <category term="products,"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Downloads of Infrae Products.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>MOAI Server 1.0.5</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/OAI/MOAI/1.0.5"/>
+    <id>http://infrae.com/download/OAI/MOAI/1.0.5</id>
+    
+      <published>2009-08-12T14:00:14Z</published>
+    
+    
+      <updated>2012-09-04T14:35:46Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="download,"/>
+    <category term="open"/>
+    <category term="source,"/>
+    <category term="software,"/>
+    <category term="products,"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Downloads of Infrae Products.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>OAICore Zope Product 2.3</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/OAI/OAICore/2.3"/>
+    <id>http://infrae.com/download/OAI/OAICore/2.3</id>
+    
+      <published>2009-07-29T16:19:48Z</published>
+    
+    
+      <updated>2012-09-04T14:35:44Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="OAI,"/>
+    <category term="OAIPMH,"/>
+    <category term="Zope,"/>
+    <category term="download"/>
+    <summary type="xhtml">
+      <div>OAI Core Download</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>MOAI Server 1.0.4</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/OAI/MOAI/1.0.4"/>
+    <id>http://infrae.com/download/OAI/MOAI/1.0.4</id>
+    
+      <published>2009-07-15T09:41:38Z</published>
+    
+    
+      <updated>2012-09-04T14:35:46Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="download,"/>
+    <category term="open"/>
+    <category term="source,"/>
+    <category term="software,"/>
+    <category term="products,"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Downloads of Infrae Products.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>MOAI Server 1.0.3</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/OAI/MOAI/1.0.3"/>
+    <id>http://infrae.com/download/OAI/MOAI/1.0.3</id>
+    
+      <published>2009-06-23T16:23:06Z</published>
+    
+    
+      <updated>2012-09-04T14:35:46Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="download,"/>
+    <category term="open"/>
+    <category term="source,"/>
+    <category term="software,"/>
+    <category term="products,"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Downloads of Infrae Products.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>MOAI Server 1.0.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/OAI/MOAI/1.0.2"/>
+    <id>http://infrae.com/download/OAI/MOAI/1.0.2</id>
+    
+      <published>2009-05-20T12:55:36Z</published>
+    
+    
+      <updated>2012-09-04T14:35:46Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="download,"/>
+    <category term="open"/>
+    <category term="source,"/>
+    <category term="software,"/>
+    <category term="products,"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Downloads of Infrae Products.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>MOAI Server 1.0.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/OAI/MOAI/1.0.1"/>
+    <id>http://infrae.com/download/OAI/MOAI/1.0.1</id>
+    
+      <published>2009-05-19T15:23:08Z</published>
+    
+    
+      <updated>2012-09-04T14:35:46Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="download,"/>
+    <category term="open"/>
+    <category term="source,"/>
+    <category term="software,"/>
+    <category term="products,"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Downloads of Infrae Products.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>MOAI Server 1.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/OAI/MOAI/1.0"/>
+    <id>http://infrae.com/download/OAI/MOAI/1.0</id>
+    
+      <published>2009-05-04T16:07:53Z</published>
+    
+    
+      <updated>2012-09-04T14:35:46Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="download,"/>
+    <category term="open"/>
+    <category term="source,"/>
+    <category term="software,"/>
+    <category term="products,"/>
+    <category term="infrae"/>
+    <summary type="xhtml">
+      <div>Downloads of Infrae Products.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>OAI-PMH Python Module 2.4</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/OAI/pyoai/2.4"/>
+    <id>http://infrae.com/download/OAI/pyoai/2.4</id>
+    
+      <published>2009-05-04T13:51:40Z</published>
+    
+    
+      <updated>2012-09-04T14:35:43Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="OAI,"/>
+    <category term="OAIPMH,"/>
+    <category term="python,"/>
+    <category term="download"/>
+    <summary type="xhtml">
+      <div>OAI-PMH Python Module Download</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>OAICore Zope Product 2.1.7</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/OAI/OAICore/2.1.7"/>
+    <id>http://infrae.com/download/OAI/OAICore/2.1.7</id>
+    
+      <published>2008-11-17T15:06:39Z</published>
+    
+    
+      <updated>2012-09-04T14:35:44Z</updated>
+    
+    <author>
+      <name>Infrae</name>
+    </author>
+    <category term="zope2"/>
+    <category term="harvesting"/>
+    <category term="oai"/>
+    <category term="oaipmh"/>
+    <summary type="xhtml">
+      <div>OAI harvesting support for Zope 2.</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>OAI-PMH Python Module 2.2.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/OAI/pyoai/2.2.1"/>
+    <id>http://infrae.com/download/OAI/pyoai/2.2.1</id>
+    
+      <published>2008-07-11T12:50:09Z</published>
+    
+    
+      <updated>2012-09-04T14:35:43Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="OAI,"/>
+    <category term="OAIPMH,"/>
+    <category term="python,"/>
+    <category term="download"/>
+    <summary type="xhtml">
+      <div>OAI-PMH Python Module Download</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>OAI-PMH Python Module 2.1.5</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/OAI/pyoai/2.1.5"/>
+    <id>http://infrae.com/download/OAI/pyoai/2.1.5</id>
+    
+      <published>2006-10-02T08:20:36Z</published>
+    
+    
+      <updated>2012-09-04T14:35:43Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="OAI,"/>
+    <category term="OAIPMH,"/>
+    <category term="python,"/>
+    <category term="download"/>
+    <summary type="xhtml">
+      <div>OAI-PMH Python Module Download</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>OAI-PMH Python Module 2.1.3</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/OAI/pyoai/2.1.3"/>
+    <id>http://infrae.com/download/OAI/pyoai/2.1.3</id>
+    
+      <published>2006-05-01T16:14:26Z</published>
+    
+    
+      <updated>2012-09-04T14:35:44Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="OAI,"/>
+    <category term="OAIPMH,"/>
+    <category term="python,"/>
+    <category term="download"/>
+    <summary type="xhtml">
+      <div>OAI-PMH Python Module Download</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>OAI-PMH Python Module 2.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/OAI/pyoai/2.0"/>
+    <id>http://infrae.com/download/OAI/pyoai/2.0</id>
+    
+      <published>2006-01-26T14:21:02Z</published>
+    
+    
+      <updated>2012-09-04T14:35:44Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="OAI,"/>
+    <category term="OAIPMH,"/>
+    <category term="python,"/>
+    <category term="download"/>
+    <summary type="xhtml">
+      <div>OAI-PMH Python Module Download</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>OAI-PMH Python Module 2.0b1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/OAI/pyoai/2.0b1"/>
+    <id>http://infrae.com/download/OAI/pyoai/2.0b1</id>
+    
+      <published>2005-11-21T14:22:10Z</published>
+    
+    
+      <updated>2012-09-04T14:35:44Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="OAI,"/>
+    <category term="OAIPMH,"/>
+    <category term="python,"/>
+    <category term="download"/>
+    <summary type="xhtml">
+      <div>OAI-PMH Python Module Download</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>OAI-PMH Python Module 1.0.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/OAI/pyoai/1.0.1"/>
+    <id>http://infrae.com/download/OAI/pyoai/1.0.1</id>
+    
+      <published>2005-01-03T15:22:26Z</published>
+    
+    
+      <updated>2012-09-04T14:35:44Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="OAI,"/>
+    <category term="OAIPMH,"/>
+    <category term="python,"/>
+    <category term="download"/>
+    <summary type="xhtml">
+      <div>OAI-PMH Python Module Download</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>OAICore Zope Product 1.0.3</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/OAI/OAICore/1.0.3"/>
+    <id>http://infrae.com/download/OAI/OAICore/1.0.3</id>
+    
+      <published>2004-12-14T13:39:21Z</published>
+    
+    
+      <updated>2012-09-04T14:35:44Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="OAI,"/>
+    <category term="OAIPMH,"/>
+    <category term="Zope,"/>
+    <category term="download"/>
+    <summary type="xhtml">
+      <div>OAI Core Download</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>OAICore Zope Product 1.0.2</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/OAI/OAICore/1.0.2"/>
+    <id>http://infrae.com/download/OAI/OAICore/1.0.2</id>
+    
+      <published>2004-11-16T13:21:53Z</published>
+    
+    
+      <updated>2012-09-04T14:35:45Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="OAI,"/>
+    <category term="OAIPMH,"/>
+    <category term="Zope,"/>
+    <category term="download"/>
+    <summary type="xhtml">
+      <div>OAI Core Download</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>OAICore Zope Product 1.0.1</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/OAI/OAICore/1.0.1"/>
+    <id>http://infrae.com/download/OAI/OAICore/1.0.1</id>
+    
+      <published>2004-10-18T12:03:39Z</published>
+    
+    
+      <updated>2012-09-04T14:35:45Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="OAI,"/>
+    <category term="OAIPMH,"/>
+    <category term="Zope,"/>
+    <category term="download"/>
+    <summary type="xhtml">
+      <div>OAI Core Download</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>OAICore Zope Product 1.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/OAI/OAICore/1.0"/>
+    <id>http://infrae.com/download/OAI/OAICore/1.0</id>
+    
+      <published>2004-10-13T17:08:00Z</published>
+    
+    
+      <updated>2012-09-04T14:35:45Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="OAI,"/>
+    <category term="OAIPMH,"/>
+    <category term="Zope,"/>
+    <category term="download"/>
+    <summary type="xhtml">
+      <div>OAI Core Download</div>
+    </summary>
+  </entry>
+  <entry>
+    <title>OAI-PMH Python Module 1.0</title>
+    <link rel="alternate" type="text/html"
+          href="http://infrae.com/download/OAI/pyoai/1.0"/>
+    <id>http://infrae.com/download/OAI/pyoai/1.0</id>
+    
+      <published>2004-10-13T17:07:36Z</published>
+    
+    
+      <updated>2012-09-04T14:35:44Z</updated>
+    
+    <author>
+      <name></name>
+    </author>
+    <category term="OAI,"/>
+    <category term="OAIPMH,"/>
+    <category term="python,"/>
+    <category term="download"/>
+    <summary type="xhtml">
+      <div>OAI-PMH Python Module Download</div>
+    </summary>
+  </entry>
+</feed>
