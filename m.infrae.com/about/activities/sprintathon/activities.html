@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Infrae Mobile: Sprintathon Activity and Achievements</title>
+    <base href="" />
+    <meta name="description" content="Infrae mobile site: Reports about the Zope3 content manamgement Sprint held from 2-6 december 2002 in Rotterdam." />
+    <meta name="keywords" content="mobile, smartphone, Android, iOS, sprint, sprintathon, zope3, Rotterdam, Infrae" />
+    <meta name="generator" content="Silva" />
+    <meta name="viewport" content="width=device-width,user-scalable=yes" />
+    <link rel="shortcut icon" href="../../../++static++/silvatheme.infraemobile/:version:2013-12-19T15:20:12/favicon.ico" />
+
+    <link rel="apple-touch-icon" href="../../../++static++/silvatheme.infraemobile/:version:2013-12-19T15:20:12/mobicon.png" />
+    <style>#contactus {display: none;}</style>
+
+    
+  <link rel="stylesheet" type="text/css" href="../../../++static++/silvatheme.infraemobile/:version:2013-12-19T15:20:12/:bundle:infraemobile.css%3Binfraemobile_advanced.css" />
+<script type="text/javascript" src="../../../++static++/jquery/:version:1.8.2/jquery.min.js"></script>
+</head>
+
+  <body class="activities">
+    <div id="site" class="">
+  <div id="header"><div class="breadcrumbs"><div class="menu bc">
+  <div id="home" class="bci bchome">
+    <a href="../../../index.html">
+      <img width="72" height="36" alt="Home" src="../../../++static++/silvatheme.infraemobile/:version:2013-12-19T15:20:12/images/homelink.png"
+           />
+    </a>
+  </div>
+  <div id="sitemap-switch-button" class="buttons" >
+  <a id="sitemap-switch-button-link" href="activities.html#top"
+    width="36" height="36" alt="Sitemap"
+    title="show sitemap"
+    onclick="
+      window.location.hash = 'top';
+      var cur = $(this);
+      $('#sitemap').slideToggle('fast',
+      function(){cur.toggleClass('selected')});
+      return false;">
+    <img height="36" width="36" alt="Sitemap button" src="../../../++static++/silvatheme.infraemobile/:version:2013-12-19T15:20:12/images/sitemap.png"
+    />
+  </a>
+</div>
+
+  <div class="title bci">
+    <a href="../sprintathon.html">Rotterdam Sprint</a>
+  </div>
+</div>
+</div>
+</div>
+  <div id="behindheader">
+    <a name="top" href="mailto:torvald@infrae.com">
+      Looking under the hood? Interested in a job? Send a mail....
+    </a>
+  </div>
+  <div id="sitemap" style="display: none"><div class="navigation">
+  <ul id="navigation-menu" class="navigation-level-0">
+    
+      <li class="level-0">
+        <a href="../../../news.html" title="News">News</a>
+        
+      </li>
+    
+    
+      <li class="level-0 selected">
+        <a href="../../../about.html" title="About" class="onbranch">About</a>
+        
+          
+            <ul class="navigation-level-1">
+    
+      <li class="level-1">
+        <a href="../../network.html" title="Network">Network</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../../references.html" title="References">References</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../../info.html" title="Corporate Info">Corporate Info</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../../technologies.html" title="Technologies">Technologies</a>
+        
+      </li>
+    
+    
+      <li class="level-1 selected">
+        <a href="../../activities.html" title="Activities" class="onbranch">Activities</a>
+        
+          
+            <ul class="navigation-level-2">
+    
+      <li class="level-2">
+        <a href="../europython2004.html" title="EuroPython 2004">EuroPython 2004</a>
+        
+      </li>
+    
+    
+      <li class="level-2">
+        <a href="../reports.html" title="Reports">Reports</a>
+        
+      </li>
+    
+    
+      <li class="level-2 selected">
+        <a href="../sprintathon.html" title="Rotterdam Sprint" class="onbranch">Rotterdam Sprint</a>
+        
+      </li>
+    
+  </ul>
+          
+        
+      </li>
+    
+  </ul>
+          
+        
+      </li>
+    
+    
+      <li class="level-0">
+        <a href="../../../products.html" title="Products">Products</a>
+        
+      </li>
+    
+    
+      <li class="level-0">
+        <a href="../../../download.html" title="Download">Download</a>
+        
+      </li>
+    
+    
+      <li class="level-0">
+        <a href="../../../service.html" title="Services">Services</a>
+        
+      </li>
+    
+    
+      <li class="level-0">
+        <a href="../../../contact.html" title="Contact">Contact</a>
+        
+      </li>
+    
+    
+      <li class="level-0">
+        <a href="../../../presentations.html" title="Presentations">Presentations</a>
+        
+      </li>
+    
+    
+      <li class="level-0">
+        <a href="../../../search.html" title="Inactive Search">Inactive Search</a>
+        
+      </li>
+    
+  </ul>
+</div>
+</div>
+  <div id="content">
+    
+    
+  <h1>Sprintathon Activity and Achievements</h1>
+  <p>
+The following list of bullet points gives an indication of the sprint's focus and 
+tasks. For more detailed information see the links in the page above (and the documentation created ;-)<br></p>
+<h3>Workflow</h3>
+<p> </p>
+<ul class="disc"><li>Setup core framework</li><li>Plan minumum interface that is common to both types of workflow</li><li>Basic stateful process definition (CMF-like workflow)</li><li>Start scheduling system for managing tasks in a task queue (model for asynchronous actions)</li></ul><p> </p>
+<h3>Search</h3>
+<p> </p>
+<ul class="square"><li>Ported ZC text index (from Zope 2 to 3)</li><li>ZCText index is available stand-alone for ZODB</li><li>ZCText index bug fixes backported to zope 2</li><li>Made content indexable (without changing content classes)</li><li>Worked out a general component architecture for queries</li><li>Everything except querying hooked up to UI</li><li>Text index objects can be indexed on adding or by traversing folders</li><li>A working text index was demonstrated on thursday</li><li>Query service is in progress</li><li>Efficient batched queries</li></ul><p> </p>
+<h3>Architecture</h3>
+<p> </p>
+<ul class="square"><li>New naming scheme for API</li></ul><p> </p>
+<h3>System</h3>
+<p> </p>
+<ul class="square"><li>Adapters for various databases (MySQL, Postgres, SAP DB)</li></ul><p> </p>
+<h3>UI</h3>
+<p> </p>
+<p>There is a now basic UI, based on Plone CSS</p>
+<p>Includes general page structure and CSS of the UI skin</p>
+<p>Contents view has a navigation tree
+  </p>
+<ul class="circle"><li>Dynamic, fold and unfold without reload using javascript</li><li>  Fed by XML</li></ul><p> </p>
+<p>Common tasks action box (most used actions at top)</p>
+<p>Implemented add view</p>
+<p> </p>
+<h3>Users / Authentication</h3>
+<p> </p>
+<ul class="square"><li>Created user authentication methods</li><li>Implemented simple sessions</li><li>Application service</li><li>Service for managing user data</li></ul><p> </p>
+<h3>Documentation</h3>
+<p> </p>
+<p>Worked on documentation infrastructure system</p>
+<p>Created docs on:
+  </p>
+<ul class="circle"><li>  schema</li><li>  security</li><li>  debug mechanism</li><li>  install doc</li></ul><p> </p>
+<p>Use of page templates outside of Zope</p>
+<p>Tools for automatic doc generation / interactive documentation
+  </p>
+<ul class="circle"><li>  Command line inspector</li><li>  Shows what is registered, with command line completion</li><li>  Automatic listing including number of parameters</li><li>  Tab after first parenthesis displays code of item</li></ul><p> </p>
+<p><br><br></p>
+
+
+  </div>
+  <div id="footer">
+  <div class="search">
+  <form method="get" action="http://m.infrae.com/about/activities/sprintathon/activities/@@index.html">
+    <input class="searchbutton" type="image" src="../../../++static++/silvatheme.infraemobile/:version:2013-12-19T15:20:12/images/search.png" />
+    <div class="searchtext">
+      <input class="text" placeholder="Search..." name="search" type="text"
+             />
+    </div>
+  </form>
+</div>
+
+  <table class="nav">
+  
+    <tr>
+      <td class="col1">
+        <div class="nav_button">
+          <a class="nav_button" href="../../../news.html">News</a>
+        </div>
+      </td>
+      <td class="col2">
+        <div class="nav_button">
+          <a class="nav_button" href="../../../about.html">About</a>
+        </div>
+      </td>
+      <td class="col3">
+        <div class="nav_button">
+          <a class="nav_button" href="../../../products.html">Products</a>
+        </div>
+      </td>
+    </tr>
+  
+  
+    <tr>
+      <td class="col1">
+        <div class="nav_button">
+          <a class="nav_button" href="../../../download.html">Download</a>
+        </div>
+      </td>
+      <td class="col2">
+        <div class="nav_button">
+          <a class="nav_button" href="../../../service.html">Services</a>
+        </div>
+      </td>
+      <td class="col3">
+        <div class="nav_button">
+          <a class="nav_button" href="../../../contact.html">Contact</a>
+        </div>
+      </td>
+    </tr>
+  
+  
+    <tr>
+      <td class="col1">
+        <div class="nav_button">
+          <a class="nav_button" href="../../../presentations.html">Presentations</a>
+        </div>
+      </td>
+    </tr>
+  
+    <tr>
+      <td colspan="3" class="col0">
+        <div class="nav_button">
+          <a class="nav_button" href="http://infrae.com/about/activities/sprintathon/activities">
+            View this page on the desktop site
+          </a>
+        </div>
+      </td>
+    </tr>
+</table>
+
+  <div class="channels">
+    <a class="button" href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Infrae,+Rotterdam,+The+Netherlands&sll=36.244273,-95.712891&sspn=52.071158,72.949219&ie=UTF8&hq=Infrae,&hnear=Rotterdam,+South+Holland,+The+Netherlands&t=h&z=15&iwloc=A">Hoevestraat 10 3033 GC Rotterdam NL</a>
+    <a href="tel:+31102437051" class="button left">+31 10 243 7051</a>
+    <a class="button right" href="mailto:info@infrae.com">info@infrae.com</a>
+  </div>
+
+</div>
+</div>
+
+
+
+<script type="text/javascript">
+    
+    $( function(){ 
+        $(document).bind('mousedown touchstart', function(){ 
+            $('#sitemap').hide('fast', function(){
+                $('#sitemap-switch-button-link').removeClass('selected');
+            }); 
+        });
+        
+        $('#sitemap, #sitemap-switch-button').bind('mousedown touchstart', function(event){
+            event.stopPropagation();
+        });       
+    });
+    
+</script>
+
+  </body>
+</html>

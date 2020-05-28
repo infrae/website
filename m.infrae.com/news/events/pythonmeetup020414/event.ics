@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+PRODID:-//Silva News Calendaring//lonely event//
+VERSION:2.0
+BEGIN:VEVENT
+CREATED:20140304T101215Z
+DTEND:20140402T210000Z
+DTSTART:20140402T180000Z
+LAST-MODIFIED:20140304T101310Z
+LOCATION:Proeflokaal Brouwerij de Prael
+SUMMARY:Beer & Python at Proeflokaal Brouwerij de Prael
+UID:596605089@0@silvanews
+URL:http://m.infrae.com/news/events/pythonmeetup020414
+END:VEVENT
+END:VCALENDAR

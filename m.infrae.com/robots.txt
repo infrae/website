@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /internal/
+Disallow: /lobby/
+Disallow: /st/
+Sitemap: http://infrae.com/sitemap.xml
+Sitemap: http://m.infrae.com/sitemap.xml

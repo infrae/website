@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Infrae Mobile: Installing Docma</title>
+    <base href="" />
+    <meta name="description" content="Infrae mobile site: All of Infrae's open source products." />
+    <meta name="keywords" content="mobile, smartphone, Android, iOS, Products, content management, CMS, content management system, DM, document management, document management system, DAM, digital asset management, Silva, Silva CMS, Kupu, Kupu editor, Railroad, Railroad Repository, Tramline, Python, Zope, open source, open source software, FLOSS" />
+    <meta name="generator" content="Silva" />
+    <meta name="viewport" content="width=device-width,user-scalable=yes" />
+    <link rel="shortcut icon" href="../../++static++/silvatheme.infraemobile/:version:2013-12-19T15:20:12/favicon.ico" />
+
+    <link rel="apple-touch-icon" href="../../++static++/silvatheme.infraemobile/:version:2013-12-19T15:20:12/mobicon.png" />
+    <style>#contactus {display: none;}</style>
+
+    
+  <link rel="stylesheet" type="text/css" href="../../++static++/silvatheme.infraemobile/:version:2013-12-19T15:20:12/:bundle:infraemobile.css%3Binfraemobile_advanced.css" />
+<script type="text/javascript" src="../../++static++/jquery/:version:1.8.2/jquery.min.js"></script>
+</head>
+
+  <body class="requirements">
+    <div id="site" class="">
+  <div id="header"><div class="breadcrumbs"><div class="menu bc">
+  <div id="home" class="bci bchome">
+    <a href="../../index.html">
+      <img width="72" height="36" alt="Home" src="../../++static++/silvatheme.infraemobile/:version:2013-12-19T15:20:12/images/homelink.png"
+           />
+    </a>
+  </div>
+  <div id="sitemap-switch-button" class="buttons" >
+  <a id="sitemap-switch-button-link" href="requirements.html#top"
+    width="36" height="36" alt="Sitemap"
+    title="show sitemap"
+    onclick="
+      window.location.hash = 'top';
+      var cur = $(this);
+      $('#sitemap').slideToggle('fast',
+      function(){cur.toggleClass('selected')});
+      return false;">
+    <img height="36" width="36" alt="Sitemap button" src="../../++static++/silvatheme.infraemobile/:version:2013-12-19T15:20:12/images/sitemap.png"
+    />
+  </a>
+</div>
+
+  <div class="title bci">
+    <a href="../docmaproduct.html">Docma Converter</a>
+  </div>
+</div>
+</div>
+</div>
+  <div id="behindheader">
+    <a name="top" href="mailto:torvald@infrae.com">
+      Looking under the hood? Interested in a job? Send a mail....
+    </a>
+  </div>
+  <div id="sitemap" style="display: none"><div class="navigation">
+  <ul id="navigation-menu" class="navigation-level-0">
+    
+      <li class="level-0">
+        <a href="../../news.html" title="News">News</a>
+        
+      </li>
+    
+    
+      <li class="level-0">
+        <a href="../../about.html" title="About">About</a>
+        
+      </li>
+    
+    
+      <li class="level-0 selected">
+        <a href="../../products.html" title="Products" class="onbranch">Products</a>
+        
+          
+            <ul class="navigation-level-1">
+    
+      <li class="level-1">
+        <a href="../silva.html" title="Silva">Silva</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../mobi.html" title="Mobi">Mobi</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../moai.html" title="MOAI Server">MOAI Server</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../documentlibrary.html" title="OAI Document Library">OAI Document Library</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../oaipack.html" title="OAI Pack">OAI Pack</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="http://m.infrae.com/products/silvanewsnetwork" title="Silva News Network">Silva News Network</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../lxml.html" title="lxml Library">lxml Library</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../formulator.html" title="Formulator">Formulator</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../tramline.html" title="Tramline">Tramline</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../kupu_editor.html" title="Kupu">Kupu</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../railroad.html" title="Railroad Repository">Railroad Repository</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../glade.html" title="Dendra Image Archive">Dendra Image Archive</a>
+        
+      </li>
+    
+    
+      <li class="level-1 selected">
+        <a href="../docmaproduct.html" title="Docma Converter" class="onbranch">Docma Converter</a>
+        
+          
+            <ul class="navigation-level-2">
+    
+      <li class="level-2">
+        <a href="docmaserver.html" title="DocmaServer">DocmaServer</a>
+        
+      </li>
+    
+    
+      <li class="level-2 selected">
+        <a href="requirements.html" title="Install and Reqs" class="selected">Install and Reqs</a>
+        
+      </li>
+    
+  </ul>
+          
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../zsparklines.html" title="ZSparklines">ZSparklines</a>
+        
+      </li>
+    
+  </ul>
+          
+        
+      </li>
+    
+    
+      <li class="level-0">
+        <a href="../../download.html" title="Download">Download</a>
+        
+      </li>
+    
+    
+      <li class="level-0">
+        <a href="../../service.html" title="Services">Services</a>
+        
+      </li>
+    
+    
+      <li class="level-0">
+        <a href="../../contact.html" title="Contact">Contact</a>
+        
+      </li>
+    
+    
+      <li class="level-0">
+        <a href="../../presentations.html" title="Presentations">Presentations</a>
+        
+      </li>
+    
+    
+      <li class="level-0">
+        <a href="../../search.html" title="Inactive Search">Inactive Search</a>
+        
+      </li>
+    
+  </ul>
+</div>
+</div>
+  <div id="content">
+    
+    
+  <h1>Installing Docma</h1>
+  <p>  Docma depends on several other software products.  </p>
+<p> </p>
+<h3>  Active State's Python (&gt;=2.2)</h3>
+<p>     Active State's Python distribution contains besides Python itself 
+    expat for XML processing and the PythonCOM library.</p>
+<p> </p>
+<h4>    It can be found here</h4>
+<p>  <a class="link" title="" target="_self" href="http://activestate.com/Products/ActivePython/">http://activestate.com/Products/ActivePython/</a></p>
+<p> </p>
+<h4>    or just download the file      </h4>
+<p>  <a class="link" title="" target="_self" href="http://downloads.activestate.com/ActivePython/windows/2.2/ActivePython-2.2.2-224-win32-ix86.msi">http://downloads.activestate.com/ActivePython/windows/2.2/ActivePython-2.2.2-224-win32-ix86.msi</a></p>
+<p>     This installs itself to C:\Python22.  If you don't install to
+    C:\Python22 you have to change the `runserver.bat' file to point to
+    your python installation.</p>
+<p> </p>
+<h3>  Twisted</h3>
+<p>     Twisted is a framework, written in Python, for writing networked
+    applications. </p>
+<p> </p>
+<h4>    Download it here</h4>
+<p>  <a class="link" title="" target="_self" href="http://twistedmatrix.com/">http://twistedmatrix.com/</a></p>
+<p> </p>
+<h4>    or directly</h4>
+<p>  <a class="link" title="" target="_self" href="http://twistedmatrix.com/products/get-current.epy?type=win32-py2.2.exe">http://twistedmatrix.com/products/get-current.epy?type=win32-py2.2.exe</a></p>
+<p>     After installing Python install Twisted.  On setup twisted shows you 
+    available Python installations.  Select Python Version 2.2 in C:\Python22.</p>
+<p> </p>
+<h3>  PyXML</h3>
+<p>     PyXML offers better XML processing facilities than Python itself. </p>
+<p> </p>
+<h4>    Download it here</h4>
+<p>  <a class="link" title="" target="_self" href="http://pyxml.sourceforge.net/">http://pyxml.sourceforge.net/</a></p>
+<p> </p>
+<h4>    or grab PyXML 0.8.2 directly</h4>
+<p>  <a class="link" title="" target="_self" href="http://switch.dl.sourceforge.net/sourceforge/pyxml/PyXML-0.8.2.win32-py2.2.exe">http://switch.dl.sourceforge.net/sourceforge/pyxml/PyXML-0.8.2.win32-py2.2.exe</a></p>
+<p> </p>
+<h3>  Microsoft Word 2000</h3>
+<p>     This version of Docma depends on Word 2000 beeing installed on the
+    same machine.</p>
+<p><br></p>
+
+
+  </div>
+  <div id="footer">
+  <div class="search">
+  <form method="get" action="http://m.infrae.com/products/docmaproduct/requirements/@@index.html">
+    <input class="searchbutton" type="image" src="../../++static++/silvatheme.infraemobile/:version:2013-12-19T15:20:12/images/search.png" />
+    <div class="searchtext">
+      <input class="text" placeholder="Search..." name="search" type="text"
+             />
+    </div>
+  </form>
+</div>
+
+  <table class="nav">
+  
+    <tr>
+      <td class="col1">
+        <div class="nav_button">
+          <a class="nav_button" href="../../news.html">News</a>
+        </div>
+      </td>
+      <td class="col2">
+        <div class="nav_button">
+          <a class="nav_button" href="../../about.html">About</a>
+        </div>
+      </td>
+      <td class="col3">
+        <div class="nav_button">
+          <a class="nav_button" href="../../products.html">Products</a>
+        </div>
+      </td>
+    </tr>
+  
+  
+    <tr>
+      <td class="col1">
+        <div class="nav_button">
+          <a class="nav_button" href="../../download.html">Download</a>
+        </div>
+      </td>
+      <td class="col2">
+        <div class="nav_button">
+          <a class="nav_button" href="../../service.html">Services</a>
+        </div>
+      </td>
+      <td class="col3">
+        <div class="nav_button">
+          <a class="nav_button" href="../../contact.html">Contact</a>
+        </div>
+      </td>
+    </tr>
+  
+  
+    <tr>
+      <td class="col1">
+        <div class="nav_button">
+          <a class="nav_button" href="../../presentations.html">Presentations</a>
+        </div>
+      </td>
+    </tr>
+  
+    <tr>
+      <td colspan="3" class="col0">
+        <div class="nav_button">
+          <a class="nav_button" href="http://infrae.com/products/docmaproduct/requirements">
+            View this page on the desktop site
+          </a>
+        </div>
+      </td>
+    </tr>
+</table>
+
+  <div class="channels">
+    <a class="button" href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Infrae,+Rotterdam,+The+Netherlands&sll=36.244273,-95.712891&sspn=52.071158,72.949219&ie=UTF8&hq=Infrae,&hnear=Rotterdam,+South+Holland,+The+Netherlands&t=h&z=15&iwloc=A">Hoevestraat 10 3033 GC Rotterdam NL</a>
+    <a href="tel:+31102437051" class="button left">+31 10 243 7051</a>
+    <a class="button right" href="mailto:info@infrae.com">info@infrae.com</a>
+  </div>
+
+</div>
+</div>
+
+
+
+<script type="text/javascript">
+    
+    $( function(){ 
+        $(document).bind('mousedown touchstart', function(){ 
+            $('#sitemap').hide('fast', function(){
+                $('#sitemap-switch-button-link').removeClass('selected');
+            }); 
+        });
+        
+        $('#sitemap, #sitemap-switch-button').bind('mousedown touchstart', function(event){
+            event.stopPropagation();
+        });       
+    });
+    
+</script>
+
+  </body>
+</html>

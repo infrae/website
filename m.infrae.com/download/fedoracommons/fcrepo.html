@@ -1,0 +1,927 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Infrae Mobile: fcrepo</title>
+    <base href="" />
+    <meta name="description" content="Infrae mobile site: Download areas for all of Infrae's open source products." />
+    <meta name="keywords" content="mobile, smartphone, Android, iOS, download, open source, software, products, infrae" />
+    <meta name="generator" content="Silva" />
+    <meta name="viewport" content="width=device-width,user-scalable=yes" />
+    <link rel="shortcut icon" href="../../++static++/silvatheme.infraemobile/:version:2013-12-19T15:20:12/favicon.ico" />
+
+    <link rel="apple-touch-icon" href="../../++static++/silvatheme.infraemobile/:version:2013-12-19T15:20:12/mobicon.png" />
+    <style>#contactus {display: none;}</style>
+
+    
+  <link rel="stylesheet" type="text/css" href="../../++static++/silvatheme.infraemobile/:version:2013-12-19T15:20:12/:bundle:infraemobile.css%3Binfraemobile_advanced.css" />
+<script type="text/javascript" src="../../++static++/jquery/:version:1.8.2/jquery.min.js"></script>
+</head>
+
+  <body class="fcrepo">
+    <div id="site" class="">
+  <div id="header"><div class="breadcrumbs"><div class="menu bc">
+  <div id="home" class="bci bchome">
+    <a href="../../index.html">
+      <img width="72" height="36" alt="Home" src="../../++static++/silvatheme.infraemobile/:version:2013-12-19T15:20:12/images/homelink.png"
+           />
+    </a>
+  </div>
+  <div id="sitemap-switch-button" class="buttons" >
+  <a id="sitemap-switch-button-link" href="fcrepo.html#top"
+    width="36" height="36" alt="Sitemap"
+    title="show sitemap"
+    onclick="
+      window.location.hash = 'top';
+      var cur = $(this);
+      $('#sitemap').slideToggle('fast',
+      function(){cur.toggleClass('selected')});
+      return false;">
+    <img height="36" width="36" alt="Sitemap button" src="../../++static++/silvatheme.infraemobile/:version:2013-12-19T15:20:12/images/sitemap.png"
+    />
+  </a>
+</div>
+
+  <div class="title bci">
+    <a href="../fedoracommons.html">Fedora Com...Repository</a>
+  </div>
+</div>
+</div>
+</div>
+  <div id="behindheader">
+    <a name="top" href="mailto:torvald@infrae.com">
+      Looking under the hood? Interested in a job? Send a mail....
+    </a>
+  </div>
+  <div id="sitemap" style="display: none"><div class="navigation">
+  <ul id="navigation-menu" class="navigation-level-0">
+    
+      <li class="level-0">
+        <a href="../../news.html" title="News">News</a>
+        
+      </li>
+    
+    
+      <li class="level-0">
+        <a href="../../about.html" title="About">About</a>
+        
+      </li>
+    
+    
+      <li class="level-0">
+        <a href="../../products.html" title="Products">Products</a>
+        
+      </li>
+    
+    
+      <li class="level-0 selected">
+        <a href="../../download.html" title="Download" class="onbranch">Download</a>
+        
+          
+            <ul class="navigation-level-1">
+    
+      <li class="level-1">
+        <a href="../tools.html" title="Tools">Tools</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../mobi.html" title="Mobi">Mobi</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../OAI.html" title="OAI Components">OAI Components</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../DocumentLibrary.html" title="OAI Document Library">OAI Document Library</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../silva_all.html" title="Silva CMS Packages">Silva CMS Packages</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../silva_all_archive.html" title="Silva CMS Archive">Silva CMS Archive</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../silva_components.html" title="Silva Components">Silva Components</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../silva_extensions.html" title="Silva Extensions">Silva Extensions</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../silva_extensions_archive.html" title="Silva Extensions Archive">Silva Extensions Archive</a>
+        
+      </li>
+    
+    
+      <li class="level-1 selected">
+        <a href="../fedoracommons.html" title="Fedora Commons Repository" class="onbranch">Fedora Commons Repository</a>
+        
+          
+            <ul class="navigation-level-2">
+    
+      <li class="level-2 selected">
+        <a href="fcrepo.html" title="fcrepo" class="selected">fcrepo</a>
+        
+      </li>
+    
+  </ul>
+          
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../railroad.html" title="Railroad Repository">Railroad Repository</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../tramline.html" title="Tramline">Tramline</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../Formulator.html" title="Formulator">Formulator</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../LICENSE.txt.html" title="License">License</a>
+        
+      </li>
+    
+  </ul>
+          
+        
+      </li>
+    
+    
+      <li class="level-0">
+        <a href="../../service.html" title="Services">Services</a>
+        
+      </li>
+    
+    
+      <li class="level-0">
+        <a href="../../contact.html" title="Contact">Contact</a>
+        
+      </li>
+    
+    
+      <li class="level-0">
+        <a href="../../presentations.html" title="Presentations">Presentations</a>
+        
+      </li>
+    
+    
+      <li class="level-0">
+        <a href="../../search.html" title="Inactive Search">Inactive Search</a>
+        
+      </li>
+    
+  </ul>
+</div>
+</div>
+  <div id="content">
+    
+    
+
+  <a href="fcrepo.html#skip-to-releases" class="skip-link"
+     style="float: right">
+    Jump to releases
+  </a>
+
+  
+
+  
+  <h1>FCRepo</h1>
+  <!-- PyPI Linker code source -->
+<div class="align-right">
+<div class="info plot">
+<h3>
+  <a href="http://pypi.python.org/pypi" title="Visit the Python Package Index">
+  <img alt="PyPI logo" width="16" height="16" src="++static++/silvatheme.renaissance/img/python.png"></a>
+  <acronym title="Python Package Index">PyPI</acronym>
+</h3>
+<p>
+  fcrepo is also available on the Python Package Index:
+  <br><a href="http://pypi.python.org/pypi/fcrepo" title="See fcrepo on the PyPI site">http://pypi.python.org/pypi/fcrepo</a>
+</p>
+</div>
+</div>
+<!-- /PyPI Linker code source --><!-- GitHub Linker code source -->
+<div class="align-right">
+<div class="info plot">
+<h3>
+  <a href="https://github.com/" title="Visit GitHub">
+  <img alt="GitHub logo" width="16" height="16" src="++static++/silvatheme.renaissance/img/github.png"></a>
+  GitHub
+</h3>
+<p>
+  The code for fcrepo is also on GitHub:
+  <br><a href="https://github.com/infrae/fcrepo" title="See fcrepo on GitHub">https://github.com/infrae/fcrepo</a>
+</p>
+</div>
+</div>
+<!-- /GitHub Linker code source --><h2>A client for the Fedora Commons Repository</h2>
+<p> This package provides access to the <a class="link" title="" target="" href="http://www.fedora-commons.org/">Fedora Commons Repository</a>. From the Fedora Commons Website:</p>
+<p class="annotation"> 
+Fedora (Flexible Extensible Digital Object Repository Architecture) was originally developed by researchers at Cornell University as an architecture for storing, managing, and accessing digital content in the form of digital objects inspired by the <a class="link" title="" target="" href="http://www.cnri.reston.va.us/k-w.html">Kahn and Wilensky</a> Framework.  Fedora defines a set of abstractions for expressing digital objects, asserting relationships among digital objects, and linking "behaviors" (i.e., services) to digital objects. The Fedora Repository Project (i.e., Fedora) implements the Fedora abstractions in a robust open source software system. This package uses WADL, <a class="link" title="" target="" href="http://www.w3.org/Submission/wadl/">Web Application Description Language</a> to parse the
+WADL file that comes with Fedora so it offers support for the
+complete REST API.
+On top of that a more highlevel abstraction is written, which will be
+demonstrated in this <a class="link" title="" target="" href="http://en.wikipedia.org/wiki/Doctest">doctest</a>.
+This package has been written for FedoraCommons 3.3 and 3.4, it has not been
+tested with older versions. REST API documentation can be found in the
+<a class="link" title="" target="" href="http://www.fedora-commons.org/confluence/display/FCR30/REST+API">Fedora wiki</a>.</p>
+<p> This package can be installed using buildout which will also fetch the
+Fedora installer, and install it locally for testing purposes.
+Use the following steps to install and run this doctest:</p>
+<pre>python2.6 bootstrap.py
+./bin/buildout
+./bin/install_fedora
+./bin/start_fedora
+./bin/test
+</pre>
+<h2>Using the fcrepo package</h2>
+<h2>Connecting to the Repository</h2>
+<p> To connect to the running Fedora, we first need a connection. The connection
+code was largely copied from <a class="link" title="" target="" href="http://bitbucket.org/epoz/duraspace">Etienne Posthumus ("Epoz") duraspace module</a>.</p>
+<pre>&gt;&gt;&gt; from fcrepo.connection import Connection
+&gt;&gt;&gt; connection = Connection('http://localhost:8080/fedora',
+...                         username='fedoraAdmin',
+...                         password='fedoraAdmin')
+</pre>
+<p>  Now that we have a connection, we can create a FedoraClient:</p>
+<pre>&gt;&gt;&gt; from fcrepo.client import FedoraClient
+&gt;&gt;&gt; client = FedoraClient(connection)
+</pre>
+<h2>PIDs</h2>
+<p> A Fedora object needs a unique PID to function. The PID consists of a
+namespace string, then a semicolon and then a string identifier.
+You can create your own PIDs using a random UUID, but you can also use
+the nextPID feature of Fedora which returns an ascending number.</p>
+<pre>&gt;&gt;&gt; pid = client.getNextPID(u'foo')
+&gt;&gt;&gt; ns, num = pid.split(':')
+&gt;&gt;&gt; ns == 'foo' and num.isdigit()
+True
+</pre>
+<p>  We can also get multiple PIDs at once</p>
+<pre>&gt;&gt;&gt; pids = client.getNextPID(u'foo', numPIDs=10)
+&gt;&gt;&gt; len(pids)
+10
+</pre>
+<p>  This method returns unicode strings or a list of unicode strings if
+multiple PIDs are requested.</p>
+<p> The client abstraction provides wrappers around the 'low-level'
+API code which is generated from the WADL file.
+Here's the same call through the WADL API:</p>
+<pre>&gt;&gt;&gt; print client.api.getNextPID().submit(namespace=u'foo', format=u'text/xml').read()
+&lt;?xml  ...?&gt;
+&lt;pidList ...&gt;
+  &lt;pid&gt;...&lt;/pid&gt;
+&lt;/pidList&gt;
+</pre>
+<p>  So the client methods call the methods from the WADL API,
+parse the resulting xml and uses sensible default arguments.</p>
+<p> This is how most client method calls work.
+Normally you would never need to access the WADL API directly,
+so let's move on.</p>
+<h2>Creating Objects</h2>
+<p> Now that we can get PIDs we can use them and create a new object:</p>
+<pre>&gt;&gt;&gt; pid = client.getNextPID(u'foo')
+&gt;&gt;&gt; obj = client.createObject(pid, label=u'My First Test Object')
+</pre>
+<p>  You can't create an object with the same PID twice.</p>
+<pre>&gt;&gt;&gt; obj = client.createObject(pid, label=u'Second try?')
+Traceback (most recent call last):
+...
+FedoraConnectionException: ... The PID 'foo:...' already exists in the registry; the object can't be re-created.
+</pre>
+<h2>Fetching Objects</h2>
+<p> Off course it's also possible to retrieve an existing object with the client:</p>
+<pre>&gt;&gt;&gt; obj = client.getObject(pid)
+&gt;&gt;&gt; print obj.label
+My First Test Object
+</pre>
+<p>  You'll get an error if the object does not exist:</p>
+<pre>&gt;&gt;&gt; obj = client.getObject(u'foo:bar')
+Traceback (most recent call last):
+...
+FedoraConnectionException: ...HTTP code=404, Reason=Not Found...
+</pre>
+<h2>Deleting Objects</h2>
+<p> Deleting objects can be done by calling the delete method on an object,
+or by passing the pid to the deleteObject method on the client.</p>
+<pre>&gt;&gt;&gt; pid = client.getNextPID(u'foo')
+&gt;&gt;&gt; o = client.createObject(pid, label=u'About to be deleted')
+&gt;&gt;&gt; o.delete(logMessage=u'Bye Bye')
+&gt;&gt;&gt; o = client.getObject(pid)
+Traceback (most recent call last):
+...
+FedoraConnectionException: ...HTTP code=404, Reason=Not Found...
+</pre>
+<p>  Note that in most cases you don't want to delete an object. It's better to
+set the state of the object to deleted. More about this in the next section.</p>
+<h2>Object Properties</h2>
+<p> In the previous examples we retrieved a Fedora object.
+These objects have a number of properties that can be get and set:</p>
+<pre>&gt;&gt;&gt; obj.label
+u'My First Test Object'
+&gt;&gt;&gt; date = obj.lastModifiedDate
+&gt;&gt;&gt; obj.label = u'Changed it!'
+</pre>
+<p>  The last line modified the label property on the Fedora server,
+the lastmodified date should now have been updated:</p>
+<pre>&gt;&gt;&gt; obj.lastModifiedDate &gt; date
+True
+&gt;&gt;&gt; obj.label
+u'Changed it!'
+</pre>
+<p>  Setting properties can also be used to change the state of a FedoraObject
+to inactive or deleted. The following strings can be used:</p>
+<ul class="disc"><li>A means active</li><li>I means inactive</li><li>D means deleted</li></ul><pre>&gt;&gt;&gt; obj.state = u'I'
+</pre>
+<p>  Let's try a non supported state:</p>
+<pre>&gt;&gt;&gt; obj.state = u'Z'
+Traceback (most recent call last):
+...
+FedoraConnectionException: ... The object state of "Z" is invalid. The allowed values for state are:  A (active), D (deleted), and I (inactive).
+</pre>
+<p>  Setting the modification or creation date directly results in an error, they can not be set.</p>
+<pre>&gt;&gt;&gt; obj.lastModifiedDate = date
+Traceback (most recent call last):
+...
+AttributeError: can't set attribute
+</pre>
+<p>  An ownerId can also be configured using the properties:</p>
+<pre>&gt;&gt;&gt; obj.ownerId = u'me'
+&gt;&gt;&gt; print obj.ownerId
+me
+</pre>
+<h2>Object DataStreams</h2>
+<p> A Fedora object is basicly a container of Datastreams. You can iterate through
+the object to find the datastream ids or call the datastreams method:</p>
+<pre>&gt;&gt;&gt; print obj.datastreams()
+['DC']
+&gt;&gt;&gt; for id in obj: print id
+DC
+&gt;&gt;&gt; 'DC' in obj
+True
+</pre>
+<p>  To actually get a datastream we can access it as if it's a dictionary:</p>
+<pre>&gt;&gt;&gt; ds = obj['DC']
+&gt;&gt;&gt; ds
+&lt;fcrepo.datastream.DCDatastream object at ...&gt;
+&gt;&gt;&gt; obj['FOO']
+Traceback (most recent call last):
+...
+FedoraConnectionException: ...No datastream could be found. Either there is no datastream for the digital object "..." with datastream ID of "FOO"  OR  there are no datastreams that match the specified date/time value of "null".
+</pre>
+<h2>Datastream Properties</h2>
+<p> A datastream has many properties, including label, state and createdDate, just
+like the Fedora object:</p>
+<pre>&gt;&gt;&gt; print ds.label
+Dublin Core Record for this object
+</pre>
+<pre>&gt;&gt;&gt; print ds.state
+A
+</pre>
+<p>  There are different types of datastreams, this one is of type X, which means
+the content is stored inline in the <a class="link" title="" target="" href="http://fedora-commons.org/confluence/display/FCR30/Introduction+to+FOXML">FOXML file</a> . FOXML is the internal
+storage format of Fedora.</p>
+<pre>&gt;&gt;&gt; print ds.controlGroup
+X
+</pre>
+<p>  A datastream can be versionable, this can be turned on or off.</p>
+<pre>&gt;&gt;&gt; ds.versionable
+True
+</pre>
+<p>  The datastream also has a location, which is composed of the object pid,
+the datastream id, and the version number</p>
+<pre>&gt;&gt;&gt; ds.location
+u'foo:...+DC+DC1.0'
+</pre>
+<p>  Let's change the label, and see what happens:</p>
+<pre>&gt;&gt;&gt; ds.label = u'Datastream Metadata'
+&gt;&gt;&gt; ds.location
+u'foo:...+DC+DC.1'
+</pre>
+<pre>&gt;&gt;&gt; ds.label = u'Datastream DC Metadata'
+&gt;&gt;&gt; ds.location
+u'foo:...+DC+DC.2'
+</pre>
+<p>  The location ID changes with every version, and old versions of the datastream
+are still available. The fcrepo client code contains no methods to retrieve
+old versions of datastreams or view the audit trail of objects.
+The methods that implement this are available in the WADL API though.</p>
+<p> Fedora can create checksums of the content stored in a datastream,
+by default checksums are disabled, if we set the checksumType property
+to MD5, Fedora will generate the checksum for us.</p>
+<pre>&gt;&gt;&gt; ds.checksumType
+u'DISABLED'
+&gt;&gt;&gt; ds.checksumType = u'MD5'
+&gt;&gt;&gt; ds.checksum # the checksum always changes between tests
+u'...'
+</pre>
+<p>  There are some additional properties, not all of them can be set.
+Have a look at the <a class="link" title="" target="" href="http://www.fedora-commons.org/confluence/display/FCR30/REST+API">REST API Documentation</a> for a full list</p>
+<pre>&gt;&gt;&gt; ds.mimeType
+u'text/xml'
+&gt;&gt;&gt; ds.size &gt; 0
+True
+&gt;&gt;&gt; ds.formatURI
+u'http://www.openarchives.org/OAI/2.0/oai_dc/'
+</pre>
+<h2>Getting and Setting Content - 1</h2>
+<p> We can also get and set the content of the datastream:</p>
+<pre>&gt;&gt;&gt; xml = ds.getContent().read()
+&gt;&gt;&gt; print xml
+&lt;oai_dc:dc ...&gt;
+  &lt;dc:title&gt;My First Test Object&lt;/dc:title&gt;
+  &lt;dc:identifier&gt;foo:...&lt;/dc:identifier&gt;
+&lt;/oai_dc:dc&gt;
+</pre>
+<pre>&gt;&gt;&gt; xml = xml.replace('My First Test Object', 'My First Modified Datastream')
+&gt;&gt;&gt; ds.setContent(xml)
+</pre>
+<h2>Getting and Setting Content - 2</h2>
+<p> We can also get and set the content directly,
+as if it is a dictionarie of dictionaries</p>
+<pre>&gt;&gt;&gt; print obj['DC']['title']
+[u'My First Modified Datastream']
+&gt;&gt;&gt; obj['DC']['title'] = [u'My Second Modified Datastream']
+&gt;&gt;&gt; print obj['DC']['title']
+[u'My Second Modified Datastream']
+</pre>
+<h2>Special Datastream: DC</h2>
+<p> This DC datastream that is always available is actually a special kind of
+datastream. The Dublin Core properties from this XML stream are stored in a
+relational database which can be searched. The values are also used in the
+OAIPMH feed. Fedora uses the legacy /elements/1.1/ namespace which contains
+the following terms:</p>
+<ul class="disc"><li>contributor</li><li>coverage</li><li>creator</li><li>date</li><li>description</li><li>format</li><li>identifier</li><li>language</li><li>publisher</li><li>relation</li><li>rights</li><li>source</li><li>subject</li><li>title</li><li>type</li></ul><p>  View the <a class="link" title="" target="" href="http://dublincore.org">Dublin Core website</a> for a <a class="link" title="" target="" href="http://dublincore.org/documents/dcmi-terms/#H3">description of these properties</a>.</p>
+<p> Since editing the Dublin Core XML data by hand gets a bit cumbersome,
+the DC datastream allows access to the DC properties as if the datastream
+is a dictionary:</p>
+<pre>&gt;&gt;&gt; ds['title']
+[u'My Second Modified Datastream']
+</pre>
+<p>  This can also be used to set values:</p>
+<pre>&gt;&gt;&gt; ds['subject'] = [u'fcrepo', u'unittest']
+&gt;&gt;&gt; ds['description'].append(u'A test object from the fcrepo unittest')
+</pre>
+<pre>&gt;&gt;&gt; for prop in sorted(ds): print prop
+description
+identifier
+subject
+title
+&gt;&gt;&gt; 'subject' in ds
+True
+</pre>
+<p>  To save this, we call the setContent method again, but this time with no
+arguments. This will make the code use the values from the dictionary to
+generate the XML string for you</p>
+<pre>&gt;&gt;&gt; ds.setContent()
+&gt;&gt;&gt; print ds.getContent().read()
+&lt;oai_dc:dc ...&gt;
+  ...
+  &lt;dc:description&gt;A test object from the fcrepo unittest&lt;/dc:description&gt;
+  ...
+&lt;/oai_dc:dc&gt;
+</pre>
+<h2>Inline XML Datastreams</h2>
+<p> Let's try adding some datastreams, for example, we want to store some XML data:</p>
+<pre>&gt;&gt;&gt; obj.addDataStream('FOOXML', '&lt;foo/&gt;',
+...                   label=u'Foo XML',
+...                   logMessage=u'Added an XML Datastream')
+&gt;&gt;&gt; obj.datastreams()
+['DC', 'FOOXML']
+&gt;&gt;&gt; print obj['FOOXML'].getContent().read()
+&lt;foo&gt;&lt;/foo&gt;
+</pre>
+<h2>Managed Content Datastreams</h2>
+<p> We can also add Managed Content, this will be stored and managed by fedora,
+but it's not inline xml. The data is stored in a seperate file on
+the harddrive. We do this by setting the controlGroup param to M</p>
+<pre>&gt;&gt;&gt; obj.addDataStream('TEXT', 'Hello!', label=u'Some Text',
+...                   mimeType=u'text/plain', controlGroup=u'M',
+...                   logMessage=u'Added some managed text')
+&gt;&gt;&gt; obj.datastreams()
+['DC', 'FOOXML', 'TEXT']
+&gt;&gt;&gt; ds = obj['TEXT']
+&gt;&gt;&gt; ds.size == 0 or ds.size == 6 # this does not work in Fedora 3.3
+True
+&gt;&gt;&gt; ds.getContent().read()
+'Hello!'
+</pre>
+<p>  This is perfectly fine for small files, however when you don't want to hold
+the whole file in memory you can also supply a file stream. Let's make a 3MB
+file:</p>
+<pre>&gt;&gt;&gt; import tempfile, os
+&gt;&gt;&gt; fp = tempfile.NamedTemporaryFile(mode='w+b', delete=False)
+&gt;&gt;&gt; filename = fp.name
+&gt;&gt;&gt; fp.write('foo' * (1024**2))
+&gt;&gt;&gt; fp.close()
+&gt;&gt;&gt; os.path.getsize(filename)
+3145728...
+</pre>
+<p>  Now we'll open the file and stream it to Fedora. We then read the whole thing
+in memory and see if it's the same size:</p>
+<pre>&gt;&gt;&gt; fp = open(filename, 'r')
+&gt;&gt;&gt; ds.setContent(fp)
+&gt;&gt;&gt; fp.close()
+&gt;&gt;&gt; content = ds.getContent().read()
+&gt;&gt;&gt; len(content)
+3145728...
+&gt;&gt;&gt; os.remove(filename)
+</pre>
+<h2>Externally Referenced Datastreams</h2>
+<p> For large files it might not be convenient to store them inside Fedora.
+In this case the file can be hosted externally, and we store a datastream
+of controlGroup type E (Externally referenced)</p>
+<pre>&gt;&gt;&gt; obj.addDataStream('URL', controlGroup=u'E',
+...                   location=u'http://pypi.python.org/fcrepo')
+&gt;&gt;&gt; obj.datastreams()
+['DC', 'FOOXML', 'TEXT', 'URL']
+</pre>
+<p>  This datastream does not have any content, so trying to read the
+content will result in an error</p>
+<pre>&gt;&gt;&gt; ds = obj['URL']
+&gt;&gt;&gt; ds.getContent()
+Traceback (most recent call last):
+...
+FedoraConnectionException:..."Error getting http://pypi.python.org/fcrepo"  .
+</pre>
+<p>  We can get the location though:</p>
+<pre>&gt;&gt;&gt; ds.location
+u'http://pypi.python.org/fcrepo'
+</pre>
+<p>  The last of the datastream types is an externally referenced stream that
+redirects. This datastream has controlGroup R (Redirect Referenced)</p>
+<pre>&gt;&gt;&gt; obj.addDataStream('HOMEPAGE', controlGroup=u'R',
+...                   location=u'http://pypi.python.org/fcrepo')
+&gt;&gt;&gt; obj.datastreams()
+['DC', 'FOOXML', 'TEXT', 'URL', 'HOMEPAGE']
+</pre>
+<p>  This datastream works the same as an externally referenced stream.</p>
+<h2>Deleting Datastreams</h2>
+<p> A datastream can be deleted by using the python del keyword on the object,
+or by calling the delete method on a datastream.</p>
+<pre>&gt;&gt;&gt; len(obj.datastreams())
+5
+&gt;&gt;&gt; ds = obj['HOMEPAGE']
+&gt;&gt;&gt; ds.delete(logMessage=u'Removed Homepage DS')
+&gt;&gt;&gt; len(obj.datastreams())
+4
+&gt;&gt;&gt; del obj['URL']
+&gt;&gt;&gt; len(obj.datastreams())
+3
+</pre>
+<h2>Another Special Datastream: RELS-EXT</h2>
+<p> Besides the special DC datastream, there is another special datastream
+called RELS-EXT.
+This datastream should contain flat RDFXML data which will be indexed in a
+triplestore. The RELS-EXT datastream has some additional methods to assist in
+working with the RDF data.</p>
+<p> To create the RELS-EXT stream we don't need to supply an RDFXML file, it will
+create an empty one if no data is send.</p>
+<pre>&gt;&gt;&gt; obj.addDataStream('RELS-EXT')
+&gt;&gt;&gt; ds = obj['RELS-EXT']
+</pre>
+<p>  Now we can add some RDF data. Each predicate contains a list of values, each
+value is a dictionary with a value and type key, and optionally a lang and
+datatype key. This is identical to the <a class="link" title="" target="" href="http://n2.talis.com/wiki/RDF_JSON_Specification">RDF+JSON format</a>.</p>
+<pre>&gt;&gt;&gt; from fcrepo.utils import NS
+&gt;&gt;&gt; ds[NS.rdfs.comment].append(
+...       {'value': u'A Comment set in RDF', 'type': u'literal'})
+&gt;&gt;&gt; ds[NS.rdfs.comment]
+[{'type': u'literal', 'value': u'A Comment set in RDF'}]
+&gt;&gt;&gt; NS.rdfs.comment in ds
+True
+&gt;&gt;&gt; for predicate in ds: print predicate
+http://www.w3.org/2000/01/rdf-schema#comment
+</pre>
+<p>  To save this we call the setContent method without any data.
+This will serialise the RDF statements to RDFXML and perform the save action:</p>
+<pre>&gt;&gt;&gt; ds.setContent()
+&gt;&gt;&gt; print ds.getContent().read()
+&lt;rdf:RDF ...&gt;
+  &lt;rdf:Description rdf:about="info:fedora/foo:..."&gt;
+    &lt;rdfs:comment&gt;A Comment set in RDF&lt;/rdfs:comment&gt;
+  &lt;/rdf:Description&gt;
+&lt;/rdf:RDF&gt;
+</pre>
+<p>  We are not allowed to add statements using the DC namespace.
+This will result in an error. I suppose this is because it should be set
+through the DC datastream.</p>
+<pre>&gt;&gt;&gt; ds[NS.dc.title].append({'value': u'A title', 'type': 'literal'})
+&gt;&gt;&gt; ds.setContent()
+Traceback (most recent call last):
+...
+FedoraConnectionException: ... The RELS-EXT datastream has improper relationship assertion: dc:title.
+</pre>
+<p>  We can also use RDF to create relations between objects. For example we can add
+a relation using the Fedora isMemberOfCollection which can be used to group
+objects into collections that are used in the OAIPMH feed.</p>
+<pre>&gt;&gt;&gt; colpid = client.getNextPID(u'foo')
+&gt;&gt;&gt; collection = client.createObject(colpid, label=u'A test Collection')
+&gt;&gt;&gt; ds[NS.fedora.isMemberOfCollection].append(
+...  {'value': u'info:fedora/%s' % colpid, 'type':u'uri'})
+&gt;&gt;&gt; ds.setContent()
+&gt;&gt;&gt; print ds.getContent().read()
+&lt;rdf:RDF ...&gt;
+  &lt;rdf:Description rdf:about="info:fedora/foo:..."&gt;
+    &lt;fedora:isMemberOfCollection rdf:resource="info:fedora/foo:..."&gt;&lt;/fedora:isMemberOfCollection&gt;
+    &lt;rdfs:comment&gt;A Comment set in RDF&lt;/rdfs:comment&gt;
+  &lt;/rdf:Description&gt;
+&lt;/rdf:RDF&gt;
+</pre>
+<pre>&gt;&gt;&gt; print ds.predicates()
+['http://www.w3.org/2000/01/rdf-schema#comment', 'info:fedora/fedora-system:def/relations-external#isMemberOfCollection']
+</pre>
+<p>  Notice that the Fedora PID needs to be converted to an URI before it can be
+referenced in RDF, this is done by prepending info:fedora/ to the PID.</p>
+<h2>Service Definitions and Object Methods</h2>
+<p> Besides datastreams, a Fedora object can have methods registered to it through
+service definitions. We don't provide direct access to the service definitions
+but assume that all the methods have unique names.</p>
+<pre>&gt;&gt;&gt; obj.methods()
+['viewObjectProfile', 'viewMethodIndex', 'viewItemIndex', 'viewDublinCore']
+</pre>
+<pre>&gt;&gt;&gt; print obj.call('viewDublinCore').read()
+&lt;html ...&gt;
+...
+&lt;td ...&gt;My Second Modified Datastream&lt;/td&gt;
+...
+&lt;/html&gt;
+</pre>
+<h2>Searching Objects</h2>
+<p> Fedora comes with 2 search functionalities: a fielded query search and a simple query search.
+They both search data from the DC datastream and the Fedora object properties.</p>
+<p> The fielded search query can search on the following fields:</p>
+<ul class="disc"><li>cDate</li><li>contributor</li><li>coverage</li><li>creator</li><li>date</li><li>dcmDate</li><li>description</li><li>format</li><li>identifier</li><li>label</li><li>language</li><li>mDate</li><li>ownerId</li><li>pid</li><li>publisher</li><li>source</li><li>state</li><li>subject</li><li>title</li><li>type</li><li>rights</li></ul><p>  Fedora has a query syntax where you can enter one or more conditions, separated by space.  Objects matching all conditions will be returned.</p>
+<p> A condition is a field (choose from the field names above) followed by an operator, followed by a value.</p>
+<p> The = operator will match if the field's entire value matches the value given.
+The ~ operator will match on phrases within fields, and accepts the ? and * wildcards.
+The &lt;, &gt;, &lt;=, and &gt;= operators can be used with numeric values, such as dates.</p>
+<p> Examples:</p>
+<dl class="dl"><dt>pid~demo:* description~fedora</dt><dd>Matches all demo objects with a description containing the word fedora.</dd><dt>cDate&gt;=1976-03-04 creator~*n*</dt><dd>Matches objects created on or after March 4th, 1976 where at least one of the creators has an n in their name.</dd><dt>mDate&gt;2002-10-2 mDate&lt;2002-10-2T12:00:00</dt><dd>Matches objects modified sometime before noon (UTC) on October 2nd, 2002</dd></dl><p>  So let's create 5 objects which we can use to search on:</p>
+<pre>&gt;&gt;&gt; pids = client.getNextPID(u'searchtest', numPIDs=5)
+&gt;&gt;&gt; for pid in pids: client.createObject(pid, label=u'Search Test Object')
+&lt;fcrepo.object.FedoraObject object at ...&gt;
+&lt;fcrepo.object.FedoraObject object at ...&gt;
+&lt;fcrepo.object.FedoraObject object at ...&gt;
+&lt;fcrepo.object.FedoraObject object at ...&gt;
+&lt;fcrepo.object.FedoraObject object at ...&gt;
+</pre>
+<p>  Now we'll search for these objects with a pid search, we also want the label
+returned from the search.</p>
+<pre>&gt;&gt;&gt; client.searchObjects(u'pid~searchtest:*', ['pid', 'label'])
+&lt;generator object searchObjects at ...&gt;
+</pre>
+<p>  The search returns a generator, by default it queries the server for the
+first 10 objects, but if you iterate through the resultset and come to the end
+the next batch will automatically be added.</p>
+<p> To illustrate this we will query with a batch size of 2:</p>
+<pre>&gt;&gt;&gt; results = client.searchObjects(u'pid~searchtest:*', ['pid', 'label'],
+...                                maxResults=2)
+&gt;&gt;&gt; result_list = [r for r in results]
+&gt;&gt;&gt; len(result_list) &gt;= 5
+True
+&gt;&gt;&gt; result_list[0]['pid']
+[u'searchtest:...']
+&gt;&gt;&gt; result_list[0]['label']
+[u'Search Test Object']
+</pre>
+<p>  As shown we actually get more results then the max of 2, but the client asks
+Fedora for results in batches of 2 while we iterate through the results
+generator.</p>
+<p> When we want to search in all fields, we just have to drop the condition 'pid:',
+and specify 'terms=True'. The search is case-insensitive, and use * or ? as wildcard.</p>
+<pre>&gt;&gt;&gt; client.searchObjects(u'searchtest*', ['pid', 'label'], terms=True)
+&lt;generator object searchObjects at ...&gt;
+</pre>
+<h2>RDF Index Search</h2>
+<p> Besides searching the DC datastream in the relational database,
+it's also possible to query the RELS-EXT datastream through the triplestore
+in the SPARQL language.</p>
+<p> Let's find all objects that are part of the collection we created above in the
+RELS-EXT datastream example</p>
+<pre>&gt;&gt;&gt; sparql = '''prefix fedora: &lt;%s&gt;
+... select ?s where {?s fedora:isMemberOfCollection &lt;info:fedora/%s&gt;.}
+... ''' % (NS.fedora, colpid)
+&gt;&gt;&gt; result = client.searchTriples(sparql)
+&gt;&gt;&gt; result
+&lt;generator object searchTriples  at ...&gt;
+&gt;&gt;&gt; result = list(result)
+&gt;&gt;&gt; len(result)
+1
+&gt;&gt;&gt; result[0]['s']['value']
+u'info:fedora/foo:...'
+</pre>
+<p>  Other output formats and query languages can be specified as parameters, by
+default only SPARQL is supported.</p>
+<p> The searchTriples method also has a flush argument.
+If you change a RELS-EXT datastream in Fedora, the triplestore is actually not
+updated! You have to set this flush param when you're searching to true to
+make sure the triplestore is updated. By default Fedora sets the flush
+parameter to false which is understandable for performance reasons but
+can be very confusing.
+This library sets the param to true by default, which is not always very
+efficient, but you are sure the triplestore is up to date.</p>
+
+
+
+  <table class="silvatable list">
+    <h2><a name="skip-to-releases">Available releases</a></h2>
+    <thead>
+      <tr>
+        <th class="align-left">Release version</th>
+        <th class="align-left">Release date</th>
+        <th class="align-left">Release files</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <a href="fcrepo/1.1.html">fcrepo 1.1</a>
+        </td>
+        <td>2010 11 4  14:21:13 </td>
+        <td>
+          
+            <a href="fcrepo/1.1/fcrepo-1.1.tar.gz">fcrepo-1.1.tar.gz</a><br />
+          
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="fcrepo/1.0.html">fcrepo 1.0</a>
+        </td>
+        <td>2010 9 30  11:13:58 </td>
+        <td>
+          
+            <a href="fcrepo/1.0/fcrepo-1.0.tar.gz">fcrepo-1.0.tar.gz</a><br />
+          
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="fcrepo/1.0b2.html">fcrepo 1.0b2</a>
+        </td>
+        <td>2010 5 17  16:06:38 </td>
+        <td>
+          
+            <a href="fcrepo/1.0b2/fcrepo-1.0b2.tar.gz">fcrepo-1.0b2.tar.gz</a><br />
+          
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="fcrepo/1.0b1.html">fcrepo 1.0b1</a>
+        </td>
+        <td>2010 5 3  14:40:02 </td>
+        <td>
+          
+            <a href="fcrepo/1.0b1/fcrepo-1.0b1.tar.gz">fcrepo-1.0b1.tar.gz</a><br />
+          
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p class="software-license">
+    <strong>License:</strong>
+    <a href="fcrepo/LICENSE.txt.html">
+      New BSD
+    </a>
+  </p>
+
+  
+
+
+
+  </div>
+  <div id="footer">
+  <div class="search">
+  <form method="get" action="http://m.infrae.com/download/fedoracommons/fcrepo/@@index.html">
+    <input class="searchbutton" type="image" src="../../++static++/silvatheme.infraemobile/:version:2013-12-19T15:20:12/images/search.png" />
+    <div class="searchtext">
+      <input class="text" placeholder="Search..." name="search" type="text"
+             />
+    </div>
+  </form>
+</div>
+
+  <table class="nav">
+  
+    <tr>
+      <td class="col1">
+        <div class="nav_button">
+          <a class="nav_button" href="../../news.html">News</a>
+        </div>
+      </td>
+      <td class="col2">
+        <div class="nav_button">
+          <a class="nav_button" href="../../about.html">About</a>
+        </div>
+      </td>
+      <td class="col3">
+        <div class="nav_button">
+          <a class="nav_button" href="../../products.html">Products</a>
+        </div>
+      </td>
+    </tr>
+  
+  
+    <tr>
+      <td class="col1">
+        <div class="nav_button">
+          <a class="nav_button" href="../../download.html">Download</a>
+        </div>
+      </td>
+      <td class="col2">
+        <div class="nav_button">
+          <a class="nav_button" href="../../service.html">Services</a>
+        </div>
+      </td>
+      <td class="col3">
+        <div class="nav_button">
+          <a class="nav_button" href="../../contact.html">Contact</a>
+        </div>
+      </td>
+    </tr>
+  
+  
+    <tr>
+      <td class="col1">
+        <div class="nav_button">
+          <a class="nav_button" href="../../presentations.html">Presentations</a>
+        </div>
+      </td>
+    </tr>
+  
+    <tr>
+      <td colspan="3" class="col0">
+        <div class="nav_button">
+          <a class="nav_button" href="http://infrae.com/download/fedoracommons/fcrepo">
+            View this page on the desktop site
+          </a>
+        </div>
+      </td>
+    </tr>
+</table>
+
+  <div class="channels">
+    <a class="button" href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Infrae,+Rotterdam,+The+Netherlands&sll=36.244273,-95.712891&sspn=52.071158,72.949219&ie=UTF8&hq=Infrae,&hnear=Rotterdam,+South+Holland,+The+Netherlands&t=h&z=15&iwloc=A">Hoevestraat 10 3033 GC Rotterdam NL</a>
+    <a href="tel:+31102437051" class="button left">+31 10 243 7051</a>
+    <a class="button right" href="mailto:info@infrae.com">info@infrae.com</a>
+  </div>
+
+</div>
+</div>
+
+
+
+<script type="text/javascript">
+    
+    $( function(){ 
+        $(document).bind('mousedown touchstart', function(){ 
+            $('#sitemap').hide('fast', function(){
+                $('#sitemap-switch-button-link').removeClass('selected');
+            }); 
+        });
+        
+        $('#sitemap, #sitemap-switch-button').bind('mousedown touchstart', function(event){
+            event.stopPropagation();
+        });       
+    });
+    
+</script>
+
+  </body>
+</html>

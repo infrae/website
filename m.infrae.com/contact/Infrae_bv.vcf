@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Infrae
+ORG:Infrae;
+EMAIL;type=INTERNET;type=WORK;type=pref:info@infrae.com
+TEL;type=WORK;type=pref:+31 10 243 7051
+TEL;type=CELL:+31 61 466 9674
+TEL;type=WORK;type=FAX:+31 10 243 7052
+item1.ADR;type=WORK;type=pref:;;Hoevestraat 10;Rotterdam;;3033 GC;The Netherlands
+item1.X-ABADR:nl
+item2.URL;type=pref:http\://infrae.com/
+item2.X-ABLabel:_$!<HomePage>!$_
+X-ABShowAs:COMPANY
+X-ABUID:506B5752-5CCB-4CF9-A555-BB7A7E4CA8E9\:ABPerson
+END:VCARD

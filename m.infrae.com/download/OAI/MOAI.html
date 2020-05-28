@@ -1,0 +1,579 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Infrae Mobile: MOAI Server</title>
+    <base href="" />
+    <meta name="description" content="Infrae mobile site: Download areas for all of Infrae's open source products." />
+    <meta name="keywords" content="mobile, smartphone, Android, iOS, download, open source, software, products, infrae" />
+    <meta name="generator" content="Silva" />
+    <meta name="viewport" content="width=device-width,user-scalable=yes" />
+    <link rel="shortcut icon" href="../../++static++/silvatheme.infraemobile/:version:2013-12-19T15:20:12/favicon.ico" />
+
+    <link rel="apple-touch-icon" href="../../++static++/silvatheme.infraemobile/:version:2013-12-19T15:20:12/mobicon.png" />
+    <style>#contactus {display: none;}</style>
+
+    
+  <link rel="stylesheet" type="text/css" href="../../++static++/silvatheme.infraemobile/:version:2013-12-19T15:20:12/:bundle:infraemobile.css%3Binfraemobile_advanced.css" />
+<script type="text/javascript" src="../../++static++/jquery/:version:1.8.2/jquery.min.js"></script>
+</head>
+
+  <body class="MOAI">
+    <div id="site" class="">
+  <div id="header"><div class="breadcrumbs"><div class="menu bc">
+  <div id="home" class="bci bchome">
+    <a href="../../index.html">
+      <img width="72" height="36" alt="Home" src="../../++static++/silvatheme.infraemobile/:version:2013-12-19T15:20:12/images/homelink.png"
+           />
+    </a>
+  </div>
+  <div id="sitemap-switch-button" class="buttons" >
+  <a id="sitemap-switch-button-link" href="MOAI.html#top"
+    width="36" height="36" alt="Sitemap"
+    title="show sitemap"
+    onclick="
+      window.location.hash = 'top';
+      var cur = $(this);
+      $('#sitemap').slideToggle('fast',
+      function(){cur.toggleClass('selected')});
+      return false;">
+    <img height="36" width="36" alt="Sitemap button" src="../../++static++/silvatheme.infraemobile/:version:2013-12-19T15:20:12/images/sitemap.png"
+    />
+  </a>
+</div>
+
+  <div class="title bci">
+    <a href="../OAI.html">OAI Components</a>
+  </div>
+</div>
+</div>
+</div>
+  <div id="behindheader">
+    <a name="top" href="mailto:torvald@infrae.com">
+      Looking under the hood? Interested in a job? Send a mail....
+    </a>
+  </div>
+  <div id="sitemap" style="display: none"><div class="navigation">
+  <ul id="navigation-menu" class="navigation-level-0">
+    
+      <li class="level-0">
+        <a href="../../news.html" title="News">News</a>
+        
+      </li>
+    
+    
+      <li class="level-0">
+        <a href="../../about.html" title="About">About</a>
+        
+      </li>
+    
+    
+      <li class="level-0">
+        <a href="../../products.html" title="Products">Products</a>
+        
+      </li>
+    
+    
+      <li class="level-0 selected">
+        <a href="../../download.html" title="Download" class="onbranch">Download</a>
+        
+          
+            <ul class="navigation-level-1">
+    
+      <li class="level-1">
+        <a href="../tools.html" title="Tools">Tools</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../mobi.html" title="Mobi">Mobi</a>
+        
+      </li>
+    
+    
+      <li class="level-1 selected">
+        <a href="../OAI.html" title="OAI Components" class="onbranch">OAI Components</a>
+        
+          
+            <ul class="navigation-level-2">
+    
+      <li class="level-2 selected">
+        <a href="MOAI.html" title="MOAI Server" class="selected">MOAI Server</a>
+        
+      </li>
+    
+    
+      <li class="level-2">
+        <a href="../OAICore.html" title="OAICore Zope Product">OAICore Zope Product</a>
+        
+      </li>
+    
+    
+      <li class="level-2">
+        <a href="../oaipmh.html" title="OAI-PMH Python Module">OAI-PMH Python Module</a>
+        
+      </li>
+    
+    
+      <li class="level-2">
+        <a href="SilvaOAI.html" title="Silva OAI Extension">Silva OAI Extension</a>
+        
+      </li>
+    
+  </ul>
+          
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../DocumentLibrary.html" title="OAI Document Library">OAI Document Library</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../silva_all.html" title="Silva CMS Packages">Silva CMS Packages</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../silva_all_archive.html" title="Silva CMS Archive">Silva CMS Archive</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../silva_components.html" title="Silva Components">Silva Components</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../silva_extensions.html" title="Silva Extensions">Silva Extensions</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../silva_extensions_archive.html" title="Silva Extensions Archive">Silva Extensions Archive</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../fedoracommons.html" title="Fedora Commons Repository">Fedora Commons Repository</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../railroad.html" title="Railroad Repository">Railroad Repository</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../tramline.html" title="Tramline">Tramline</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../Formulator.html" title="Formulator">Formulator</a>
+        
+      </li>
+    
+    
+      <li class="level-1">
+        <a href="../LICENSE.txt.html" title="License">License</a>
+        
+      </li>
+    
+  </ul>
+          
+        
+      </li>
+    
+    
+      <li class="level-0">
+        <a href="../../service.html" title="Services">Services</a>
+        
+      </li>
+    
+    
+      <li class="level-0">
+        <a href="../../contact.html" title="Contact">Contact</a>
+        
+      </li>
+    
+    
+      <li class="level-0">
+        <a href="../../presentations.html" title="Presentations">Presentations</a>
+        
+      </li>
+    
+    
+      <li class="level-0">
+        <a href="../../search.html" title="Inactive Search">Inactive Search</a>
+        
+      </li>
+    
+  </ul>
+</div>
+</div>
+  <div id="content">
+    
+    
+
+  <a href="MOAI.html#skip-to-releases" class="skip-link"
+     style="float: right">
+    Jump to releases
+  </a>
+
+  
+
+  
+  <h1>MOAI Server</h1>
+  <!-- PyPI Linker code source -->
+<div class="align-right">
+<div class="info plot">
+<h3>
+  <a href="http://pypi.python.org/pypi" title="Visit the Python Package Index">
+  <img alt="PyPI logo" width="16" height="16" src="++static++/silvatheme.renaissance/img/python.png"></a>
+  <acronym title="Python Package Index">PyPI</acronym>
+</h3>
+<p>
+  MOAI Server is also available on the Python Package Index:
+  <br><a href="http://pypi.python.org/pypi/MOAI" title="See MOAI Server on the PyPI site">http://pypi.python.org/pypi/MOAI</a>
+</p>
+</div>
+</div>
+<!-- /PyPI Linker code source --><div class="external-source align-right">
+<!-- Related Info code source -->
+<div class="align-right" style="clear:both">
+<div class="info plot clover" style="clear:both;">
+<h2>Product info</h2>
+<p>MOAI is a standalone server written in Python. There is a site for developer documentation at: <a href="http://moai.infrae.com/">http://moai.infrae.com/</a>. For a general overview see the <a href="../../products/moai.html">MOAI Server</a> product page.</p>
+
+</div>
+</div>
+<!-- /Related Info -->
+</div>
+
+<h2>
+	An Open Access Server Platform for Institutional Repositories</h2>
+
+<p>
+	<acronym title="M+ Open Archives Initiative">MOAI</acronym> is a platform that aggregates input from disparate sources and republishes it via the Open Archive Initiatives protocol for metadata harvesting. MOAI is built for institutional repositories that store relational metadata and asset files.</p>
+
+<p>
+	The server has a flexible system for combining records into sets and uses these sets in the feed configuration. MOAI also comes with a simple yet flexible authentication scheme that can easily be customized. Besides providing authentication for the feeds, the authentication also controls access to the assets.</p>
+
+<p>
+	MOAI is a standalone system that can be used in combination with any repository software that comes with an OAI feed such as <a class="link" target="" title="" href="http://www.fedora.info/">Fedora Commons</a>, <a class="link" target="" title="" href="http://www.eprints.org/">EPrints</a> or <a class="link" target="" title="" href="http://www.dspace.org/">DSpace</a>. It can also be used directly with an SQL database or just a folder of <acronym title="Extensible Markup Language">XML</acronym> files.</p>
+
+
+
+
+  <table class="silvatable list">
+    <h2><a name="skip-to-releases">Available releases</a></h2>
+    <thead>
+      <tr>
+        <th class="align-left">Release version</th>
+        <th class="align-left">Release date</th>
+        <th class="align-left">Release files</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <a href="MOAI/1.1.2.html">MOAI Server 1.1.2</a>
+        </td>
+        <td>2010 9 30  11:00:53 </td>
+        <td>
+          
+            <a href="MOAI/1.1.2/MOAI-1.1.2.tar.gz">MOAI-1.1.2.tar.gz</a><br />
+          
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="MOAI/1.1.1.html">MOAI Server 1.1.1</a>
+        </td>
+        <td>2010 9 2  15:33:57 </td>
+        <td>
+          
+            <a href="MOAI/1.1.1/MOAI-1.1.1.tar.gz">MOAI-1.1.1.tar.gz</a><br />
+          
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="MOAI/1.1.0.html">MOAI Server 1.1.0</a>
+        </td>
+        <td>2010 4 8  14:16:10 </td>
+        <td>
+          
+            <a href="MOAI/1.1.0/MOAI-1.1.0.tar.gz">MOAI-1.1.0.tar.gz</a><br />
+          
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="MOAI/1.0.10.html">MOAI Server 1.0.10</a>
+        </td>
+        <td>2010 3 25  10:34:02 </td>
+        <td>
+          
+            <a href="MOAI/1.0.10/MOAI-1.0.10.tar.gz">MOAI-1.0.10.tar.gz</a><br />
+          
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="MOAI/1.0.9.html">MOAI Server 1.0.9</a>
+        </td>
+        <td>2010 2 16  12:36:44 </td>
+        <td>
+          
+            <a href="MOAI/1.0.9/MOAI-1.0.9.tar.gz">MOAI-1.0.9.tar.gz</a><br />
+          
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="MOAI/1.0.8.html">MOAI Server 1.0.8</a>
+        </td>
+        <td>2009 11 18  13:39:12 </td>
+        <td>
+          
+            <a href="MOAI/1.0.8/MOAI-1.0.8.tar.gz">MOAI-1.0.8.tar.gz</a><br />
+          
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="MOAI/1.0.7.html">MOAI Server 1.0.7</a>
+        </td>
+        <td>2009 11 16  17:55:54 </td>
+        <td>
+          
+            <a href="MOAI/1.0.7/MOAI-1.0.7.tar.gz">MOAI-1.0.7.tar.gz</a><br />
+          
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="MOAI/1.0.6.html">MOAI Server 1.0.6</a>
+        </td>
+        <td>2009 8 12  16:57:34 </td>
+        <td>
+          
+            <a href="MOAI/1.0.6/MOAI-1.0.6-py2.4.egg">MOAI-1.0.6-py2.4.egg</a><br />
+          
+          
+            <a href="MOAI/1.0.6/MOAI-1.0.6.tar.gz">MOAI-1.0.6.tar.gz</a><br />
+          
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="MOAI/1.0.5.html">MOAI Server 1.0.5</a>
+        </td>
+        <td>2009 8 12  16:00:14 </td>
+        <td>
+          
+            <a href="MOAI/1.0.5/MOAI-1.0.5-py2.4.egg">MOAI-1.0.5-py2.4.egg</a><br />
+          
+          
+            <a href="MOAI/1.0.5/MOAI-1.0.5.tar.gz">MOAI-1.0.5.tar.gz</a><br />
+          
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="MOAI/1.0.4.html">MOAI Server 1.0.4</a>
+        </td>
+        <td>2009 7 15  11:41:38 </td>
+        <td>
+          
+            <a href="MOAI/1.0.4/MOAI-1.0.4-py2.5.egg">MOAI-1.0.4-py2.5.egg</a><br />
+          
+          
+            <a href="MOAI/1.0.4/MOAI-1.0.4.tar.gz">MOAI-1.0.4.tar.gz</a><br />
+          
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="MOAI/1.0.3.html">MOAI Server 1.0.3</a>
+        </td>
+        <td>2009 6 23  18:23:07 </td>
+        <td>
+          
+            <a href="MOAI/1.0.3/MOAI-1.0.3-py2.5.egg">MOAI-1.0.3-py2.5.egg</a><br />
+          
+          
+            <a href="MOAI/1.0.3/MOAI-1.0.3.tar.gz">MOAI-1.0.3.tar.gz</a><br />
+          
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="MOAI/1.0.2.html">MOAI Server 1.0.2</a>
+        </td>
+        <td>2009 5 20  14:55:36 </td>
+        <td>
+          
+            <a href="MOAI/1.0.2/MOAI-1.0.2-py2.5.egg">MOAI-1.0.2-py2.5.egg</a><br />
+          
+          
+            <a href="MOAI/1.0.2/MOAI-1.0.2.tar.gz">MOAI-1.0.2.tar.gz</a><br />
+          
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="MOAI/1.0.1.html">MOAI Server 1.0.1</a>
+        </td>
+        <td>2009 5 19  17:23:08 </td>
+        <td>
+          
+            <a href="MOAI/1.0.1/MOAI-1.0.1-py2.5.egg">MOAI-1.0.1-py2.5.egg</a><br />
+          
+          
+            <a href="MOAI/1.0.1/MOAI-1.0.1.tar.gz">MOAI-1.0.1.tar.gz</a><br />
+          
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="MOAI/1.0.html">MOAI Server 1.0</a>
+        </td>
+        <td>2009 5 4  18:07:53 </td>
+        <td>
+          
+            <a href="MOAI/1.0/MOAI-1.0-py2.5.egg">MOAI-1.0-py2.5.egg</a><br />
+          
+          
+            <a href="MOAI/1.0/MOAI-1.0.tar.gz">MOAI-1.0.tar.gz</a><br />
+          
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p class="software-license">
+    <strong>License:</strong>
+    <a href="MOAI/LICENSE.txt.html">
+      New BSD
+    </a>
+  </p>
+
+  
+
+
+
+  </div>
+  <div id="footer">
+  <div class="search">
+  <form method="get" action="http://m.infrae.com/download/OAI/MOAI/@@index.html">
+    <input class="searchbutton" type="image" src="../../++static++/silvatheme.infraemobile/:version:2013-12-19T15:20:12/images/search.png" />
+    <div class="searchtext">
+      <input class="text" placeholder="Search..." name="search" type="text"
+             />
+    </div>
+  </form>
+</div>
+
+  <table class="nav">
+  
+    <tr>
+      <td class="col1">
+        <div class="nav_button">
+          <a class="nav_button" href="../../news.html">News</a>
+        </div>
+      </td>
+      <td class="col2">
+        <div class="nav_button">
+          <a class="nav_button" href="../../about.html">About</a>
+        </div>
+      </td>
+      <td class="col3">
+        <div class="nav_button">
+          <a class="nav_button" href="../../products.html">Products</a>
+        </div>
+      </td>
+    </tr>
+  
+  
+    <tr>
+      <td class="col1">
+        <div class="nav_button">
+          <a class="nav_button" href="../../download.html">Download</a>
+        </div>
+      </td>
+      <td class="col2">
+        <div class="nav_button">
+          <a class="nav_button" href="../../service.html">Services</a>
+        </div>
+      </td>
+      <td class="col3">
+        <div class="nav_button">
+          <a class="nav_button" href="../../contact.html">Contact</a>
+        </div>
+      </td>
+    </tr>
+  
+  
+    <tr>
+      <td class="col1">
+        <div class="nav_button">
+          <a class="nav_button" href="../../presentations.html">Presentations</a>
+        </div>
+      </td>
+    </tr>
+  
+    <tr>
+      <td colspan="3" class="col0">
+        <div class="nav_button">
+          <a class="nav_button" href="http://infrae.com/download/OAI/MOAI">
+            View this page on the desktop site
+          </a>
+        </div>
+      </td>
+    </tr>
+</table>
+
+  <div class="channels">
+    <a class="button" href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Infrae,+Rotterdam,+The+Netherlands&sll=36.244273,-95.712891&sspn=52.071158,72.949219&ie=UTF8&hq=Infrae,&hnear=Rotterdam,+South+Holland,+The+Netherlands&t=h&z=15&iwloc=A">Hoevestraat 10 3033 GC Rotterdam NL</a>
+    <a href="tel:+31102437051" class="button left">+31 10 243 7051</a>
+    <a class="button right" href="mailto:info@infrae.com">info@infrae.com</a>
+  </div>
+
+</div>
+</div>
+
+
+
+<script type="text/javascript">
+    
+    $( function(){ 
+        $(document).bind('mousedown touchstart', function(){ 
+            $('#sitemap').hide('fast', function(){
+                $('#sitemap-switch-button-link').removeClass('selected');
+            }); 
+        });
+        
+        $('#sitemap, #sitemap-switch-button').bind('mousedown touchstart', function(event){
+            event.stopPropagation();
+        });       
+    });
+    
+</script>
+
+  </body>
+</html>

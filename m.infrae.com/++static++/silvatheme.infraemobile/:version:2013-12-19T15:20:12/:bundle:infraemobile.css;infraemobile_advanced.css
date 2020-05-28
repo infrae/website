@@ -1,0 +1,583 @@
+/* Redefinition of basic elements */
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background-color: #000;
+}
+
+body {
+  font: 17px/1.4 Helvetica, Arial, sans-serif;
+  color: #eee;
+  -webkit-text-size-adjust: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0.2em 0 0.5em 0;
+  padding: 0;
+  color: #eee;
+  line-height: 1.2em;
+}
+h1 {
+  margin-top: 0.4em;
+  color: #ddd;
+  font-size: 29px;
+  font-weight: normal;
+}
+h2 {
+  font-size: 23px;
+  font-weight: normal;
+}
+h3 {
+  color: #ddd;
+  font-size: 17px;
+  font-weight: bold;
+}
+h4 {
+  font-size: 16px;
+  font-weight: bold;
+  color: #ccc;
+}
+h5 {
+  font-size: 15px;
+  font-weight: bold;
+  color: #bbb;
+}
+div.homepage h2 {
+  font-size: 26px;
+  font-weight: normal;
+  margin: 2px 4px 4px 0;
+  text-align: center;
+  font-family: Verdana,Helvetica,Arial,sans-serif;
+}
+a img {
+  border: none
+}
+p, ul, ol, dl, div.form {
+    margin: 0 0 1em;
+}
+th, td {
+  padding: 4px 6px 5px 2px;
+  line-height: 1em;
+  vertical-align: top;
+}
+th {
+  font-weight: normal;
+  text-align: left;
+  color: #ddd;
+}
+ol, ul {
+  padding-left: 1.2em;
+}
+ul ul {
+  margin-bottom: 0;
+}
+ul li p.p {
+  margin: 0;
+}
+dl {
+  width: 100%;
+  padding: 0;
+}
+dt {
+  display: block;
+  margin: 0;
+  padding: 0;
+  color: #ddd;
+}
+dd {
+  display: block;
+  margin: 0 0 0.7em;
+  padding: 0;
+}
+div, p, li, a {
+  word-wrap: break-word;
+}
+pre {
+  font-size: 15px;
+}
+strong {
+  font-weight: bold;
+}
+
+#header {
+  padding: 0;
+}
+
+div.logo {
+  padding: 1em 0 1.5em;
+  text-align: center;
+}
+
+#menu {
+  float: right;
+}
+
+#footer {
+  margin: 0;
+  border-top: 3px solid #334;
+  background-color: #212125;
+}
+
+#content {
+  background-color: #000;
+  padding: 10px;
+  clear: both;
+}
+
+#content img {
+  max-width: 300px;
+  max-height: 300px;
+}
+
+.image-right {
+margin: 0.5em 0;
+}
+
+#content a {
+  text-decoration: none;
+  -webkit-tap-highlight-color:#d8e7ff;
+}
+
+#content a:link {
+  color: #d7f7ff;
+}
+
+#content a:visited {
+  color: #b7b7d8;
+}
+
+ul.toc li {
+  list-style-type: none;
+}
+
+table.nav {
+  width: 100%;
+  padding: 8px 10px;
+}
+table.nav td.col1 {
+  width: 33%;
+}
+table.nav td.col2 {
+  width: 34%;
+  text-align: center;
+}
+table.nav td.col3 {
+  width: 33%;
+  text-align: right;
+}
+table.nav td.col0 {
+  padding-top: 10px;
+  text-align: center;
+  font-size: 0.9em;
+}
+
+.nav a {
+  color: #efeff4;
+  text-decoration:none;
+}
+
+.nav a:visited {
+  color: #efeff4;
+}
+
+/* Silva specific. XXX Move somewhere else */
+
+table.silvatable {
+  width: 100%;
+  margin: 0.5em 0;
+  border-spacing: 0;
+}
+
+table.silvatable th {
+  font-weight: bold;
+}
+
+table.silvatable th, table.silvatable td {
+  padding-left: 0;
+}
+
+div.searchresults div.batchNav {
+  text-align: center;
+}
+
+div.searchresults ul li {
+  margin: 0.5em 0.5em 1.5em -0.5em;
+}
+
+div.searchresults a.current {
+  border: 3px solid #535b5f;
+  border-style: solid none;
+  color: #202629;
+}
+
+.tract {
+  display: none;
+}
+
+.nav {
+  padding: 10px;
+}
+
+.nav table {
+  border-collapse: collapse;
+}
+
+.nav td {
+  padding-top: 5px;
+  margin: 0;
+}
+
+a.button {
+  display: block;
+  color: #fff;
+  font-weight: bold;
+  font-size: 0.9em;
+  text-decoration: none;
+  text-align: center;
+  margin: 0;
+  text-decoration: none;
+}
+
+div.channels a.button {
+  padding: 11px 0px 9px 0px;
+  border-top: 1px solid #3d3d3d;
+  border-right: 1px solid #3d3d3d;
+}
+
+#menu a.button {
+  border-right: 1px solid #5c5c62;
+  border-left: 1px solid #3d3d3d;
+  padding: 1px 2px 1px 2px;
+}
+
+.bc {
+  color: #fff;
+  font-size: 15px;
+  font-weight: bold;
+  background-color: #5c5c62;
+  height: 36px;
+}
+
+.home {
+  padding-left: 10px;
+  text-align: left;
+}
+.home a {
+  display: block;
+  width: 50%;
+  margin-right: 106px;
+  padding: 7px 0 7px;
+  color: #fff;
+  font-size: 15px;
+  font-weight: normal;
+  text-decoration: none;
+}
+.home a:visited {
+  color: #fff;
+}
+
+.left {
+  width: 50%;
+  float: left;
+}
+
+.bc .title {
+  padding-top: 8px;
+  margin-left: 10px;
+}
+
+.bc .title a {
+  display: block;
+  margin-right: 56px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.bc .title a:visited {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Infrae specific. XXX Move somewhere else? */
+
+/* alignments, from infraecommon/typography.css */
+.align-left {}
+.align-center {text-align:center;}
+.align-right {float:right; clear:both;}
+.float-left {float:left; clear:both;}
+.float-right { /* display:none in mobile skin */
+  display: none;
+}
+img.default {margin-bottom:0.7em;} /* legacy */
+div.image.default {margin-bottom:0.7em;}
+div.image-left {float:left; margin:5px 6px 5px 0;} /* icons midline, legacy */
+div.image.align-left {float:left; margin:5px 6px 5px 0;} /* icons midline */
+div.image-center {text-align:center; margin:0;} /* legacy */
+div.image.align-center {text-align:center; margin:0;}
+div.image-right {float:right; margin:8px 0 10px 20px;} /* legacy */
+div.image.align-right {float:right; margin:8px 0 10px 20px;}
+div.image.float-left {margin:6px 10px 5px 0; clear:none;} /* nested cap height */
+div.image.float-right {margin:6px 0 5px 10px;}  /* nested x height */
+
+#content div.info {
+  margin: 0.4em 0.2em 1em 0.6em;
+}
+#content div.plot {
+  padding: 0.5em 0.8em 0;
+  border: 1px solid #4c4c52 !important;
+  background-color: #333;
+/*-webkit-box-shadow: 3px 3px 4px #777;
+  -moz-box-shadow: 3px 3px 4px #777;
+  box-shadow: 3px 3px 4px #777;
+*/}
+#content div.info h2 {
+  color: #ccc;
+  font-size: 1.2em;
+  line-height: 140%;
+  margin: 0.2em 0 0;
+}
+#content div.info h6 {
+  color: #bbb;
+  font-size: 1em;
+  line-height: 140%;
+  margin: 0.2em 0 0;
+}
+#content div.info p.credit {
+  margin: 0.2em 0 0;
+  font-size: 1em;
+}
+#content div.related ul {
+  padding-left: 0;
+}
+
+ /* news viewer, items */
+#content div.searchbox {
+  margin-bottom: 1.3em;
+}
+#content div.searchbox input {
+  font-size: 16px; /* override ua css */
+}
+div.newsitemlistitem h2 {
+  margin-top:1.3em;
+}
+div.publicationdate, p.publicationdate {
+  font-size: 90%;
+  margin-bottom:0.4em;
+}
+div.newsitem-thumbnail {
+  float: right;
+  margin: 0.4em 0 0.2em 0.5em;
+}
+div.newsintro p {
+  margin-bottom:0.3em;
+}
+p.articlelink:first-letter, p.viewlink:first-letter {
+text-transform:capitalize;
+}
+p.articlelink a::after, p.viewlink a::after {
+content: "...";
+}
+
+/* style is reflection */
+
+/*.homepage #content {
+  background-image: url('../images/infraebg.png');
+  background-repeat: no-repeat;
+  background-position: center 10px;
+}*/
+
+.homepage #content h1 {
+  display: none;
+}
+
+#header {
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  z-index: 100;
+}
+
+#behindheader {
+  height: 20px;
+  width: 100%;
+  margin-bottom: 16px;
+  font-size: 8px;
+  text-align: center;
+}
+
+#content {
+  padding: 10px;
+}
+
+#footer {
+  border-top: none;
+}
+
+#sitemap {
+  background-color: #5c5c62;
+  padding: 0;
+  width: 70%;
+  position: absolute;
+  right: 0px;
+  top: 36px;
+
+/* the following line fixes the search field image appearing on top of sitemap popup menu */
+  z-index: 1;
+}
+
+#sitemap ul {
+  margin: 0;
+  padding: 0;
+}
+
+#sitemap ul li {
+  list-style-type: none;
+  padding: 1px 0 2px;
+}
+
+#sitemap a:link {
+  display: block;
+  color: #d7f7ff;
+  text-decoration: none;
+  padding: 6px 11px 6px 14px;
+}
+#sitemap a:visited {
+  color: #b7b7d8;
+}
+#sitemap a:active {
+  color: #4c4c52;
+}
+#sitemap li.level-1 a {
+  padding-left: 28px;
+}
+#sitemap li.level-2 a {
+  padding-left: 56px;
+}
+#sitemap li a.onbranch, #sitemap li a.selected {
+  color: #ffc;
+  font-weight: bold;
+}
+
+#behindheader a {
+  color: #5c5c62;
+}
+
+a.button, #sitemap ul li {
+  text-shadow: 0px -1px 1px #000;
+  background-image: url('../images/buttonbg.png');
+  background-repeat: repeat-x;
+  background-position: left top;
+  background-color: #191919;
+}
+
+.bc {
+  height: 36px;
+  background-color: transparent;
+  text-shadow: 0px -1px 1px #000;
+  background-image: url("../images/bcbg.png");
+  background-repeat: repeat-x;
+  background-position: left top;
+}
+
+.bchome {
+  height: 36px;
+  float: left;
+    border-right: 1px solid #5C5C62;
+}
+
+.home a {
+  text-shadow: 0px -1px 1px #000;
+}
+
+.home a:visited {
+  text-shadow: 0px -1px 1px #000;
+}
+
+.bc .title {
+  height: 36px;
+  margin-left: 72px;
+  padding-top: 0;
+  padding-left: 10px;
+}
+
+.bc div.title a {
+    padding: 7px 0;
+}
+
+.buttons {
+  float: right;
+}
+
+.buttons a {
+  border-left: 1px solid #5C5C62;
+  height: 36px;
+  display: block;
+}
+
+div.channels a.button {
+  padding: 11px 0px 9px 0px;
+  border-bottom: 1px solid #3d3d3d;
+  border-top: 1px solid #5c5c62;
+  border-right: 1px solid #5c5c62;
+  border-left: 1px solid #3d3d3d;
+}
+
+div.search {
+  border-top: 1px solid #3d3d3d;
+  border-bottom: 1px solid #5c5c62;
+}
+
+div.searchtext {
+  padding-right: 33px;
+  padding-top: 0;
+  padding-left: 1px;
+}
+
+input.text {
+  width: 100%;
+    height: 25px;
+  margin: 0;
+  padding-left: 12px;
+  border: 0;
+  color: #fff;
+    background-color: #2c2c30;
+  font-size: inherit; /* why? */
+}
+
+input.searchbutton {
+  position: absolute;
+  right: 0px;
+    border-left: 1px solid #5c5c62;
+}
+
+/* search page */
+td.searchform-description {
+  display: none;
+}
+#fulltext, #field-silva-extra-publicationtime-begin, #field-silva-extra-publicationtime-end {
+  font-size: inherit;
+}
+div.searchform input.searchform-submit {
+  width: auto;
+  padding: 5px 12px;
+  border: 1px solid #3D3D3D;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  color: #fff;
+  background-image: url('../images/buttonbg.png');
+  font-size: inherit;
+}
+
+/* saved for reuse
+.buttons a.selected {
+  border-bottom: 2px solid red;
+  -webkit-tap-highlight-color: rgba(255,0,0,0.5);
+}
+html {
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+*/
+
+.style-is-reflection {}

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Silva News Calendaring//lonely event//
+VERSION:2.0
+BEGIN:VEVENT
+CREATED:20140124T151157Z
+DTEND:20140213T200000Z
+DTSTART:20140213T160000Z
+LAST-MODIFIED:20140124T151625Z
+LOCATION:One Shoe\, Janskerkhof 16\, Utrecht
+SUMMARY:Mobile Café Meetup: the iBeacon\, Behavior design and Distimo App
+  Analytics
+UID:107103518@0@silvanews
+URL:http://m.infrae.com/news/events/mobilecafe130213
+END:VEVENT
+END:VCALENDAR
