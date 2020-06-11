@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://infrae.com/download/mobi</id>
+  <id>https://infrae.com/download/mobi</id>
   <title type="text">Mobi</title>
   <subtitle>Download areas for all of Infrae's open source products.</subtitle>
   <link rel="self"
-        href="http://infrae.com/download/mobi/atom.xml"/>
+        href="https://infrae.com/download/mobi/atom.xml"/>
   <author>
     <name>sylvain</name>
   </author>
@@ -14,8 +14,8 @@
   <entry>
     <title>mobi.devices 1.2</title>
     <link rel="alternate" type="text/html"
-          href="http://infrae.com/download/mobi/mobi.devices/1.2"/>
-    <id>http://infrae.com/download/mobi/mobi.devices/1.2</id>
+          href="https://infrae.com/download/mobi/mobi.devices/1.2"/>
+    <id>https://infrae.com/download/mobi/mobi.devices/1.2</id>
     
       <published>2011-04-14T12:24:31Z</published>
     
@@ -38,8 +38,8 @@
   <entry>
     <title>silva.mobi 1.0</title>
     <link rel="alternate" type="text/html"
-          href="http://infrae.com/download/mobi/silva.mobi/1.0"/>
-    <id>http://infrae.com/download/mobi/silva.mobi/1.0</id>
+          href="https://infrae.com/download/mobi/silva.mobi/1.0"/>
+    <id>https://infrae.com/download/mobi/silva.mobi/1.0</id>
     
       <published>2010-12-20T16:01:01Z</published>
     
@@ -58,8 +58,8 @@
   <entry>
     <title>mobi.devices 1.1</title>
     <link rel="alternate" type="text/html"
-          href="http://infrae.com/download/mobi/mobi.devices/1.1"/>
-    <id>http://infrae.com/download/mobi/mobi.devices/1.1</id>
+          href="https://infrae.com/download/mobi/mobi.devices/1.1"/>
+    <id>https://infrae.com/download/mobi/mobi.devices/1.1</id>
     
       <published>2010-12-20T16:00:36Z</published>
     
@@ -82,8 +82,8 @@
   <entry>
     <title>mobi.devices 1.0.1</title>
     <link rel="alternate" type="text/html"
-          href="http://infrae.com/download/mobi/mobi.devices/1.0.1"/>
-    <id>http://infrae.com/download/mobi/mobi.devices/1.0.1</id>
+          href="https://infrae.com/download/mobi/mobi.devices/1.0.1"/>
+    <id>https://infrae.com/download/mobi/mobi.devices/1.0.1</id>
     
       <published>2010-09-13T17:14:40Z</published>
     
@@ -106,8 +106,8 @@
   <entry>
     <title>mobi.rendering 1.0</title>
     <link rel="alternate" type="text/html"
-          href="http://infrae.com/download/mobi/mobi.rendering/1.0"/>
-    <id>http://infrae.com/download/mobi/mobi.rendering/1.0</id>
+          href="https://infrae.com/download/mobi/mobi.rendering/1.0"/>
+    <id>https://infrae.com/download/mobi/mobi.rendering/1.0</id>
     
       <published>2010-09-13T14:41:47Z</published>
     
@@ -130,8 +130,8 @@
   <entry>
     <title>mobi.caching 1.0</title>
     <link rel="alternate" type="text/html"
-          href="http://infrae.com/download/mobi/mobi.caching/1.0"/>
-    <id>http://infrae.com/download/mobi/mobi.caching/1.0</id>
+          href="https://infrae.com/download/mobi/mobi.caching/1.0"/>
+    <id>https://infrae.com/download/mobi/mobi.caching/1.0</id>
     
       <published>2010-09-13T14:41:40Z</published>
     
@@ -154,8 +154,8 @@
   <entry>
     <title>mobi.interfaces 1.0</title>
     <link rel="alternate" type="text/html"
-          href="http://infrae.com/download/mobi/mobi.interfaces/1.0"/>
-    <id>http://infrae.com/download/mobi/mobi.interfaces/1.0</id>
+          href="https://infrae.com/download/mobi/mobi.interfaces/1.0"/>
+    <id>https://infrae.com/download/mobi/mobi.interfaces/1.0</id>
     
       <published>2010-09-13T14:41:30Z</published>
     
@@ -178,8 +178,8 @@
   <entry>
     <title>mobi.devices 1.0</title>
     <link rel="alternate" type="text/html"
-          href="http://infrae.com/download/mobi/mobi.devices/1.0"/>
-    <id>http://infrae.com/download/mobi/mobi.devices/1.0</id>
+          href="https://infrae.com/download/mobi/mobi.devices/1.0"/>
+    <id>https://infrae.com/download/mobi/mobi.devices/1.0</id>
     
       <published>2010-09-13T14:40:18Z</published>
     
@@ -202,8 +202,8 @@
   <entry>
     <title>silva.mobi 1.0b1</title>
     <link rel="alternate" type="text/html"
-          href="http://infrae.com/download/mobi/silva.mobi/1.0b1"/>
-    <id>http://infrae.com/download/mobi/silva.mobi/1.0b1</id>
+          href="https://infrae.com/download/mobi/silva.mobi/1.0b1"/>
+    <id>https://infrae.com/download/mobi/silva.mobi/1.0b1</id>
     
       <published>2010-07-16T15:34:45Z</published>
     
@@ -222,8 +222,8 @@
   <entry>
     <title>mobi.caching 1.0b1</title>
     <link rel="alternate" type="text/html"
-          href="http://infrae.com/download/mobi/mobi.caching/1.0b1"/>
-    <id>http://infrae.com/download/mobi/mobi.caching/1.0b1</id>
+          href="https://infrae.com/download/mobi/mobi.caching/1.0b1"/>
+    <id>https://infrae.com/download/mobi/mobi.caching/1.0b1</id>
     
       <published>2010-07-15T14:01:57Z</published>
     
@@ -246,8 +246,8 @@
   <entry>
     <title>mobi.devices 1.0b1</title>
     <link rel="alternate" type="text/html"
-          href="http://infrae.com/download/mobi/mobi.devices/1.0b1"/>
-    <id>http://infrae.com/download/mobi/mobi.devices/1.0b1</id>
+          href="https://infrae.com/download/mobi/mobi.devices/1.0b1"/>
+    <id>https://infrae.com/download/mobi/mobi.devices/1.0b1</id>
     
       <published>2010-07-15T14:01:23Z</published>
     
@@ -270,8 +270,8 @@
   <entry>
     <title>mobi.interfaces 1.0b1</title>
     <link rel="alternate" type="text/html"
-          href="http://infrae.com/download/mobi/mobi.interfaces/1.0b1"/>
-    <id>http://infrae.com/download/mobi/mobi.interfaces/1.0b1</id>
+          href="https://infrae.com/download/mobi/mobi.interfaces/1.0b1"/>
+    <id>https://infrae.com/download/mobi/mobi.interfaces/1.0b1</id>
     
       <published>2010-07-15T14:01:02Z</published>
     

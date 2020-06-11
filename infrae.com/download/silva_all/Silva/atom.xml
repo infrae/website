@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://infrae.com/download/silva_all/Silva</id>
+  <id>https://infrae.com/download/silva_all/Silva</id>
   <title type="text">Silva</title>
   <subtitle>Download area for Silva, the open source content management system.</subtitle>
   <link rel="self"
-        href="http://infrae.com/download/silva_all/Silva/atom.xml"/>
+        href="https://infrae.com/download/silva_all/Silva/atom.xml"/>
   <author>
     <name>sylvain</name>
   </author>
@@ -14,8 +14,8 @@
   <entry>
     <title>Dependencies and Extensions for 2.1+</title>
     <link rel="alternate" type="text/html"
-          href="http://infrae.com/download/silva_all/Silva/silva_buildout_2.1"/>
-    <id>http://infrae.com/download/silva_all/Silva/silva_buildout_2.1</id>
+          href="https://infrae.com/download/silva_all/Silva/silva_buildout_2.1"/>
+    <id>https://infrae.com/download/silva_all/Silva/silva_buildout_2.1</id>
     
       <published>2010-12-21T10:25:42Z</published>
     
@@ -34,8 +34,8 @@
   <entry>
     <title>Zope and Python versions for the 2.x series</title>
     <link rel="alternate" type="text/html"
-          href="http://infrae.com/download/silva_all/Silva/zope_python_versions"/>
-    <id>http://infrae.com/download/silva_all/Silva/zope_python_versions</id>
+          href="https://infrae.com/download/silva_all/Silva/zope_python_versions"/>
+    <id>https://infrae.com/download/silva_all/Silva/zope_python_versions</id>
     
       <published>2010-05-19T07:36:26Z</published>
     
@@ -54,8 +54,8 @@
   <entry>
     <title>Products Map for 1.4</title>
     <link rel="alternate" type="text/html"
-          href="http://infrae.com/download/silva_all/Silva/products_map_1.4"/>
-    <id>http://infrae.com/download/silva_all/Silva/products_map_1.4</id>
+          href="https://infrae.com/download/silva_all/Silva/products_map_1.4"/>
+    <id>https://infrae.com/download/silva_all/Silva/products_map_1.4</id>
     
       <published>2010-01-18T13:59:00Z</published>
     
@@ -75,8 +75,8 @@ with Silva itself as well as extensions.</p>
   <entry>
     <title>Products Map for 1.5</title>
     <link rel="alternate" type="text/html"
-          href="http://infrae.com/download/silva_all/Silva/products_map_1.5"/>
-    <id>http://infrae.com/download/silva_all/Silva/products_map_1.5</id>
+          href="https://infrae.com/download/silva_all/Silva/products_map_1.5"/>
+    <id>https://infrae.com/download/silva_all/Silva/products_map_1.5</id>
     
       <published>2010-01-18T13:58:59Z</published>
     
@@ -96,8 +96,8 @@ with Silva itself as well as extensions.</p>
   <entry>
     <title>Products Map for 1.6</title>
     <link rel="alternate" type="text/html"
-          href="http://infrae.com/download/silva_all/Silva/products_map_1.6"/>
-    <id>http://infrae.com/download/silva_all/Silva/products_map_1.6</id>
+          href="https://infrae.com/download/silva_all/Silva/products_map_1.6"/>
+    <id>https://infrae.com/download/silva_all/Silva/products_map_1.6</id>
     
       <published>2010-01-18T13:58:58Z</published>
     
@@ -117,8 +117,8 @@ with Silva itself as well as extensions.</p>
   <entry>
     <title>Products Map for 2.0</title>
     <link rel="alternate" type="text/html"
-          href="http://infrae.com/download/silva_all/Silva/products_map"/>
-    <id>http://infrae.com/download/silva_all/Silva/products_map</id>
+          href="https://infrae.com/download/silva_all/Silva/products_map"/>
+    <id>https://infrae.com/download/silva_all/Silva/products_map</id>
     
       <published>2010-01-18T13:58:57Z</published>
     

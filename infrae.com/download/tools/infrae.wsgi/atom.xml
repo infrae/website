@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://infrae.com/download/tools/infrae.wsgi</id>
+  <id>https://infrae.com/download/tools/infrae.wsgi</id>
   <title type="text">infrae.wsgi</title>
   <subtitle>Download areas for all of Infrae's open source products.</subtitle>
   <link rel="self"
-        href="http://infrae.com/download/tools/infrae.wsgi/atom.xml"/>
+        href="https://infrae.com/download/tools/infrae.wsgi/atom.xml"/>
   <author>
     <name>sylvain</name>
   </author>

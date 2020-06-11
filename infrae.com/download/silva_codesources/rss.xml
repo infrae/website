@@ -2,9 +2,9 @@
 <rdf:RDF xmlns="http://purl.org/rss/1.0/"
          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
          xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel rdf:about="http://infrae.com/download/silva_codesources">
+  <channel rdf:about="https://infrae.com/download/silva_codesources">
     <title>Silva Code Sources</title>
-    <link>http://infrae.com/download/silva_codesources/rss.xml</link>
+    <link>https://infrae.com/download/silva_codesources/rss.xml</link>
     <description>This feed contains descriptions and download links for Code Sources for the Silva content management system. Users of Silva 2.1 and later have a Code Source Service that contains the same sources.</description>
     <dc:creator>sylvain</dc:creator>
     
@@ -12,53 +12,53 @@
     
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/cs_twitter_timeline/1.0"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/rss_atom_feeder_cs/0.2"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/rss_atom_feeder_cs/0.1"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/silva_portlet_cs/0.5"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/quicktime_cs/0.4"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/search_field_cs/0.1"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/google_maps_cs/0.2"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/multi_toc_cs/0.5"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/google_maps_cs/0.1"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/google_calendar_cs/0.1"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/youtube_cs/0.1"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/msvideo_cs/0.3"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/quicktime_cs/0.3"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/javaplugin_cs/0.3"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/javaapplet_cs/0.3"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/flash_cs/0.3"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/networkimage_cs/0.3"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/multi_toc_cs/0.4"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/flashsource_cs/0.3"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/flashsource_cs/0.2"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/multi_toc_cs/0.3"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/multi_toc_cs/0.2"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/multi_toc_cs/0.1"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/related_info_cs/0.2"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/related_info_cs/0.1"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/msvideo_cs/0.2"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/msvideo_cs/0.1"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/flash_cs/0.2"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/javaplugin_cs/0.2"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/javaapplet_cs/0.2"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/quicktime_cs/0.2"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/flash_cs/0.1"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/javaplugin_cs/0.1"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/javaapplet_cs/0.1"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/quicktime_cs/0.1"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/flashsource_cs/0.1"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/encaptionate_cs/0.2"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/encaptionate_cs/0.1"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/networkimage_cs/0.2"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_codesources/networkimage_cs/0.1"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/cs_twitter_timeline/1.0"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/rss_atom_feeder_cs/0.2"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/rss_atom_feeder_cs/0.1"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/silva_portlet_cs/0.5"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/quicktime_cs/0.4"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/search_field_cs/0.1"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/google_maps_cs/0.2"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/multi_toc_cs/0.5"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/google_maps_cs/0.1"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/google_calendar_cs/0.1"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/youtube_cs/0.1"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/msvideo_cs/0.3"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/quicktime_cs/0.3"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/javaplugin_cs/0.3"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/javaapplet_cs/0.3"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/flash_cs/0.3"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/networkimage_cs/0.3"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/multi_toc_cs/0.4"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/flashsource_cs/0.3"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/flashsource_cs/0.2"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/multi_toc_cs/0.3"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/multi_toc_cs/0.2"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/multi_toc_cs/0.1"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/related_info_cs/0.2"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/related_info_cs/0.1"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/msvideo_cs/0.2"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/msvideo_cs/0.1"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/flash_cs/0.2"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/javaplugin_cs/0.2"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/javaapplet_cs/0.2"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/quicktime_cs/0.2"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/flash_cs/0.1"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/javaplugin_cs/0.1"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/javaapplet_cs/0.1"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/quicktime_cs/0.1"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/flashsource_cs/0.1"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/encaptionate_cs/0.2"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/encaptionate_cs/0.1"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/networkimage_cs/0.2"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_codesources/networkimage_cs/0.1"/>
       </rdf:Seq>
     </items>
   </channel>
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/cs_twitter_timeline/1.0">
+    <item rdf:about="https://infrae.com/download/silva_codesources/cs_twitter_timeline/1.0">
       <title>Twitter Timeline 1.0</title>
-      <link>http://infrae.com/download/silva_codesources/cs_twitter_timeline/1.0</link>
+      <link>https://infrae.com/download/silva_codesources/cs_twitter_timeline/1.0</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -70,9 +70,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/rss_atom_feeder_cs/0.2">
+    <item rdf:about="https://infrae.com/download/silva_codesources/rss_atom_feeder_cs/0.2">
       <title>RSS/Atom Feeder CS 0.2</title>
-      <link>http://infrae.com/download/silva_codesources/rss_atom_feeder_cs/0.2</link>
+      <link>https://infrae.com/download/silva_codesources/rss_atom_feeder_cs/0.2</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -84,9 +84,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/rss_atom_feeder_cs/0.1">
+    <item rdf:about="https://infrae.com/download/silva_codesources/rss_atom_feeder_cs/0.1">
       <title>RSS/Atom Feeder CS 0.1</title>
-      <link>http://infrae.com/download/silva_codesources/rss_atom_feeder_cs/0.1</link>
+      <link>https://infrae.com/download/silva_codesources/rss_atom_feeder_cs/0.1</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -98,9 +98,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/silva_portlet_cs/0.5">
+    <item rdf:about="https://infrae.com/download/silva_codesources/silva_portlet_cs/0.5">
       <title>Silva Portlet CS 0.5</title>
-      <link>http://infrae.com/download/silva_codesources/silva_portlet_cs/0.5</link>
+      <link>https://infrae.com/download/silva_codesources/silva_portlet_cs/0.5</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -112,9 +112,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/quicktime_cs/0.4">
+    <item rdf:about="https://infrae.com/download/silva_codesources/quicktime_cs/0.4">
       <title>Quicktime CS 0.4</title>
-      <link>http://infrae.com/download/silva_codesources/quicktime_cs/0.4</link>
+      <link>https://infrae.com/download/silva_codesources/quicktime_cs/0.4</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -126,9 +126,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/search_field_cs/0.1">
+    <item rdf:about="https://infrae.com/download/silva_codesources/search_field_cs/0.1">
       <title>Search Field CS 0.1</title>
-      <link>http://infrae.com/download/silva_codesources/search_field_cs/0.1</link>
+      <link>https://infrae.com/download/silva_codesources/search_field_cs/0.1</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -140,9 +140,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/google_maps_cs/0.2">
+    <item rdf:about="https://infrae.com/download/silva_codesources/google_maps_cs/0.2">
       <title>Google Maps CS 0.2</title>
-      <link>http://infrae.com/download/silva_codesources/google_maps_cs/0.2</link>
+      <link>https://infrae.com/download/silva_codesources/google_maps_cs/0.2</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -154,9 +154,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/multi_toc_cs/0.5">
+    <item rdf:about="https://infrae.com/download/silva_codesources/multi_toc_cs/0.5">
       <title>MultiTOC CS 0.5</title>
-      <link>http://infrae.com/download/silva_codesources/multi_toc_cs/0.5</link>
+      <link>https://infrae.com/download/silva_codesources/multi_toc_cs/0.5</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -168,9 +168,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/google_maps_cs/0.1">
+    <item rdf:about="https://infrae.com/download/silva_codesources/google_maps_cs/0.1">
       <title>Google Maps CS 0.1</title>
-      <link>http://infrae.com/download/silva_codesources/google_maps_cs/0.1</link>
+      <link>https://infrae.com/download/silva_codesources/google_maps_cs/0.1</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -182,9 +182,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/google_calendar_cs/0.1">
+    <item rdf:about="https://infrae.com/download/silva_codesources/google_calendar_cs/0.1">
       <title>Google Calendar CS 0.1</title>
-      <link>http://infrae.com/download/silva_codesources/google_calendar_cs/0.1</link>
+      <link>https://infrae.com/download/silva_codesources/google_calendar_cs/0.1</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -196,9 +196,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/youtube_cs/0.1">
+    <item rdf:about="https://infrae.com/download/silva_codesources/youtube_cs/0.1">
       <title>YouTube CS 0.1</title>
-      <link>http://infrae.com/download/silva_codesources/youtube_cs/0.1</link>
+      <link>https://infrae.com/download/silva_codesources/youtube_cs/0.1</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -210,9 +210,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/msvideo_cs/0.3">
+    <item rdf:about="https://infrae.com/download/silva_codesources/msvideo_cs/0.3">
       <title>MS Video CS 0.3</title>
-      <link>http://infrae.com/download/silva_codesources/msvideo_cs/0.3</link>
+      <link>https://infrae.com/download/silva_codesources/msvideo_cs/0.3</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -224,9 +224,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/quicktime_cs/0.3">
+    <item rdf:about="https://infrae.com/download/silva_codesources/quicktime_cs/0.3">
       <title>Quicktime CS 0.3</title>
-      <link>http://infrae.com/download/silva_codesources/quicktime_cs/0.3</link>
+      <link>https://infrae.com/download/silva_codesources/quicktime_cs/0.3</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -238,9 +238,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/javaplugin_cs/0.3">
+    <item rdf:about="https://infrae.com/download/silva_codesources/javaplugin_cs/0.3">
       <title>Java Plugin CS 0.3</title>
-      <link>http://infrae.com/download/silva_codesources/javaplugin_cs/0.3</link>
+      <link>https://infrae.com/download/silva_codesources/javaplugin_cs/0.3</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -252,9 +252,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/javaapplet_cs/0.3">
+    <item rdf:about="https://infrae.com/download/silva_codesources/javaapplet_cs/0.3">
       <title>Java Applet CS 0.3</title>
-      <link>http://infrae.com/download/silva_codesources/javaapplet_cs/0.3</link>
+      <link>https://infrae.com/download/silva_codesources/javaapplet_cs/0.3</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -266,9 +266,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/flash_cs/0.3">
+    <item rdf:about="https://infrae.com/download/silva_codesources/flash_cs/0.3">
       <title>Flash CS 0.3</title>
-      <link>http://infrae.com/download/silva_codesources/flash_cs/0.3</link>
+      <link>https://infrae.com/download/silva_codesources/flash_cs/0.3</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -280,9 +280,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/networkimage_cs/0.3">
+    <item rdf:about="https://infrae.com/download/silva_codesources/networkimage_cs/0.3">
       <title>Network Image CS 0.3</title>
-      <link>http://infrae.com/download/silva_codesources/networkimage_cs/0.3</link>
+      <link>https://infrae.com/download/silva_codesources/networkimage_cs/0.3</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -294,9 +294,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/multi_toc_cs/0.4">
+    <item rdf:about="https://infrae.com/download/silva_codesources/multi_toc_cs/0.4">
       <title>MultiTOC CS 0.4</title>
-      <link>http://infrae.com/download/silva_codesources/multi_toc_cs/0.4</link>
+      <link>https://infrae.com/download/silva_codesources/multi_toc_cs/0.4</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -308,9 +308,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/flashsource_cs/0.3">
+    <item rdf:about="https://infrae.com/download/silva_codesources/flashsource_cs/0.3">
       <title>Flash Source CS 0.3</title>
-      <link>http://infrae.com/download/silva_codesources/flashsource_cs/0.3</link>
+      <link>https://infrae.com/download/silva_codesources/flashsource_cs/0.3</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -322,9 +322,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/flashsource_cs/0.2">
+    <item rdf:about="https://infrae.com/download/silva_codesources/flashsource_cs/0.2">
       <title>Flash Source CS 0.2</title>
-      <link>http://infrae.com/download/silva_codesources/flashsource_cs/0.2</link>
+      <link>https://infrae.com/download/silva_codesources/flashsource_cs/0.2</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -336,9 +336,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/multi_toc_cs/0.3">
+    <item rdf:about="https://infrae.com/download/silva_codesources/multi_toc_cs/0.3">
       <title>MultiTOC CS 0.3</title>
-      <link>http://infrae.com/download/silva_codesources/multi_toc_cs/0.3</link>
+      <link>https://infrae.com/download/silva_codesources/multi_toc_cs/0.3</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -350,9 +350,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/multi_toc_cs/0.2">
+    <item rdf:about="https://infrae.com/download/silva_codesources/multi_toc_cs/0.2">
       <title>MultiTOC CS 0.2</title>
-      <link>http://infrae.com/download/silva_codesources/multi_toc_cs/0.2</link>
+      <link>https://infrae.com/download/silva_codesources/multi_toc_cs/0.2</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -364,9 +364,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/multi_toc_cs/0.1">
+    <item rdf:about="https://infrae.com/download/silva_codesources/multi_toc_cs/0.1">
       <title>MultiTOC CS 0.1</title>
-      <link>http://infrae.com/download/silva_codesources/multi_toc_cs/0.1</link>
+      <link>https://infrae.com/download/silva_codesources/multi_toc_cs/0.1</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -378,9 +378,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/related_info_cs/0.2">
+    <item rdf:about="https://infrae.com/download/silva_codesources/related_info_cs/0.2">
       <title>Related Info CS 0.2</title>
-      <link>http://infrae.com/download/silva_codesources/related_info_cs/0.2</link>
+      <link>https://infrae.com/download/silva_codesources/related_info_cs/0.2</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -392,9 +392,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/related_info_cs/0.1">
+    <item rdf:about="https://infrae.com/download/silva_codesources/related_info_cs/0.1">
       <title>Related Info CS 0.1</title>
-      <link>http://infrae.com/download/silva_codesources/related_info_cs/0.1</link>
+      <link>https://infrae.com/download/silva_codesources/related_info_cs/0.1</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -406,9 +406,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/msvideo_cs/0.2">
+    <item rdf:about="https://infrae.com/download/silva_codesources/msvideo_cs/0.2">
       <title>MS Video CS 0.2</title>
-      <link>http://infrae.com/download/silva_codesources/msvideo_cs/0.2</link>
+      <link>https://infrae.com/download/silva_codesources/msvideo_cs/0.2</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -420,9 +420,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/msvideo_cs/0.1">
+    <item rdf:about="https://infrae.com/download/silva_codesources/msvideo_cs/0.1">
       <title>MS Video CS 0.1</title>
-      <link>http://infrae.com/download/silva_codesources/msvideo_cs/0.1</link>
+      <link>https://infrae.com/download/silva_codesources/msvideo_cs/0.1</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -434,9 +434,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/flash_cs/0.2">
+    <item rdf:about="https://infrae.com/download/silva_codesources/flash_cs/0.2">
       <title>Flash CS 0.2</title>
-      <link>http://infrae.com/download/silva_codesources/flash_cs/0.2</link>
+      <link>https://infrae.com/download/silva_codesources/flash_cs/0.2</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -448,9 +448,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/javaplugin_cs/0.2">
+    <item rdf:about="https://infrae.com/download/silva_codesources/javaplugin_cs/0.2">
       <title>Java Plugin CS 0.2</title>
-      <link>http://infrae.com/download/silva_codesources/javaplugin_cs/0.2</link>
+      <link>https://infrae.com/download/silva_codesources/javaplugin_cs/0.2</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -462,9 +462,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/javaapplet_cs/0.2">
+    <item rdf:about="https://infrae.com/download/silva_codesources/javaapplet_cs/0.2">
       <title>Java Applet CS 0.2</title>
-      <link>http://infrae.com/download/silva_codesources/javaapplet_cs/0.2</link>
+      <link>https://infrae.com/download/silva_codesources/javaapplet_cs/0.2</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -476,9 +476,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/quicktime_cs/0.2">
+    <item rdf:about="https://infrae.com/download/silva_codesources/quicktime_cs/0.2">
       <title>Quicktime CS 0.2</title>
-      <link>http://infrae.com/download/silva_codesources/quicktime_cs/0.2</link>
+      <link>https://infrae.com/download/silva_codesources/quicktime_cs/0.2</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -490,9 +490,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/flash_cs/0.1">
+    <item rdf:about="https://infrae.com/download/silva_codesources/flash_cs/0.1">
       <title>Flash CS 0.1</title>
-      <link>http://infrae.com/download/silva_codesources/flash_cs/0.1</link>
+      <link>https://infrae.com/download/silva_codesources/flash_cs/0.1</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -504,9 +504,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/javaplugin_cs/0.1">
+    <item rdf:about="https://infrae.com/download/silva_codesources/javaplugin_cs/0.1">
       <title>Java Plugin CS 0.1</title>
-      <link>http://infrae.com/download/silva_codesources/javaplugin_cs/0.1</link>
+      <link>https://infrae.com/download/silva_codesources/javaplugin_cs/0.1</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -518,9 +518,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/javaapplet_cs/0.1">
+    <item rdf:about="https://infrae.com/download/silva_codesources/javaapplet_cs/0.1">
       <title>Java Applet CS 0.1</title>
-      <link>http://infrae.com/download/silva_codesources/javaapplet_cs/0.1</link>
+      <link>https://infrae.com/download/silva_codesources/javaapplet_cs/0.1</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -532,9 +532,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/quicktime_cs/0.1">
+    <item rdf:about="https://infrae.com/download/silva_codesources/quicktime_cs/0.1">
       <title>Quicktime CS 0.1</title>
-      <link>http://infrae.com/download/silva_codesources/quicktime_cs/0.1</link>
+      <link>https://infrae.com/download/silva_codesources/quicktime_cs/0.1</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -546,9 +546,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/flashsource_cs/0.1">
+    <item rdf:about="https://infrae.com/download/silva_codesources/flashsource_cs/0.1">
       <title>Flash Source CS 0.1</title>
-      <link>http://infrae.com/download/silva_codesources/flashsource_cs/0.1</link>
+      <link>https://infrae.com/download/silva_codesources/flashsource_cs/0.1</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -560,9 +560,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/encaptionate_cs/0.2">
+    <item rdf:about="https://infrae.com/download/silva_codesources/encaptionate_cs/0.2">
       <title>Encaptionate CS 0.2</title>
-      <link>http://infrae.com/download/silva_codesources/encaptionate_cs/0.2</link>
+      <link>https://infrae.com/download/silva_codesources/encaptionate_cs/0.2</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -574,9 +574,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/encaptionate_cs/0.1">
+    <item rdf:about="https://infrae.com/download/silva_codesources/encaptionate_cs/0.1">
       <title>Encaptionate CS 0.1</title>
-      <link>http://infrae.com/download/silva_codesources/encaptionate_cs/0.1</link>
+      <link>https://infrae.com/download/silva_codesources/encaptionate_cs/0.1</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -588,9 +588,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/networkimage_cs/0.2">
+    <item rdf:about="https://infrae.com/download/silva_codesources/networkimage_cs/0.2">
       <title>Network Image CS 0.2</title>
-      <link>http://infrae.com/download/silva_codesources/networkimage_cs/0.2</link>
+      <link>https://infrae.com/download/silva_codesources/networkimage_cs/0.2</link>
       <description>Download Silva Code Sources</description>
       
       
@@ -602,9 +602,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_codesources/networkimage_cs/0.1">
+    <item rdf:about="https://infrae.com/download/silva_codesources/networkimage_cs/0.1">
       <title>Network Image CS 0.1</title>
-      <link>http://infrae.com/download/silva_codesources/networkimage_cs/0.1</link>
+      <link>https://infrae.com/download/silva_codesources/networkimage_cs/0.1</link>
       <description>Download Silva Code Sources</description>
       
       

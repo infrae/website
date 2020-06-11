@@ -2,9 +2,9 @@
 <rdf:RDF xmlns="http://purl.org/rss/1.0/"
          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
          xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel rdf:about="http://infrae.com/download/mobi">
+  <channel rdf:about="https://infrae.com/download/mobi">
     <title>Mobi</title>
-    <link>http://infrae.com/download/mobi/rss.xml</link>
+    <link>https://infrae.com/download/mobi/rss.xml</link>
     <description>Download areas for all of Infrae's open source products.</description>
     <dc:creator>sylvain</dc:creator>
     
@@ -12,25 +12,25 @@
     
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="http://infrae.com/download/mobi/mobi.devices/1.2"/>
-        <rdf:li rdf:resource="http://infrae.com/download/mobi/silva.mobi/1.0"/>
-        <rdf:li rdf:resource="http://infrae.com/download/mobi/mobi.devices/1.1"/>
-        <rdf:li rdf:resource="http://infrae.com/download/mobi/mobi.devices/1.0.1"/>
-        <rdf:li rdf:resource="http://infrae.com/download/mobi/mobi.rendering/1.0"/>
-        <rdf:li rdf:resource="http://infrae.com/download/mobi/mobi.caching/1.0"/>
-        <rdf:li rdf:resource="http://infrae.com/download/mobi/mobi.interfaces/1.0"/>
-        <rdf:li rdf:resource="http://infrae.com/download/mobi/mobi.devices/1.0"/>
-        <rdf:li rdf:resource="http://infrae.com/download/mobi/silva.mobi/1.0b1"/>
-        <rdf:li rdf:resource="http://infrae.com/download/mobi/mobi.caching/1.0b1"/>
-        <rdf:li rdf:resource="http://infrae.com/download/mobi/mobi.devices/1.0b1"/>
-        <rdf:li rdf:resource="http://infrae.com/download/mobi/mobi.interfaces/1.0b1"/>
+        <rdf:li rdf:resource="https://infrae.com/download/mobi/mobi.devices/1.2"/>
+        <rdf:li rdf:resource="https://infrae.com/download/mobi/silva.mobi/1.0"/>
+        <rdf:li rdf:resource="https://infrae.com/download/mobi/mobi.devices/1.1"/>
+        <rdf:li rdf:resource="https://infrae.com/download/mobi/mobi.devices/1.0.1"/>
+        <rdf:li rdf:resource="https://infrae.com/download/mobi/mobi.rendering/1.0"/>
+        <rdf:li rdf:resource="https://infrae.com/download/mobi/mobi.caching/1.0"/>
+        <rdf:li rdf:resource="https://infrae.com/download/mobi/mobi.interfaces/1.0"/>
+        <rdf:li rdf:resource="https://infrae.com/download/mobi/mobi.devices/1.0"/>
+        <rdf:li rdf:resource="https://infrae.com/download/mobi/silva.mobi/1.0b1"/>
+        <rdf:li rdf:resource="https://infrae.com/download/mobi/mobi.caching/1.0b1"/>
+        <rdf:li rdf:resource="https://infrae.com/download/mobi/mobi.devices/1.0b1"/>
+        <rdf:li rdf:resource="https://infrae.com/download/mobi/mobi.interfaces/1.0b1"/>
       </rdf:Seq>
     </items>
   </channel>
   
-    <item rdf:about="http://infrae.com/download/mobi/mobi.devices/1.2">
+    <item rdf:about="https://infrae.com/download/mobi/mobi.devices/1.2">
       <title>mobi.devices 1.2</title>
-      <link>http://infrae.com/download/mobi/mobi.devices/1.2</link>
+      <link>https://infrae.com/download/mobi/mobi.devices/1.2</link>
       <description>Downloads of Infrae Products.</description>
       
       
@@ -42,9 +42,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/mobi/silva.mobi/1.0">
+    <item rdf:about="https://infrae.com/download/mobi/silva.mobi/1.0">
       <title>silva.mobi 1.0</title>
-      <link>http://infrae.com/download/mobi/silva.mobi/1.0</link>
+      <link>https://infrae.com/download/mobi/silva.mobi/1.0</link>
       <description>Mobile layout support for Silva</description>
       
       
@@ -56,9 +56,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/mobi/mobi.devices/1.1">
+    <item rdf:about="https://infrae.com/download/mobi/mobi.devices/1.1">
       <title>mobi.devices 1.1</title>
-      <link>http://infrae.com/download/mobi/mobi.devices/1.1</link>
+      <link>https://infrae.com/download/mobi/mobi.devices/1.1</link>
       <description>Mobile Device detection library and wsgi middlewares</description>
       
       
@@ -70,9 +70,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/mobi/mobi.devices/1.0.1">
+    <item rdf:about="https://infrae.com/download/mobi/mobi.devices/1.0.1">
       <title>mobi.devices 1.0.1</title>
-      <link>http://infrae.com/download/mobi/mobi.devices/1.0.1</link>
+      <link>https://infrae.com/download/mobi/mobi.devices/1.0.1</link>
       <description>Mobile Device detection library and wsgi middlewares</description>
       
       
@@ -84,9 +84,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/mobi/mobi.rendering/1.0">
+    <item rdf:about="https://infrae.com/download/mobi/mobi.rendering/1.0">
       <title>mobi.rendering 1.0</title>
-      <link>http://infrae.com/download/mobi/mobi.rendering/1.0</link>
+      <link>https://infrae.com/download/mobi/mobi.rendering/1.0</link>
       <description>Mobile rendering library</description>
       
       
@@ -98,9 +98,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/mobi/mobi.caching/1.0">
+    <item rdf:about="https://infrae.com/download/mobi/mobi.caching/1.0">
       <title>mobi.caching 1.0</title>
-      <link>http://infrae.com/download/mobi/mobi.caching/1.0</link>
+      <link>https://infrae.com/download/mobi/mobi.caching/1.0</link>
       <description>Cache utils</description>
       
       
@@ -112,9 +112,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/mobi/mobi.interfaces/1.0">
+    <item rdf:about="https://infrae.com/download/mobi/mobi.interfaces/1.0">
       <title>mobi.interfaces 1.0</title>
-      <link>http://infrae.com/download/mobi/mobi.interfaces/1.0</link>
+      <link>https://infrae.com/download/mobi/mobi.interfaces/1.0</link>
       <description>Mobile libs interfaces package</description>
       
       
@@ -126,9 +126,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/mobi/mobi.devices/1.0">
+    <item rdf:about="https://infrae.com/download/mobi/mobi.devices/1.0">
       <title>mobi.devices 1.0</title>
-      <link>http://infrae.com/download/mobi/mobi.devices/1.0</link>
+      <link>https://infrae.com/download/mobi/mobi.devices/1.0</link>
       <description>Mobile Device detection library and wsgi middlewares</description>
       
       
@@ -140,9 +140,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/mobi/silva.mobi/1.0b1">
+    <item rdf:about="https://infrae.com/download/mobi/silva.mobi/1.0b1">
       <title>silva.mobi 1.0b1</title>
-      <link>http://infrae.com/download/mobi/silva.mobi/1.0b1</link>
+      <link>https://infrae.com/download/mobi/silva.mobi/1.0b1</link>
       <description>Mobile layout support for Silva</description>
       
       
@@ -154,9 +154,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/mobi/mobi.caching/1.0b1">
+    <item rdf:about="https://infrae.com/download/mobi/mobi.caching/1.0b1">
       <title>mobi.caching 1.0b1</title>
-      <link>http://infrae.com/download/mobi/mobi.caching/1.0b1</link>
+      <link>https://infrae.com/download/mobi/mobi.caching/1.0b1</link>
       <description>Cache utils</description>
       
       
@@ -168,9 +168,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/mobi/mobi.devices/1.0b1">
+    <item rdf:about="https://infrae.com/download/mobi/mobi.devices/1.0b1">
       <title>mobi.devices 1.0b1</title>
-      <link>http://infrae.com/download/mobi/mobi.devices/1.0b1</link>
+      <link>https://infrae.com/download/mobi/mobi.devices/1.0b1</link>
       <description>Mobile Device detection</description>
       
       
@@ -182,9 +182,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/mobi/mobi.interfaces/1.0b1">
+    <item rdf:about="https://infrae.com/download/mobi/mobi.interfaces/1.0b1">
       <title>mobi.interfaces 1.0b1</title>
-      <link>http://infrae.com/download/mobi/mobi.interfaces/1.0b1</link>
+      <link>https://infrae.com/download/mobi/mobi.interfaces/1.0b1</link>
       <description>Mobile libs interfaces package</description>
       
       

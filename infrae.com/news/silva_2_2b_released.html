@@ -7,7 +7,7 @@
 <meta name="generator" content="Silva" />
 <meta name="keywords" content="Silva, SNN, Silva News Network, news network, news, content management, CMS, content management system" />
 <meta name="description" content="Infrae is pleased to announce the beta release of Silva 2.2. This release adds a slew of new features for users, developers, and system administrators, and is a leap forward with Zope 2.11 and Five/Grok technology." />
-<link rel="schema.dcterms" href="http://purl.org/dc/terms/" />
+<link rel="schema.dcterms" href="https://purl.org/dc/terms/" />
 <meta name="dcterms.subject" content="Silva 2.2 beta released with a slew of new features" />
 <meta name="dcterms.abstract" content="Infrae is pleased to announce the beta release of Silva 2.2. This release adds a slew of new features for users, developers, and system administrators, and is a leap forward with Zope 2.11 and Five/Grok technology." />
 <meta name="dcterms.rightsHolder" content="Infrae">
@@ -15,16 +15,16 @@
 <meta property="twitter:card" content="summary" />
 <meta property="twitter:domain" content="infrae.com" />
 <meta property="twitter:site" content="@infrae" />
-<meta property="twitter:url" content="http://infrae.com/news/silva_2_2b_released" />
+<meta property="twitter:url" content="https://infrae.com/news/silva_2_2b_released" />
 <meta property="twitter:title" content="Silva 2.2 beta Released" />
 <meta property="twitter:description" content="Silva 2.2 beta released with a slew of new features" />
-<meta property="twitter:image:src" content="http://infrae.com/images/infrae_logo120w.png" />
-<meta property="og:url" content="http://infrae.com/news/silva_2_2b_released" />
+<meta property="twitter:image:src" content="https://infrae.com/images/infrae_logo120w.png" />
+<meta property="og:url" content="https://infrae.com/news/silva_2_2b_released" />
 <meta property="og:site_name" content="infrae.com" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Silva 2.2 beta Released" />
 <meta property="og:description" content="Infrae is pleased to announce the beta release of Silva 2.2. This release adds a slew of new features for users, developers, and system administrators, and is a leap forward with Zope 2.11 and Five/Grok technology." />
-<meta property="og:image" content="http://infrae.com/images/infrae_logo120w.png" />
+<meta property="og:image" content="https://infrae.com/images/infrae_logo120w.png" />
 <meta name="geo.region" content="NL-ZH" />
 <meta name="geo.placename" content="Rotterdam" />
 <meta name="geo.position" content="51.927423;4.466578" />
@@ -34,7 +34,7 @@
 <link rel="canonical" href="silva_2_2b_released.html" />
 <link rel="apple-touch-icon" href="../++static++/silvatheme.renaissance/:version:1.0/img/mobicon.png" />
 <link rel="copyright" title="Copyright" href="../copyright.html" />
-<link rel="alternate" type="application/x-wiki" href="http://infrae.com/news/edit" title="Edit this page (login required)" />
+<link rel="alternate" type="application/x-wiki" href="https://infrae.com/news/edit" title="Edit this page (login required)" />
 <!-- Feeds are active -->
 <link rel="alternate" type="application/atom+xml" href="atom.xml" title="Infrae: Silva 2.2 beta Released Atom feed" />
 <link rel="alternate" type="application/rss+xml" href="rss.xml" title="Infrae: Silva 2.2 beta Released RSS feed" />
@@ -122,7 +122,7 @@
   <div class="container">
     <article class="col66 first">
       <share>
-        <a id="tweeter" href="http://twitter.com/home?status=Silva 2.2 beta Released:%20http://infrae.com/news/silva_2_2b_released%20">
+        <a id="tweeter" href="http://twitter.com/home?status=Silva 2.2 beta Released:%20https://infrae.com/news/silva_2_2b_released%20">
           Tweet this
         </a>
       </share>
@@ -214,7 +214,7 @@ using the egg metadata.</p></li><li><p>Silva is shipped with Python eggs by defa
 2.2.4b1dev. This makes it possible to define upgrade steps between
 alpha, beta, and minor versions. As upgrade actions could be needed in
 service_extensions for those version upgrades as well.</p></li></ul><h2>New features, of interest to developers</h2>
-<ul class="disc"><li>Silva has been &#8216;eggified&#8217;. Buildout scripts now retrieve eggs from the download area on <a class="link" title="" target="_blank" href="../index.html">infrae.com</a> (<a class="link" title="" target="_self" href="../download/simple.html">http://infrae.com/download/simple</a>) and the <a class="link" title="" target="_self" href="http://pypi.python.org/pypi">Python Package Index</a>.</li><li>All Silva content types and services now use Grok for configuration and registration (instead of ZCML).&#160;</li><li>Content types can now be defined using zope.schema.</li><li>Generic Formlib and z3c forms support have been added to the SMI and public interface.</li><li>In the SMI, add and edit forms can be generated using Formlib or z3c.forms.</li><li>The mechanism for previewing public pages has been refactored to use a Zope namespace. The author automatically stays in preview mode even when
+<ul class="disc"><li>Silva has been &#8216;eggified&#8217;. Buildout scripts now retrieve eggs from the download area on <a class="link" title="" target="_blank" href="../index.html">infrae.com</a> (<a class="link" title="" target="_self" href="../download/simple.html">https://infrae.com/download/simple</a>) and the <a class="link" title="" target="_self" href="http://pypi.python.org/pypi">Python Package Index</a>.</li><li>All Silva content types and services now use Grok for configuration and registration (instead of ZCML).&#160;</li><li>Content types can now be defined using zope.schema.</li><li>Generic Formlib and z3c forms support have been added to the SMI and public interface.</li><li>In the SMI, add and edit forms can be generated using Formlib or z3c.forms.</li><li>The mechanism for previewing public pages has been refactored to use a Zope namespace. The author automatically stays in preview mode even when
 navigating, and always in the <em>public design</em>. Registering a preview mode in your template configuration is not required anymore, it works automatically.</li><li>Publications can now become local sites, meaning that they can have local services that change the configuration (as well as configuration of the content). A services tab appears in the ZMI in the publication where the local site feature is activated.</li><li>Zope 3 and Grok views are supported to render your public content.&#160;</li><li>Alternate public views can be provided for any content type, with selection in the SMI.</li><li>The file system-based visual design has been refactored: it&#8217;s now much easier
 to define a design and extend it. Most layout can be implemented by dropping your template, CSS and image files onto the file system. Experienced designers can use Zope 3 layouts (or pagelets), views, content
 providers and viewlets to define an advanced design. Configuration is again simplified with the help of Grok.</li><li>The SilvaLayout metadata marker used to mark virtual hosts is not needed anymore. Breadcrumbs and navigation start automatically at a publication defined in your Apache/web server configuration.</li><li>The content upgrader works on Silva minor versions as well, including alpha and beta.</li></ul><h3>Check out docs.infrae.com</h3>
@@ -224,7 +224,7 @@ providers and viewlets to define an advanced design. Configuration is again simp
 content reuse, sophisticated access control, multi-site management,
 extensive import/export facilities, fine-grained templating, and hi-res
 image storage and manipulation.</p>
-<p>  For more complete information, see the Silva Product Pages at <a class="link" title="" target="_self" href="../products/silva.html">http://infrae.com/products/silva</a>.</p>
+<p>  For more complete information, see the Silva Product Pages at <a class="link" title="" target="_self" href="../products/silva.html">https://infrae.com/products/silva</a>.</p>
 <h3>Install</h3>
 <p>  Silva 2.2 should be installed using buildout:</p>
 <p><a class="link" title="" target="_self" href="https://svn.infrae.com/buildout/silva/branch/Silva-2.2/">https://svn.infrae.com/buildout/silva/branch/Silva-2.2/</a><br></p>

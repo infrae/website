@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://infrae.com/download/DocumentLibrary</id>
+  <id>https://infrae.com/download/DocumentLibrary</id>
   <title type="text">OAI Document Library</title>
   <subtitle>Download areas for all of Infrae's open source products.</subtitle>
   <link rel="self"
-        href="http://infrae.com/download/DocumentLibrary/atom.xml"/>
+        href="https://infrae.com/download/DocumentLibrary/atom.xml"/>
   <author>
     <name>sylvain</name>
   </author>
@@ -14,8 +14,8 @@
   <entry>
     <title>documentlibrary ldapauth 1.6</title>
     <link rel="alternate" type="text/html"
-          href="http://infrae.com/download/DocumentLibrary/documentlibrary.ldapauth/1.6"/>
-    <id>http://infrae.com/download/DocumentLibrary/documentlibrary.ldapauth/1.6</id>
+          href="https://infrae.com/download/DocumentLibrary/documentlibrary.ldapauth/1.6"/>
+    <id>https://infrae.com/download/DocumentLibrary/documentlibrary.ldapauth/1.6</id>
     
       <published>2010-11-04T15:30:15Z</published>
     
@@ -37,8 +37,8 @@
   <entry>
     <title>OAI Document Library 1.6</title>
     <link rel="alternate" type="text/html"
-          href="http://infrae.com/download/DocumentLibrary/DocumentLibrary/1.6"/>
-    <id>http://infrae.com/download/DocumentLibrary/DocumentLibrary/1.6</id>
+          href="https://infrae.com/download/DocumentLibrary/DocumentLibrary/1.6"/>
+    <id>https://infrae.com/download/DocumentLibrary/DocumentLibrary/1.6</id>
     
       <published>2010-11-04T15:19:35Z</published>
     
@@ -66,8 +66,8 @@ the Zope 3 web application framework.</div>
   <entry>
     <title>SilvaDocumentLibrary 1.6</title>
     <link rel="alternate" type="text/html"
-          href="http://infrae.com/download/DocumentLibrary/SilvaDocumentLibrary/1.6"/>
-    <id>http://infrae.com/download/DocumentLibrary/SilvaDocumentLibrary/1.6</id>
+          href="https://infrae.com/download/DocumentLibrary/SilvaDocumentLibrary/1.6"/>
+    <id>https://infrae.com/download/DocumentLibrary/SilvaDocumentLibrary/1.6</id>
     
       <published>2010-11-04T14:56:10Z</published>
     
@@ -90,8 +90,8 @@ the Zope 3 web application framework.</div>
   <entry>
     <title>DL Cherry Picker 0</title>
     <link rel="alternate" type="text/html"
-          href="http://infrae.com/download/DocumentLibrary/DLCherryCS/0"/>
-    <id>http://infrae.com/download/DocumentLibrary/DLCherryCS/0</id>
+          href="https://infrae.com/download/DocumentLibrary/DLCherryCS/0"/>
+    <id>https://infrae.com/download/DocumentLibrary/DLCherryCS/0</id>
     
       <published>2010-01-30T11:51:03Z</published>
     
@@ -114,8 +114,8 @@ the Zope 3 web application framework.</div>
   <entry>
     <title>OAI Document Library 1.5.2</title>
     <link rel="alternate" type="text/html"
-          href="http://infrae.com/download/DocumentLibrary/DocumentLibrary/1.5.2"/>
-    <id>http://infrae.com/download/DocumentLibrary/DocumentLibrary/1.5.2</id>
+          href="https://infrae.com/download/DocumentLibrary/DocumentLibrary/1.5.2"/>
+    <id>https://infrae.com/download/DocumentLibrary/DocumentLibrary/1.5.2</id>
     
       <published>2009-09-22T08:37:41Z</published>
     
@@ -138,8 +138,8 @@ the Zope 3 web application framework.</div>
   <entry>
     <title>SilvaDocumentLibrary 1.5</title>
     <link rel="alternate" type="text/html"
-          href="http://infrae.com/download/DocumentLibrary/SilvaDocumentLibrary/1.5"/>
-    <id>http://infrae.com/download/DocumentLibrary/SilvaDocumentLibrary/1.5</id>
+          href="https://infrae.com/download/DocumentLibrary/SilvaDocumentLibrary/1.5"/>
+    <id>https://infrae.com/download/DocumentLibrary/SilvaDocumentLibrary/1.5</id>
     
       <published>2009-07-29T17:45:56Z</published>
     
@@ -162,8 +162,8 @@ the Zope 3 web application framework.</div>
   <entry>
     <title>OAI Document Library 1.5</title>
     <link rel="alternate" type="text/html"
-          href="http://infrae.com/download/DocumentLibrary/DocumentLibrary/1.5"/>
-    <id>http://infrae.com/download/DocumentLibrary/DocumentLibrary/1.5</id>
+          href="https://infrae.com/download/DocumentLibrary/DocumentLibrary/1.5"/>
+    <id>https://infrae.com/download/DocumentLibrary/DocumentLibrary/1.5</id>
     
       <published>2009-07-29T17:21:36Z</published>
     
@@ -186,8 +186,8 @@ the Zope 3 web application framework.</div>
   <entry>
     <title>documentlibrary ldapauth 1.5</title>
     <link rel="alternate" type="text/html"
-          href="http://infrae.com/download/DocumentLibrary/documentlibrary.ldapauth/1.5"/>
-    <id>http://infrae.com/download/DocumentLibrary/documentlibrary.ldapauth/1.5</id>
+          href="https://infrae.com/download/DocumentLibrary/documentlibrary.ldapauth/1.5"/>
+    <id>https://infrae.com/download/DocumentLibrary/documentlibrary.ldapauth/1.5</id>
     
       <published>2009-07-29T17:09:31Z</published>
     
@@ -210,8 +210,8 @@ the Zope 3 web application framework.</div>
   <entry>
     <title>OAI Document Library 1.3</title>
     <link rel="alternate" type="text/html"
-          href="http://infrae.com/download/DocumentLibrary/DocumentLibrary/1.3"/>
-    <id>http://infrae.com/download/DocumentLibrary/DocumentLibrary/1.3</id>
+          href="https://infrae.com/download/DocumentLibrary/DocumentLibrary/1.3"/>
+    <id>https://infrae.com/download/DocumentLibrary/DocumentLibrary/1.3</id>
     
       <published>2007-11-08T15:58:56Z</published>
     
@@ -234,8 +234,8 @@ the Zope 3 web application framework.</div>
   <entry>
     <title>OAI Document Library 1.2b2</title>
     <link rel="alternate" type="text/html"
-          href="http://infrae.com/download/DocumentLibrary/DocumentLibrary/1.2b2"/>
-    <id>http://infrae.com/download/DocumentLibrary/DocumentLibrary/1.2b2</id>
+          href="https://infrae.com/download/DocumentLibrary/DocumentLibrary/1.2b2"/>
+    <id>https://infrae.com/download/DocumentLibrary/DocumentLibrary/1.2b2</id>
     
       <published>2006-11-23T16:19:56Z</published>
     
@@ -258,8 +258,8 @@ the Zope 3 web application framework.</div>
   <entry>
     <title>OAI Document Library 1.2b1</title>
     <link rel="alternate" type="text/html"
-          href="http://infrae.com/download/DocumentLibrary/DocumentLibrary/1.2b1"/>
-    <id>http://infrae.com/download/DocumentLibrary/DocumentLibrary/1.2b1</id>
+          href="https://infrae.com/download/DocumentLibrary/DocumentLibrary/1.2b1"/>
+    <id>https://infrae.com/download/DocumentLibrary/DocumentLibrary/1.2b1</id>
     
       <published>2006-11-20T17:05:39Z</published>
     
@@ -282,8 +282,8 @@ the Zope 3 web application framework.</div>
   <entry>
     <title>OAI Document Library 1.1b</title>
     <link rel="alternate" type="text/html"
-          href="http://infrae.com/download/DocumentLibrary/DocumentLibrary/1.1b"/>
-    <id>http://infrae.com/download/DocumentLibrary/DocumentLibrary/1.1b</id>
+          href="https://infrae.com/download/DocumentLibrary/DocumentLibrary/1.1b"/>
+    <id>https://infrae.com/download/DocumentLibrary/DocumentLibrary/1.1b</id>
     
       <published>2006-05-03T09:54:19Z</published>
     

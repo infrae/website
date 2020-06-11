@@ -2,9 +2,9 @@
 <rdf:RDF xmlns="http://purl.org/rss/1.0/"
          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
          xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel rdf:about="http://infrae.com/download/silva_components">
+  <channel rdf:about="https://infrae.com/download/silva_components">
     <title>Silva Components</title>
-    <link>http://infrae.com/download/silva_components/rss.xml</link>
+    <link>https://infrae.com/download/silva_components/rss.xml</link>
     <description>Download areas for all of Infrae's open source products.</description>
     <dc:creator>sylvain</dc:creator>
     
@@ -12,31 +12,31 @@
     
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_components/silva.captcha/1.3.1"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_components/silva.pageactions.printfriendly/1.0.2"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_components/silva.captcha/1.3"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_components/silva.captcha/1.2"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_components/silva.captcha/1.0.1"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_components/silva.captcha/1.0"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_components/silva.batch/1.1"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_components/silva.pageactions.mailpdf/1.0.2"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_components/silva.pageactions.printfriendly/1.0.1"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_components/silva.pageactions.pdf/1.0.1"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_components/silva.pageactions.mailpdf/1.0.1"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_components/silva.pageactions.printfriendly/1.0"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_components/silva.pageactions.pdf/1.0"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_components/silva.pageactions.mailpdf/1.0"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_components/silva.pageactions.base/1.0"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_components/silva.captcha/1.2.1"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_components/silva.batch/1.0"/>
-        <rdf:li rdf:resource="http://infrae.com/download/silva_components/silva.captcha/1.1"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_components/silva.captcha/1.3.1"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_components/silva.pageactions.printfriendly/1.0.2"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_components/silva.captcha/1.3"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_components/silva.captcha/1.2"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_components/silva.captcha/1.0.1"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_components/silva.captcha/1.0"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_components/silva.batch/1.1"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_components/silva.pageactions.mailpdf/1.0.2"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_components/silva.pageactions.printfriendly/1.0.1"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_components/silva.pageactions.pdf/1.0.1"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_components/silva.pageactions.mailpdf/1.0.1"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_components/silva.pageactions.printfriendly/1.0"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_components/silva.pageactions.pdf/1.0"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_components/silva.pageactions.mailpdf/1.0"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_components/silva.pageactions.base/1.0"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_components/silva.captcha/1.2.1"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_components/silva.batch/1.0"/>
+        <rdf:li rdf:resource="https://infrae.com/download/silva_components/silva.captcha/1.1"/>
       </rdf:Seq>
     </items>
   </channel>
   
-    <item rdf:about="http://infrae.com/download/silva_components/silva.captcha/1.3.1">
+    <item rdf:about="https://infrae.com/download/silva_components/silva.captcha/1.3.1">
       <title>silva.captcha 1.3.1</title>
-      <link>http://infrae.com/download/silva_components/silva.captcha/1.3.1</link>
+      <link>https://infrae.com/download/silva_components/silva.captcha/1.3.1</link>
       <description>Captcha support for Silva</description>
       
       
@@ -48,9 +48,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_components/silva.pageactions.printfriendly/1.0.2">
+    <item rdf:about="https://infrae.com/download/silva_components/silva.pageactions.printfriendly/1.0.2">
       <title>silva.pageactions.printfriendly 1.0.2</title>
-      <link>http://infrae.com/download/silva_components/silva.pageactions.printfriendly/1.0.2</link>
+      <link>https://infrae.com/download/silva_components/silva.pageactions.printfriendly/1.0.2</link>
       <description>Display a simple printable version of the content in Silva.</description>
       
       
@@ -62,9 +62,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_components/silva.captcha/1.3">
+    <item rdf:about="https://infrae.com/download/silva_components/silva.captcha/1.3">
       <title>silva.captcha 1.3</title>
-      <link>http://infrae.com/download/silva_components/silva.captcha/1.3</link>
+      <link>https://infrae.com/download/silva_components/silva.captcha/1.3</link>
       <description>Captcha support for Silva</description>
       
       
@@ -76,9 +76,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_components/silva.captcha/1.2">
+    <item rdf:about="https://infrae.com/download/silva_components/silva.captcha/1.2">
       <title>silva.captcha 1.2</title>
-      <link>http://infrae.com/download/silva_components/silva.captcha/1.2</link>
+      <link>https://infrae.com/download/silva_components/silva.captcha/1.2</link>
       <description>Captcha support for Silva</description>
       
       
@@ -90,9 +90,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_components/silva.captcha/1.0.1">
+    <item rdf:about="https://infrae.com/download/silva_components/silva.captcha/1.0.1">
       <title>silva.captcha 1.0.1</title>
-      <link>http://infrae.com/download/silva_components/silva.captcha/1.0.1</link>
+      <link>https://infrae.com/download/silva_components/silva.captcha/1.0.1</link>
       <description>Captcha support for Silva</description>
       
       
@@ -104,9 +104,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_components/silva.captcha/1.0">
+    <item rdf:about="https://infrae.com/download/silva_components/silva.captcha/1.0">
       <title>silva.captcha 1.0</title>
-      <link>http://infrae.com/download/silva_components/silva.captcha/1.0</link>
+      <link>https://infrae.com/download/silva_components/silva.captcha/1.0</link>
       <description>Captcha support for Silva</description>
       
       
@@ -118,9 +118,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_components/silva.batch/1.1">
+    <item rdf:about="https://infrae.com/download/silva_components/silva.batch/1.1">
       <title>silva.batch 1.1</title>
-      <link>http://infrae.com/download/silva_components/silva.batch/1.1</link>
+      <link>https://infrae.com/download/silva_components/silva.batch/1.1</link>
       <description>Batch template for silva</description>
       
       
@@ -132,9 +132,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_components/silva.pageactions.mailpdf/1.0.2">
+    <item rdf:about="https://infrae.com/download/silva_components/silva.pageactions.mailpdf/1.0.2">
       <title>silva.pageactions.mailpdf 1.0.2</title>
-      <link>http://infrae.com/download/silva_components/silva.pageactions.mailpdf/1.0.2</link>
+      <link>https://infrae.com/download/silva_components/silva.pageactions.mailpdf/1.0.2</link>
       <description>Send the current by mail as a PDF.</description>
       
       
@@ -146,9 +146,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_components/silva.pageactions.printfriendly/1.0.1">
+    <item rdf:about="https://infrae.com/download/silva_components/silva.pageactions.printfriendly/1.0.1">
       <title>silva.pageactions.printfriendly 1.0.1</title>
-      <link>http://infrae.com/download/silva_components/silva.pageactions.printfriendly/1.0.1</link>
+      <link>https://infrae.com/download/silva_components/silva.pageactions.printfriendly/1.0.1</link>
       <description>Display a simple printable version of the content in Silva.</description>
       
       
@@ -160,9 +160,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_components/silva.pageactions.pdf/1.0.1">
+    <item rdf:about="https://infrae.com/download/silva_components/silva.pageactions.pdf/1.0.1">
       <title>silva.pageactions.pdf 1.0.1</title>
-      <link>http://infrae.com/download/silva_components/silva.pageactions.pdf/1.0.1</link>
+      <link>https://infrae.com/download/silva_components/silva.pageactions.pdf/1.0.1</link>
       <description>Create a PDF out of the current page in Silva.</description>
       
       
@@ -174,9 +174,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_components/silva.pageactions.mailpdf/1.0.1">
+    <item rdf:about="https://infrae.com/download/silva_components/silva.pageactions.mailpdf/1.0.1">
       <title>silva.pageactions.mailpdf 1.0.1</title>
-      <link>http://infrae.com/download/silva_components/silva.pageactions.mailpdf/1.0.1</link>
+      <link>https://infrae.com/download/silva_components/silva.pageactions.mailpdf/1.0.1</link>
       <description>Send the current by mail as a PDF.</description>
       
       
@@ -188,9 +188,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_components/silva.pageactions.printfriendly/1.0">
+    <item rdf:about="https://infrae.com/download/silva_components/silva.pageactions.printfriendly/1.0">
       <title>silva.pageactions.printfriendly 1.0</title>
-      <link>http://infrae.com/download/silva_components/silva.pageactions.printfriendly/1.0</link>
+      <link>https://infrae.com/download/silva_components/silva.pageactions.printfriendly/1.0</link>
       <description>Display a simple printable version of the content in Silva.</description>
       
       
@@ -202,9 +202,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_components/silva.pageactions.pdf/1.0">
+    <item rdf:about="https://infrae.com/download/silva_components/silva.pageactions.pdf/1.0">
       <title>silva.pageactions.pdf 1.0</title>
-      <link>http://infrae.com/download/silva_components/silva.pageactions.pdf/1.0</link>
+      <link>https://infrae.com/download/silva_components/silva.pageactions.pdf/1.0</link>
       <description>Create a PDF out of the current page in Silva.</description>
       
       
@@ -216,9 +216,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_components/silva.pageactions.mailpdf/1.0">
+    <item rdf:about="https://infrae.com/download/silva_components/silva.pageactions.mailpdf/1.0">
       <title>silva.pageactions.mailpdf 1.0</title>
-      <link>http://infrae.com/download/silva_components/silva.pageactions.mailpdf/1.0</link>
+      <link>https://infrae.com/download/silva_components/silva.pageactions.mailpdf/1.0</link>
       <description>Send the current by mail as a PDF.</description>
       
       
@@ -230,9 +230,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_components/silva.pageactions.base/1.0">
+    <item rdf:about="https://infrae.com/download/silva_components/silva.pageactions.base/1.0">
       <title>silva.pageactions.base 1.0</title>
-      <link>http://infrae.com/download/silva_components/silva.pageactions.base/1.0</link>
+      <link>https://infrae.com/download/silva_components/silva.pageactions.base/1.0</link>
       <description>Action on public pages in Silva.</description>
       
       
@@ -244,9 +244,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_components/silva.captcha/1.2.1">
+    <item rdf:about="https://infrae.com/download/silva_components/silva.captcha/1.2.1">
       <title>silva.captcha 1.2.1</title>
-      <link>http://infrae.com/download/silva_components/silva.captcha/1.2.1</link>
+      <link>https://infrae.com/download/silva_components/silva.captcha/1.2.1</link>
       <description>Captcha support for Silva</description>
       
       
@@ -258,9 +258,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_components/silva.batch/1.0">
+    <item rdf:about="https://infrae.com/download/silva_components/silva.batch/1.0">
       <title>silva.batch 1.0</title>
-      <link>http://infrae.com/download/silva_components/silva.batch/1.0</link>
+      <link>https://infrae.com/download/silva_components/silva.batch/1.0</link>
       <description>Batch template for silva</description>
       
       
@@ -272,9 +272,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/download/silva_components/silva.captcha/1.1">
+    <item rdf:about="https://infrae.com/download/silva_components/silva.captcha/1.1">
       <title>silva.captcha 1.1</title>
-      <link>http://infrae.com/download/silva_components/silva.captcha/1.1</link>
+      <link>https://infrae.com/download/silva_components/silva.captcha/1.1</link>
       <description>Captcha support for Silva</description>
       
       

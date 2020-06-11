@@ -2,9 +2,9 @@
 <rdf:RDF xmlns="http://purl.org/rss/1.0/"
          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
          xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel rdf:about="http://infrae.com/news">
+  <channel rdf:about="https://infrae.com/news">
     <title>Infrae News</title>
-    <link>http://infrae.com/news/rss.xml</link>
+    <link>https://infrae.com/news/rss.xml</link>
     <description>Infrae news items.</description>
     <dc:creator>unknown</dc:creator>
     
@@ -12,24 +12,24 @@
     
     <items>
       <rdf:Seq>
-        <rdf:li rdf:resource="http://infrae.com/news/filesystemsite_update_released"/>
-        <rdf:li rdf:resource="http://infrae.com/news/moving_to_GitHub"/>
-        <rdf:li rdf:resource="http://infrae.com/news/cmis_components_released"/>
-        <rdf:li rdf:resource="http://infrae.com/news/moai_server_2_0_released"/>
-        <rdf:li rdf:resource="http://infrae.com/news/silva_3_0_released"/>
-        <rdf:li rdf:resource="http://infrae.com/news/silva_3_0rc_released"/>
-        <rdf:li rdf:resource="http://infrae.com/news/moai_server_2_0_pre-release"/>
-        <rdf:li rdf:resource="http://infrae.com/news/silva_3_0b_released"/>
-        <rdf:li rdf:resource="http://infrae.com/news/silva_security_bulletin_04-10-11"/>
-        <rdf:li rdf:resource="http://infrae.com/news/moai_server_released_1_1_0"/>
-        <rdf:li rdf:resource="http://infrae.com/news/silva_2_3_released"/>
+        <rdf:li rdf:resource="https://infrae.com/news/filesystemsite_update_released"/>
+        <rdf:li rdf:resource="https://infrae.com/news/moving_to_GitHub"/>
+        <rdf:li rdf:resource="https://infrae.com/news/cmis_components_released"/>
+        <rdf:li rdf:resource="https://infrae.com/news/moai_server_2_0_released"/>
+        <rdf:li rdf:resource="https://infrae.com/news/silva_3_0_released"/>
+        <rdf:li rdf:resource="https://infrae.com/news/silva_3_0rc_released"/>
+        <rdf:li rdf:resource="https://infrae.com/news/moai_server_2_0_pre-release"/>
+        <rdf:li rdf:resource="https://infrae.com/news/silva_3_0b_released"/>
+        <rdf:li rdf:resource="https://infrae.com/news/silva_security_bulletin_04-10-11"/>
+        <rdf:li rdf:resource="https://infrae.com/news/moai_server_released_1_1_0"/>
+        <rdf:li rdf:resource="https://infrae.com/news/silva_2_3_released"/>
       </rdf:Seq>
     </items>
   </channel>
   
-    <item rdf:about="http://infrae.com/news/filesystemsite_update_released">
+    <item rdf:about="https://infrae.com/news/filesystemsite_update_released">
       <title>FileSystemSite Update Released</title>
-      <link>http://infrae.com/news/filesystemsite_update_released</link>
+      <link>https://infrae.com/news/filesystemsite_update_released</link>
       <description>&lt;p&gt;
 	Thanks to Alberto Berti for the fix.&lt;/p&gt;
 &lt;p class="plain"&gt;
@@ -45,9 +45,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/news/moving_to_GitHub">
+    <item rdf:about="https://infrae.com/news/moving_to_GitHub">
       <title>Code Moving to GitHub</title>
-      <link>http://infrae.com/news/moving_to_GitHub</link>
+      <link>https://infrae.com/news/moving_to_GitHub</link>
       <description>&lt;p&gt; Infrae is joining the GitHub age. During the month of December Infrae will move most of its source code in its Subversion and Mercurial repositories to GitHub. As of this writing all the packages that are in use for Silva 3.0 (as far as we know) have been&amp;#8230;&lt;/p&gt;</description>
       <dc:subject>All Infrae software is moving to GitHub.</dc:subject>
       
@@ -59,9 +59,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/news/cmis_components_released">
+    <item rdf:about="https://infrae.com/news/cmis_components_released">
       <title>CMIS Components for Plone Released</title>
-      <link>http://infrae.com/news/cmis_components_released</link>
+      <link>https://infrae.com/news/cmis_components_released</link>
       <description>&lt;p&gt;
 	Infrae has released three components into the Plone Collective to make integration with &lt;abbr title="Content Management Interoperability Services"&gt;CMIS&lt;/abbr&gt;-compliant systems such as Alfresco possible.&lt;/p&gt;
 
@@ -82,9 +82,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/news/moai_server_2_0_released">
+    <item rdf:about="https://infrae.com/news/moai_server_2_0_released">
       <title>MOAI 2.0 Released</title>
-      <link>http://infrae.com/news/moai_server_2_0_released</link>
+      <link>https://infrae.com/news/moai_server_2_0_released</link>
       <description>&lt;p&gt;
 	Today we released version 2.0 of MOAI, the OAI-PMH server platform. It&amp;#8217;s &lt;a class="link" target="_self" href="https://pypi.python.org/pypi/MOAI"&gt;available on PyPI&lt;/a&gt;.&lt;/p&gt;
 
@@ -99,9 +99,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/news/silva_3_0_released">
+    <item rdf:about="https://infrae.com/news/silva_3_0_released">
       <title>Silva 3.0 Released</title>
-      <link>http://infrae.com/news/silva_3_0_released</link>
+      <link>https://infrae.com/news/silva_3_0_released</link>
       <description>&lt;p&gt; Infrae is pleased to announce the release of Silva 3.0. The new architecture sports a state-of-the-art user interface, entirely Ajax-driven and much more userfriendly, responsive, and performant. Silva 3.0 also includes a new content editor running on top&amp;#8230;&lt;/p&gt;</description>
       <dc:subject>Silva 3.0 released with state-of-the-art user interface</dc:subject>
       
@@ -113,9 +113,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/news/silva_3_0rc_released">
+    <item rdf:about="https://infrae.com/news/silva_3_0rc_released">
       <title>Silva 3.0 RC Released</title>
-      <link>http://infrae.com/news/silva_3_0rc_released</link>
+      <link>https://infrae.com/news/silva_3_0rc_released</link>
       <description>&lt;p&gt; Infrae is pleased to announce the Release Candidate of Silva 3.0. This major new version sports a completely rebuilt and state-of-the-art user interface. It&amp;#8217;s entirely Ajax-driven and much more userfriendly, responsive, and performant. Silva 3.0 also incl&amp;#8230;&lt;/p&gt;</description>
       <dc:subject>Silva 3.0 released with state-of-the-art user interface</dc:subject>
       
@@ -127,9 +127,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/news/moai_server_2_0_pre-release">
+    <item rdf:about="https://infrae.com/news/moai_server_2_0_pre-release">
       <title>MOAI 2.0 pre-release</title>
-      <link>http://infrae.com/news/moai_server_2_0_pre-release</link>
+      <link>https://infrae.com/news/moai_server_2_0_pre-release</link>
       <description>&lt;p&gt;The MOAI 2.0 code has been updated (by Jasper Op de Coul). The new code is checked into the Mercurial repository at &lt;a class="link" title="" target="_self" href="https://hg.infrae.com/moai"&gt;https://hg.infrae.com/moai&lt;/a&gt;.&lt;/p&gt;
 </description>
       <dc:subject>MOAI, an Open Access Server Platform for Institutional Repositories</dc:subject>
@@ -142,9 +142,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/news/silva_3_0b_released">
+    <item rdf:about="https://infrae.com/news/silva_3_0b_released">
       <title>Silva 3.0 beta Released</title>
-      <link>http://infrae.com/news/silva_3_0b_released</link>
+      <link>https://infrae.com/news/silva_3_0b_released</link>
       <description>&lt;p&gt;Infrae is thrilled to announce the beta release of Silva 3.0. This major new version sports a completely rebuilt and state-of-the-art user interface. It&amp;#8217;s entirely Ajax-driven and much more userfriendly, responsive, and performant. Silva 3.0 also includes &amp;#8230;&lt;/p&gt;</description>
       <dc:subject>Silva 3.0 released with state-of-the-art user interface</dc:subject>
       
@@ -156,9 +156,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/news/silva_security_bulletin_04-10-11">
+    <item rdf:about="https://infrae.com/news/silva_security_bulletin_04-10-11">
       <title>Silva – Security vulnerabiity 20110928: Arbitrary Code Execution</title>
-      <link>http://infrae.com/news/silva_security_bulletin_04-10-11</link>
+      <link>https://infrae.com/news/silva_security_bulletin_04-10-11</link>
       <description>&lt;p&gt;Today there was a new release of Zope 2.12 and 2.13, fixing a security issue that could let people execute arbitrary code on the filesystem from any Zope 2 application without authentication. The security issue does not affect Zope 2.11 and so does not aff&amp;#8230;&lt;/p&gt;</description>
       <dc:subject>Infrae News</dc:subject>
       
@@ -170,9 +170,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/news/moai_server_released_1_1_0">
+    <item rdf:about="https://infrae.com/news/moai_server_released_1_1_0">
       <title>MOAI Server 1.1.0 Released</title>
-      <link>http://infrae.com/news/moai_server_released_1_1_0</link>
+      <link>https://infrae.com/news/moai_server_released_1_1_0</link>
       <description>&lt;p&gt;Infrae is pleased to announce the release of version 1.1.0 of the MOAI Server. &lt;acronym title="M+ Open Archives Initiative"&gt;MOAI&lt;/acronym&gt; is a platform that aggregates input from disparate sources and republishes it via the Open Archive Initiatives protocol for metadata harvesting. MOAI is built for instituti&amp;#8230;&lt;/p&gt;</description>
       <dc:subject>MOAI, an Open Access Server Platform for Institutional Repositories</dc:subject>
       
@@ -184,9 +184,9 @@
     </item>
   
   
-    <item rdf:about="http://infrae.com/news/silva_2_3_released">
+    <item rdf:about="https://infrae.com/news/silva_2_3_released">
       <title>Silva 2.3 Released</title>
-      <link>http://infrae.com/news/silva_2_3_released</link>
+      <link>https://infrae.com/news/silva_2_3_released</link>
       <description>&lt;p&gt;Infrae is pleased to announce the final
 release of Silva 2.3. This release contains a gamut of new features for
 users, system administrators, and developers. The most important changes for users are support for mobile skins based on browser detection, and &amp;#8230;&lt;/p&gt;</description>

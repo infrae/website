@@ -2,9 +2,9 @@
 <rdf:RDF xmlns="http://purl.org/rss/1.0/"
          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
          xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel rdf:about="http://infrae.com/download/OAI/MOAI">
+  <channel rdf:about="https://infrae.com/download/OAI/MOAI">
     <title>MOAI Server</title>
-    <link>http://infrae.com/download/OAI/MOAI/rss.xml</link>
+    <link>https://infrae.com/download/OAI/MOAI/rss.xml</link>
     <description>Download areas for all of Infrae's open source products.</description>
     <dc:creator>sylvain</dc:creator>
     
