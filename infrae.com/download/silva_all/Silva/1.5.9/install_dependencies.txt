@@ -56,5 +56,5 @@ Installing Silva 1.5.9 and dependencies from source
 7) Download and install Silva::
 
      cd $PREFIX/Products
-     wget http://www.infrae.com/download/Silva/1.5.9/Silva-1.5.9-all.tgz
+     wget https://infrae.com/download/Silva/1.5.9/Silva-1.5.9-all.tgz
      tar xzfv Silva-1.5.9-all.tgz
